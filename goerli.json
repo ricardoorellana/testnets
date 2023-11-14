@@ -7,12 +7,20 @@
   "timestamp": "2023-11-13T16:06:50.898+00:00",
   "tokens": [
     {
-      "name": "Wrapped Ether",
-      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-      "symbol": "WETH",
+      "name": "DAI",
+      "address": "0xE68104D83e647b7c1C15a91a8D8aAD21a51B3B3E",
+      "symbol": "DAI",
       "decimals": 18,
       "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/Badge_Dai.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 5,
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
     },
     {
       "name": "Uniswap",
@@ -21,6 +29,14 @@
       "decimals": 18,
       "chainId": 5,
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
     }
   ]
 }
