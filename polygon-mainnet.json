@@ -1,0 +1,270 @@
+{
+  "name": "Polygon Mainnet",
+  "logoURI": "",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2023-11-13T16:06:50.898+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "name": "Render Token",
+      "symbol": "RNDR",
+      "decimals": 18,
+      "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+      },
+      "logoURI": "https://assets.polygon.technology/tokenAssets/rndr.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "SingularityNET Token",
+      "symbol": "AGIX",
+      "decimals": 8,
+      "address": "0x190eb8a183d22a4bdf278c6791b152228857c033",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x5b7533812759b45c2b44c19e320ba2cd2681b542"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "Ocean Token",
+      "symbol": "OCEAN",
+      "decimals": 18,
+      "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "Mask Network",
+      "symbol": "MASK",
+      "decimals": 18,
+      "address": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "Ankr",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
+      },
+      "logoURI": "https://assets.polygon.technology/tokenAssets/ankr.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ],
+      "extensions": {
+        "rootAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x853d955acef822db058eb8505911ed77f175b99e"
+      },
+      "logoURI": "https://assets.polygon.technology/tokenAssets/frax.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "Wootrade Network",
+      "symbol": "WOO",
+      "decimals": 18,
+      "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+      },
+      "logoURI": "https://assets.polygon.technology/tokenAssets/woo.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "Tellor Tributes",
+      "symbol": "TRB",
+      "decimals": 18,
+      "address": "0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
+      "tags": [
+        "pos",
+        "erc20"
+      ],
+      "extensions": {
+        "rootAddress": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+      },
+      "logoURI": "https://assets.polygon.technology/tokenAssets/trb.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "iEx.ec Network Token",
+      "symbol": "RLC",
+      "decimals": 9,
+      "address": "0xbe662058e00849C3Eef2AC9664f37fEfdF2cdbFE",
+      "tags": [
+        "pos",
+        "erc20"
+      ],
+      "extensions": {
+        "rootAddress": "0x607f4c5bb672230e8672085532f7e901544a7375"
+      },
+      "logoURI": "https://assets.polygon.technology/tokenAssets/rlc.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "BandToken",
+      "symbol": "BAND",
+      "decimals": 18,
+      "address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
+      },
+      "logoURI": "https://assets.polygon.technology/tokenAssets/band.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "Golem Network Token",
+      "symbol": "GLM",
+      "decimals": 18,
+      "address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "UMA Voting Token v1",
+      "symbol": "UMA",
+      "decimals": 18,
+      "address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "API3",
+      "symbol": "API3",
+      "decimals": 18,
+      "address": "0x45C27821E80F8789b60Fd8B600C73815d34DDa6C",
+      "tags": [
+        "pos",
+        "erc20"
+      ],
+      "extensions": {
+        "rootAddress": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "Staked MATIC",
+      "symbol": "stMATIC",
+      "decimals": 18,
+      "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "PlayDapp Token",
+      "symbol": "PLA",
+      "decimals": 18,
+      "address": "0x8765f05adce126d70bcdf1b0a48db573316662eb",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ],
+      "extensions": {
+        "rootAddress": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430"
+      }
+    },
+    {
+      "chainId": 137,
+      "name": "Trace Token",
+      "symbol": "TRAC",
+      "decimals": 18,
+      "address": "0xA7b98d63a137bF402b4570799ac4caD0BB1c4B1c",
+      "tags": [
+        "pos",
+        "erc20"
+      ],
+      "extensions": {
+        "rootAddress": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+      }
+    }
+  ]
+}

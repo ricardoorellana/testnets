@@ -1,0 +1,458 @@
+{
+  "name": "Optimism Mainnet",
+  "logoURI": "",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2023-11-13T16:06:50.898+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x163f8C2467924be0ae7B5347228CABF260318753",
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "default",
+        "opTokenId": "WLD"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "WLD"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
+      "extensions": {
+        "opListId": "extended",
+        "opTokenId": "OP"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "default",
+        "opTokenId": "WBTC"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "WBTC"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
+        "opListId": "default",
+        "opTokenId": "WBTC"
+      }
+    },
+    {
+      "chainId": 420,
+      "address": "0xe0a592353e81a94Db6E3226fD4A99F881751776a",
+      "name": "Wrapped BTC L2",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "WBTC"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+      "name": "Perpetual",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "default",
+        "opTokenId": "PERP"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+      "name": "Perpetual",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "PERP"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x29DdacF754877123157e0eeed26770736B304d0C",
+      "name": "Perpetual",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
+        "opListId": "default",
+        "opTokenId": "PERP"
+      }
+    },
+    {
+      "chainId": 420,
+      "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+      "name": "Perpetual",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "PERP"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "extensions": {
+        "opListId": "default",
+        "opTokenId": "WETH"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "extensions": {
+        "opListId": "default",
+        "opTokenId": "WETH"
+      }
+    },
+    {
+      "chainId": 420,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "extensions": {
+        "opListId": "default",
+        "opTokenId": "WETH"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "extensions": {
+        "opListId": "default",
+        "opTokenId": "WETH"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "extensions": {
+        "opListId": "default",
+        "opTokenId": "WETH"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "default",
+        "opTokenId": "LUSD"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "LUSD"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+      "name": "FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/FRAX/logo.svg",
+      "extensions": {
+        "opListId": "extended",
+        "opTokenId": "FRAX"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+      "name": "FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/FRAX/logo.svg",
+      "extensions": {
+        "opListId": "extended",
+        "opTokenId": "FRAX"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+        "opListId": "default",
+        "opTokenId": "KNC"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "KNC"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1",
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "KNC"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+      "name": "USD+",
+      "symbol": "USD+",
+      "decimals": 6,
+      "logoURI": "https://ethereum-optimism.github.io/data/USDplus/logo.svg",
+      "extensions": {
+        "opListId": "extended",
+        "opTokenId": "USDplus"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+      "name": "BarnBridge Governance Token",
+      "symbol": "BOND",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "extended",
+        "opTokenId": "BOND"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+      "name": "BarnBridge Governance Token",
+      "symbol": "BOND",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "BOND"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+      "name": "Cartesi Token",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "extended",
+        "opTokenId": "CTSI"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
+      "name": "Cartesi Token",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "CTSI"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x76943C0D61395d8F2edF9060e1533529cAe05dE6",
+        "baseBridgeAddress": "0x9de443AdC5A411E83F1878Ef24C3F52C61571e72",
+        "opListId": "default",
+        "opTokenId": "wstETH"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x8E01013243a96601a86eb3153F0d9Fa4fbFb6957",
+        "opListId": "default",
+        "opTokenId": "wstETH"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "extensions": {
+        "baseBridgeAddress": "0xac9D11cD4D7eF6e54F14643a393F68Ca014287AB",
+        "opListId": "default",
+        "opTokenId": "wstETH"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
+      "name": "Lyra",
+      "symbol": "LYRA",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "default",
+        "opTokenId": "LYRA"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "name": "Lyra",
+      "symbol": "LYRA",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "LYRA"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+      "name": "dForce",
+      "symbol": "DF",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "extended",
+        "opTokenId": "DF"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+      "name": "dForce",
+      "symbol": "DF",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "DF"
+      }
+    }
+  ]
+}
