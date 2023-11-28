@@ -5,5 +5,166 @@
     "defi"
   ],
   "timestamp": "2023-11-13T16:06:50.898+00:00",
-  "tokens": []
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16547/thumb/photo_2023-03-29_21.47.00.jpeg?1696516109"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "name": "GMX",
+      "symbol": "GMX",
+      "decimals": 18,
+      "logoURI": "https://gmx.io/static/media/logo_GMX.b956aa96299daed10afbd3269f815fbb.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
+      "name": "DODO",
+      "symbol": "DODO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12651/thumb/dodo_logo.png?1696512458"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+      "name": "Joe Coin",
+      "symbol": "JOE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32333/thumb/joe.png?1697452551"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/gainsnetwork_32.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1696507857"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/Frax_Shares_icon.png?1696513183"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1696523595"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+      "name": "Magic",
+      "symbol": "MAGIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18623/thumb/magic.png?1696518095"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+      "name": "Radiant Capital",
+      "symbol": "RDNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26536/thumb/Radiant-Logo-200x200.png?1696525610"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/7137/thumb/logo-circle-green.png?1696507437"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1696503332"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f",
+      "name": "USDD",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14899/thumb/RwdVsGcw_400x400.jpg?1696514562"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/FRAX_icon.png?1696513182"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/lido_32.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+      "name": "WOO Network",
+      "symbol": "WOO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12921/thumb/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+      "name": "Gnosis",
+      "symbol": "GNO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/662/thumb/logo_square_simple_300px.png?1696501854"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
+      "name": "Spell",
+      "symbol": "SPELL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15861/thumb/abracadabra-3.png?1696515477"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+      "name": "Cartesi",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11038/thumb/Cartesi_Logo.png?1696510982"
+    }
+  ]
 }
