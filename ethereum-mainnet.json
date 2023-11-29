@@ -32,14 +32,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
-      "name": "Binance Coin  Wormhole ",
-      "symbol": "BNB",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22884/thumb/BNB_wh_small.png?1696522182"
-    },
-    {
-      "chainId": 1,
       "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
       "name": "BNB",
       "symbol": "BNB",
@@ -53,22 +45,6 @@
       "symbol": "FET",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/5681/thumb/Fetch.jpg?1696506140"
-    },
-    {
-      "chainId": 1,
-      "address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
-      "name": "TON Community",
-      "symbol": "TON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12334/thumb/ton.jpg?1696512162"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2be5e8c109e2197d077d13a82daead6a9b3433c5",
-      "name": "Tokamak Network",
-      "symbol": "TON",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12260/thumb/D919x5-s_400x400.png?1696512091"
     },
     {
       "chainId": 1,
@@ -168,14 +144,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5",
-      "name": "BabyDoge ETH",
-      "symbol": "BABYDOGE",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/17166/thumb/logo_256px_%281%29.png?1696516725"
-    },
-    {
-      "chainId": 1,
       "address": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
       "name": "Baby Doge Coin",
       "symbol": "BABYDOGE",
@@ -189,14 +157,6 @@
       "symbol": "FLOKI",
       "decimals": 9,
       "logoURI": "https://assets.coingecko.com/coins/images/16746/thumb/PNG_image.png?1696516318"
-    },
-    {
-      "chainId": 1,
-      "address": "0x67cc621ab2d086a101cff3340df0a065ac75827c",
-      "name": "Floki Musk",
-      "symbol": "FLOKI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18850/thumb/1632145919586.png?1696518311"
     },
     {
       "chainId": 1,
@@ -256,14 +216,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xce2b26bec3c6945f0922a983f3cfa11cd79176f4",
-      "name": "Elonium",
-      "symbol": "ELON",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/32642/thumb/ELONIUM.png?1698892015"
-    },
-    {
-      "chainId": 1,
       "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
       "name": "Dogelon Mars",
       "symbol": "ELON",
@@ -301,14 +253,6 @@
       "symbol": "TAMA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1696526541"
-    },
-    {
-      "chainId": 1,
-      "address": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0",
-      "name": "Maximus BASE",
-      "symbol": "BASE",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/27683/thumb/IMG_1131.PNG?1696526711"
     },
     {
       "chainId": 1,
@@ -408,14 +352,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5",
-      "name": "PlayChip",
-      "symbol": "PLA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4567/thumb/pla.png?1696505147"
-    },
-    {
-      "chainId": 1,
       "address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
       "name": "PlayDapp",
       "symbol": "PLA",
@@ -493,14 +429,6 @@
       "symbol": "BETA",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18715/thumb/beta_finance.jpg?1696518183"
-    },
-    {
-      "chainId": 1,
-      "address": "0x35f67c1d929e106fdff8d1a55226afe15c34dbe2",
-      "name": "Beta",
-      "symbol": "BETA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25539/thumb/Beta-47.png?1696524672"
     },
     {
       "chainId": 1,
@@ -799,14 +727,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x5c872500c00565505f3624ab435c222e558e9ff8",
-      "name": "CoTrader",
-      "symbol": "COT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4205/thumb/logo_black.png?1696504825"
-    },
-    {
-      "chainId": 1,
       "address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
       "name": "Cosplay Token",
       "symbol": "COT",
@@ -847,27 +767,11 @@
     },
     {
       "chainId": 1,
-      "address": "0xde4ce5447ce0c67920a1371605a39187cb6847c8",
+      "address": "0xB2021671E5a8C8695e017EbBab41999c3DCCFC7a",
       "name": "Deesse",
       "symbol": "LOVE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22524/thumb/GaqpKHEP_400x400.jpg?1696521847"
-    },
-    {
-      "chainId": 1,
-      "address": "0x5380442d3c4ec4f5777f551f5edd2fa0f691a27c",
-      "name": "UkraineDAO Flag NFT",
-      "symbol": "LOVE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24092/thumb/download_%282%29.png?1696523285"
-    },
-    {
-      "chainId": 1,
-      "address": "0xb55ee890426341fe45ee6dc788d2d93d25b59063",
-      "name": "Love io",
-      "symbol": "LOVE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33011/thumb/IMG_7458.png?1700124277"
     },
     {
       "chainId": 1,
@@ -919,35 +823,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x91a69021b0baef3445e51726458a0ce601471846",
-      "name": "Ethos Reserve Note",
-      "symbol": "ERN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29744/thumb/ERN200x200.png?1696528676"
-    },
-    {
-      "chainId": 1,
-      "address": "0x419777d3e39aa9b00405724eace5ea57620c9062",
-      "name": "PAW",
-      "symbol": "PAW",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32118/thumb/photo1701025138-removebg-preview.png?1701116947"
-    },
-    {
-      "chainId": 1,
       "address": "0xdc63269ea166b70d4780b3a11f5c825c2b761b01",
       "name": "PAWSWAP",
       "symbol": "PAW",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/28946/thumb/PawLogo.png?1699394612"
-    },
-    {
-      "chainId": 1,
-      "address": "0x1aa51bc7eb181ce48ce626bf62f8956fa9555136",
-      "name": "PAWZONE",
-      "symbol": "PAW",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29598/thumb/PAW_Token_Logo.png?1696528536"
     },
     {
       "chainId": 1,
@@ -964,14 +844,6 @@
       "symbol": "SRM",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/11970/thumb/serum-logo.png?1696511829"
-    },
-    {
-      "chainId": 1,
-      "address": "0x99b600d0a4abdbc4a6796225a160bcf3d5ce2a89",
-      "name": "Solareum",
-      "symbol": "SRM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30072/thumb/green_lrg_transparent.png?1696528993"
     },
     {
       "chainId": 1,
@@ -1004,22 +876,6 @@
       "symbol": "MTC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/4177/thumb/2711.png?1696504799"
-    },
-    {
-      "chainId": 1,
-      "address": "0x1234567461d3f8db7496581774bd869c83d51c93",
-      "name": "BitClave",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/1585/thumb/bitclave.png?1696502618"
-    },
-    {
-      "chainId": 1,
-      "address": "0x02d7a93829b365b7ad4c582dace1493aac50a290",
-      "name": "Scat",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/30429/thumb/output-onlinepngtools.png?1696529317"
     },
     {
       "chainId": 1,
