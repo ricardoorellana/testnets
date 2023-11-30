@@ -17,7 +17,7 @@
     {
       "chainId": 137,
       "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-      "name": "",
+      "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://polygonscan.com/token/images/tether_32.png"
@@ -105,7 +105,7 @@
     {
       "chainId": 137,
       "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
-      "name": "",
+      "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
@@ -153,7 +153,7 @@
     {
       "chainId": 137,
       "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
-      "name": "",
+      "name": "yearn.finance",
       "symbol": "YFI",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/yearn-yfi_32.png"
@@ -177,7 +177,7 @@
     {
       "chainId": 137,
       "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
-      "name": "",
+      "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/comp_32.png"
@@ -185,7 +185,7 @@
     {
       "chainId": 137,
       "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
-      "name": "",
+      "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://polygonscan.com/token/images/wBTC_32.png"
@@ -877,14 +877,6 @@
       "symbol": "CTI",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/clintex_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xd2863157539b1d11f39ce23fc4834b62082f6874",
-      "name": "Forta Staking",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/fortanetwork2_32.png"
     },
     {
       "chainId": 137,
@@ -3416,14 +3408,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x808ed3e23aac685126524aa4416d8eaeb2e767b9",
-      "name": "Wearing Your Emotions",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/wearingyouremotions_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x9ec9551d4a1a1593b0ee8124d98590cc71b3b09d",
       "name": "USD Coin Hop Token",
       "symbol": "hUSDC",
@@ -3456,83 +3440,11 @@
     },
     {
       "chainId": 137,
-      "address": "0xcf501ead3ebfa60f40725fca1d82fc05bff63bf2",
-      "name": "TOWER Battle Cards",
-      "symbol": "TOWERTBC",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/towerbattlecards_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x81a306f8233b260a5a2e699f972ec60d4b80ef60",
-      "name": "The Smurfs’ Society Statuettes",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/smurfsocietystatue_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x48c75fbf0452fa8ff2928ddf46b0fe7629cca2ff",
-      "name": "The Smurfs Society Ingredients and Potions",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/smurfingredientsportion_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x466a330887bdf62d53f968ea824793150f07762e",
-      "name": "The Singularity",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/thesingularity_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x8d0501d85becda92b89e56177ddfcea5fc1f0af2",
-      "name": "The Senses",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/thesenses_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x6ad08588568e258b2bdf065e7769fce398f68a1c",
-      "name": "The Mind's Eye",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/creatureswithoutpants_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xfbed9640e37666fe2ac78e1d263670976354cb69",
-      "name": "The Butterfly Garden",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/butterflygarden_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x9f93aca246f457916e49ec923b8ed099e313f763",
       "name": "Tether USD Hop Token",
       "symbol": "hUSDT",
       "decimals": 6,
       "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0x2b458de05f8a96df6732813d23cea6a44cd99abf",
-      "name": "TEST_NAME",
-      "symbol": "TEST_SYMBOL",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/lympo_32.jpg"
-    },
-    {
-      "chainId": 137,
-      "address": "0x22d5f9b75c524fec1d6619787e582644cd4d7422",
-      "name": "Sunflower Land Inventory",
-      "symbol": "SLI",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/sunflowerland_32.png"
     },
     {
       "chainId": 137,
@@ -3544,230 +3456,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xe1b5e23fdbc003aec16e6e79726a0b5f75ff93f5",
-      "name": "Spooky Season: tfoust10",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcaspookyseasontfoust10_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x81ba34b90876f42f34a4f232cfc0fe4b6ec949a3",
-      "name": "Spooky Season: StutterVoid",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcaspookyseasonstutterVoid_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x621ce7e7e44d43a428a183d5390c4f4572c9ff9d",
-      "name": "Spooky Season: eando9745",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcaspookyseasoneando9745_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xe4989961ebfdac3e65fcf0059c916452c77d8503",
-      "name": "Spooky Season WorstTwitchEver",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/worsttwitchever_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x150afa2dfcaaada471472dfa6ad4b79e718a197c",
-      "name": "Spooky Season TreasureOfOphiel",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasontreasurerca_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x45ee1caed83525673843321107bccadecb9065d7",
-      "name": "Spooky Season tirli",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/tirli_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x0985cb10c5d57dbf44aa473f33839ed38d80f111",
-      "name": "Spooky Season TheFattyBagz",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/thefattybagz_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x37db2523d221d19838632eb62d1af911e52632c3",
-      "name": "Spooky Season tandizojere",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/tandizojere_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xdaa6e4ba2d4022ed820460bb501b9e061d9614fb",
-      "name": "Spooky Season Sys32Template",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasonsys_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x5fd4d6fef3b87b91c7df8658727b5edd7210cf5a",
-      "name": "Spooky Season Substantial-Law-910",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/substantiallaw910_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x3e4627665bf2e52c69be03788e664ab545f2be71",
-      "name": "Spooky Season Rojom",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasonrojom_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xbc096988fa38c78d65c0637453fd3d3c38b1cfd4",
-      "name": "Spooky Season RaunchyRancor",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/raunchyrancor_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x04f087e3191d7a050800a2e04cb20046d2633e35",
-      "name": "Spooky Season puzzled__panther",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/puzzledpanther_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x2e90e8af4c319095942c84cfa446e1f206795517",
-      "name": "Spooky Season oana193",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/oana193_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x334ad326a787dd332f26cbe8b4d7adfa8bd25f92",
-      "name": "Spooky Season Laura_Dumitriu",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/lauradumitriu_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x83feea011baeb1c6d1df7d23903efad83d3c781f",
-      "name": "Spooky Season Hoppy_Doodle",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/hoppydoodle_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xc70a7496716b3e25546901fe88215531abbd5a10",
-      "name": "Spooky Season Genuine Ardvark",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasongenuineardvark_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xfec90bc707fc93aefeb0c18c2eb56bc79d32163e",
-      "name": "Spooky Season fmarxy",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasonfmary_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x8264e2bad3d2f7afd72a00233b9f841fe4b388cd",
-      "name": "Spooky Season Earth To Planet",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasonearthtoplanet_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xd5ae5a16fbaf964f96e242645a4a6f10b98fd0c4",
-      "name": "Spooky Season dubbl3bee",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/dubbl3bee_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x3458161f2dc5d7eafa48e7c8d9acd7f415cf6da6",
-      "name": "Spooky Season Conall-in-Space",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasonconallinspace_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x04f7a676af597f847053b6c02ed42d02fa4046aa",
-      "name": "Spooky Season Canetoonist",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasoncanetoonist_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x7e680862c572e4b945cf45912130c8d884109b59",
-      "name": "Spooky Season bodegacatceo",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/bodegacatceo_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x21d426e2b88fbf8b93adf0591a2d5b08d58f089f",
-      "name": "Spooky Season BaldTuesdays",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/baldtuesdays_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xddbdb65138131dbf2d01b4a5140e1979680c90bb",
-      "name": "Spooky Season AliciaFreemanDesigns",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/tirli_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x04125a97a0f2583cd485be2c34b651cc13c38a27",
-      "name": "Spooky Season",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/avirenft_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x91ac106090fe2b0fa7d01efdf4487a5bfafad7fa",
-      "name": "Spooky Season",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/spookyseasonreddit_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x631998e91476da5b870d741192fc5cbc55f5a52e",
-      "name": "Skyweaver",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/skyweaver_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x7c4a54f5d20b4023d6746f1f765f4dfe7c39a7e6",
       "name": "renDOGE",
       "symbol": "renDOGE",
@@ -3776,35 +3464,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x622d8fea4603ba9edaf1084b407052d8b0a9bed7",
-      "name": "Reddit Cup 2022",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/redditcup2022_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xc8d3a3a83bde5dad06d436694e3e22ac3e64d577",
-      "name": "Reddit Collectible Avatars",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/redditcap_32.PNG"
-    },
-    {
-      "chainId": 137,
       "address": "0x121ef177a0489271b4339bc29ee64609b47d43c4",
       "name": "pTokens BTC",
       "symbol": "pBTC",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/ptokensbtc_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x2956409293da98603025cc0121c06a4244752039",
-      "name": "Protectors of the Forest",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/protectorsofforestrca_32.png"
     },
     {
       "chainId": 137,
@@ -3821,46 +3485,6 @@
       "symbol": "FLIP",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/polyflip_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x3376c61c450359d402f07909bda979a4c0e6c32f",
-      "name": "Planet IX - Gravity Grade",
-      "symbol": "PIX-GG",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/planetixgravity_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x2a97d591b509346056d2b89a36cf635bfd816323",
-      "name": "PipeFlare Gaming",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/pipeflaregaming_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x27996b7f37a5455e41ae6292fd00d21df1fb82f1",
-      "name": "Phi Material Object",
-      "symbol": "Phi-MOS",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/phimaterialobject_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x95fcb7f46f1e652fdf23db087c0f24011775be00",
-      "name": "Phantom Galaxies Origin Collection",
-      "symbol": "PGOGC",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/phantomgalaxies_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xd6261320f49d38c137f6e229a2ea4ab0f4fae6de",
-      "name": "Peculiar Gang",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/peculiargang_32.png"
     },
     {
       "chainId": 137,
@@ -3904,14 +3528,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
-      "name": "OpenSea Collections",
-      "symbol": "OPENSTORE",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/opensea_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0xff2382bd52efacef02cc895bcbfc4618608aa56f",
       "name": "One Rare Token",
       "symbol": "ORARE",
@@ -3920,43 +3536,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x4670e4890bc1b76f3ae5c7660aa98e0b6668c6f3",
-      "name": "Old School Cool",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/oldschoolcoolrca_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xe47654ee643bb0df0f9a02ed08868b037876a606",
-      "name": "OKX Crypto Cricket Cup",
-      "symbol": "CCC",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/okxccc_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x05f024c6f5a94990d32191d6f36211e3ee33504e",
       "name": "NFTY Token",
       "symbol": "anyNFTY",
       "decimals": 18,
       "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0x946ad8e53db653053e8ef7c02dfca83ce8ba8022",
-      "name": "Natsukashii",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/natsukashii_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x5c76677fea2bf5dd37e4f1460968a23a537e3ee3",
-      "name": "Mocaverse Realm Ticket",
-      "symbol": "TICKET",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/mocaverse_32.jpg"
     },
     {
       "chainId": 137,
@@ -3973,22 +3557,6 @@
       "symbol": "anyMSU",
       "decimals": 18,
       "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0xa3396af20ce52bd3c7ab6d7046be617257f60eb9",
-      "name": "Memetic Traders",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/redditcamemetictrader_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xb9c042c3275bc49799688eea1a29b1405d02946b",
-      "name": "Meme Team",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/meme_32.png"
     },
     {
       "chainId": 137,
@@ -4024,30 +3592,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xd8cf23bf309de778609d234bd2410b0156118c26",
-      "name": "Magic of the Woods",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcamagicofthewoods_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xc5aa1f91b0d52e26d2847f8e51f505d6e2ece795",
-      "name": "Lightspeed Lads",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcalightspeedlads_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xafdba94bf6f5ef00271d768b436be49a8883d918",
-      "name": "Life Beyond",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/playlifebeyond_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x124f09492c62fd0d86d1e8d71c949720941ef914",
       "name": "Lepasa",
       "symbol": "anyLEPA",
@@ -4061,14 +3605,6 @@
       "symbol": "L3USD",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/l3usd_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xa0c68c638235ee32657e8f720a23cec1bfc77c77",
-      "name": "L1 Pos Root Chain Manager",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4149,14 +3685,6 @@
       "symbol": "anyKEYFI",
       "decimals": 18,
       "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0xf43bc3f4f1edb7d4c373c8510a2888d69d83ceb7",
-      "name": "Joy Girls Club",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/joygirlsclub_32.png"
     },
     {
       "chainId": 137,
@@ -4344,22 +3872,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x5846728730366d686cdc95dae80a70b44ec9eab2",
-      "name": "Imagination Station",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcaimaginationstation_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x65a83530ca8abc27969907913fe5e641a5da2e9f",
-      "name": "I quit my job to be an Artist",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/iquitemyjobtobeanartist_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x3ca3218d6c52b640b0857cc19b69aa9427bc842c",
       "name": "Hop USDT LP Token",
       "symbol": "HOP-LP-USDT",
@@ -4408,27 +3920,11 @@
     },
     {
       "chainId": 137,
-      "address": "0xee1ee80338958fa596471ceb70f0177daff80323",
-      "name": "Growl Gang",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcagrowlgang_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x714db550b574b3e927af3d93e26127d15721d4c2",
       "name": "GreenMetaverseToken",
       "symbol": "GMT",
       "decimals": 8,
       "logoURI": "https://polygonscan.com/token/images/gasheroofc_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xfc190440e8f357ffe8a75940e7d8a291e165d019",
-      "name": "Gettin' Groovy",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/gettingroovy_32.png"
     },
     {
       "chainId": 137,
@@ -4440,27 +3936,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x907808732079863886443057c65827a0f1c64357",
-      "name": "Foustlings",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/foustlings_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x1fdeaf938267ca43388ed1fdb879eaf91e920c7a",
       "name": "ETH Hop Token",
       "symbol": "hETH",
       "decimals": 18,
       "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0x63e2f0c058ce9a194ec68f04320b7eb8ca555bd3",
-      "name": "Enlightenment",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/enlightenment_32.png"
     },
     {
       "chainId": 137,
@@ -4477,30 +3957,6 @@
       "symbol": "EEUR",
       "decimals": 6,
       "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0xbfd670667053e517a97afe56c91e4f83f1160bd3",
-      "name": "Drip Squad",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/dripsquad_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xe0743141df04a6b9f3df890429cc994e46db03d9",
-      "name": "Drag Queens of Big Gay Baby",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/dragqueensbabyrca_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x45308788743bbdae5de7ba9e565c0502d0ebb81f",
-      "name": "Doodle Collection",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/doodlecollection_32.png"
     },
     {
       "chainId": 137,
@@ -4536,75 +3992,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x47749c5b970e63f3a0ed57cd6cef773e74fafe9d",
-      "name": "Cute, Cool and Creepy",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/cutecoolcreepy_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x91e51b92a2efea89bf1b6f66ad719737264724be",
-      "name": "Cute Snacks",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/cutesnacks_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xb27bbc8f0092284a880d1616f184d86c1a640fae",
-      "name": "Crypto Unicorns: Shadowcorns",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/cryptounicornsnft_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xb6041EAe62C4591458AF480679c6A497EDA6CfcD",
-      "name": "Cross the Ages - Arkhante Booster Premium Pack",
-      "symbol": "CTAPRM",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/corsstheages_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x6ded90082c7c8c0bce1b7c14d1e60527dee4a44c",
       "name": "CriptonoBolso",
       "symbol": "CNB",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/criptonobolso_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x838c1cd42929543daf9c3ef294fee8c1b3224b37",
-      "name": "Creatures Without Pants",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/creatureswithoutpants_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x97439ee4c93ff9f76417696ce648aa6f35ab3b25",
-      "name": "Creatures of the Nighties",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcacreaturesofthenights_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xa7a92b3502c3fd9a10c439e9b53d6ddbb5ed183f",
-      "name": "Cool Cats Avatar Wearables",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/coolcatswearables_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x68df8633f15699f9d44048e97067aa37a71e245a",
-      "name": "Chumbi Valley Founders Collection",
-      "symbol": "CVFC",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/chumbivalleyfounders_32.png"
     },
     {
       "chainId": 137,
@@ -4616,43 +4008,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x71dc46607f31f30510f0ccc670b0963f431b212a",
-      "name": "Celestial Assembly",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/celestialassembly_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x4bb5b2461e9ef782152c3a96698b2a4cf55b6162",
-      "name": "Bumpkin Wearables",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/bumpkins_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x44b3f42e2bf34f62868ff9e9dab7c2f807ba97cb",
-      "name": "BoomLand - Shards",
-      "symbol": "Shards",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/boomlandshards_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x6fF02133867e931499bca4E38F0aA8afA651e213",
       "name": "Blue Parrot Egg",
       "symbol": "BPEGG",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/blueparrotegg_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xa7bb50d90b43752199c45be04053641c3cb5f53f",
-      "name": "Bites of Brazil",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/bitesofbrazil_32.png"
     },
     {
       "chainId": 137,
@@ -4672,14 +4032,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x6d1c3646e8cce8537e6ec9ecab26762bfaf1f891",
-      "name": "Baked Goods & Evils",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/bakedgoodsevils_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
       "name": "Backed IBTA $ Treasury Bond 1-3yr",
       "symbol": "bIBTA",
@@ -4693,14 +4045,6 @@
       "symbol": "bIB01",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/bIb01_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x2d58a44d6c0a355de25761fb33a1f6269a97e2c5",
-      "name": "Aylia",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/rcaaylia_32.png"
     },
     {
       "chainId": 137,
@@ -4760,35 +4104,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x6acb8fb82880d39c2b8446f8778a14d34ee6cfb7",
-      "name": "Aww Friends",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/awwfriends_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x425bf054ef7bad65b7bdd8e6587b1c3500e4f4ca",
-      "name": "Avatar Rock Out",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/avatarrockout_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x4f851750a3e6f80f1e1f89c67b56960bfc29a934",
       "name": "Autonio",
       "symbol": "anyNIOX",
       "decimals": 4,
       "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0x66d1bbf7Ad44491468465F56bf092F74ff84d6Ef",
-      "name": "Arkhante Booster Premium Pack",
-      "symbol": "CTAPRM",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/corsstheages_32.png"
     },
     {
       "chainId": 137,
@@ -4816,43 +4136,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x86935f11c86623dec8a25696e1c19a8659cbf95d",
-      "name": "Aavegotchi",
-      "symbol": "GOTCHI",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/aavegotchighst_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
       "name": "Aave Polygon SUSHI",
       "symbol": "aPolSUSHI",
       "decimals": 18,
       "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0x27b37e4befacc50b02102d1e2117c4ea8a54beff",
-      "name": "5 Boro Bodega",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/5borobodega_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x161de8f0b9a59c8197e152da422b9031d3eaf338",
-      "name": "",
-      "symbol": "anyWBTC",
-      "decimals": 8,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
-      "address": "0x57a9b65ceac6c5ee0cec8cd4571a7c3805b558d8",
-      "name": "",
-      "symbol": "",
-      "decimals": "",
-      "logoURI": "https://polygonscan.com/token/images/piratenation_32.png"
     },
     {
       "chainId": 137,
