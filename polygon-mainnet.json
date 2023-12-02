@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2023-11-30T14:53:50.898+00:00",
+  "timestamp": "2023-12-02T12:43:50.898+00:00",
   "tokens": [
     {
       "chainId": 137,
@@ -24,27 +24,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-      "name": "USD Coin",
-      "symbol": "USDC.e",
-      "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://polygonscan.com/token/images/usdc_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
-      "name": "ChainLink Token",
-      "symbol": "LINK",
-      "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png?v=6"
     },
     {
       "chainId": 137,
@@ -413,6 +397,14 @@
       "symbol": "BAND",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/bandtoken_32.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "name": "USD Coin Bridged",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
     },
     {
       "chainId": 137,
@@ -1792,6 +1784,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+      "name": "ChainLink Token Bridged",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png?v=6"
+    },
+    {
+      "chainId": 137,
       "address": "0x8f36cc333f55b09bb71091409a3d7ade399e3b1c",
       "name": "Cherry Token",
       "symbol": "CHER",
@@ -2089,7 +2089,7 @@
     {
       "chainId": 137,
       "address": "0xdf00c50a3dae240860f57b77508203b8d9593283",
-      "name": "IceToken",
+      "name": "IceToken Bridged",
       "symbol": "ICE",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/popsiclefinance_32.png"
@@ -3400,14 +3400,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xdfb5a6b5136186f4ffcf3fe055b48f27793cdbd2",
-      "name": "YIN Finance",
-      "symbol": "anyYIN",
-      "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
-    },
-    {
-      "chainId": 137,
       "address": "0x9ec9551d4a1a1593b0ee8124d98590cc71b3b09d",
       "name": "USD Coin Hop Token",
       "symbol": "hUSDC",
@@ -3925,14 +3917,6 @@
       "symbol": "GMT",
       "decimals": 8,
       "logoURI": "https://polygonscan.com/token/images/gasheroofc_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x104592a158490a9228070e0a8e5343b499e125d0",
-      "name": "Frax",
-      "symbol": "FRAX",
-      "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/fraxpos_32.png"
     },
     {
       "chainId": 137,
