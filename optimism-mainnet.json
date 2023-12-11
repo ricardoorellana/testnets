@@ -12,7 +12,7 @@
       "name": "Worldcoin",
       "symbol": "WLD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wld.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "opListId": "default",
@@ -25,7 +25,7 @@
       "name": "Worldcoin",
       "symbol": "WLD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wld.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -38,7 +38,7 @@
       "name": "Optimism",
       "symbol": "OP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/op.png",
       "extensions": {
         "opListId": "extended",
         "opTokenId": "OP"
@@ -50,7 +50,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wbtc.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "opListId": "default",
@@ -63,7 +63,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wbtc.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -76,7 +76,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wbtc.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
         "opListId": "default",
@@ -89,7 +89,7 @@
       "name": "Wrapped BTC L2",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wbtc.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -102,7 +102,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/perp.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "opListId": "default",
@@ -115,7 +115,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/perp.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -128,7 +128,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/perp.png",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8",
         "opListId": "default",
@@ -141,7 +141,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/perp.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -154,7 +154,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/weth.png",
       "extensions": {
         "opListId": "default",
         "opTokenId": "WETH"
@@ -166,7 +166,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/weth.png",
       "extensions": {
         "opListId": "default",
         "opTokenId": "WETH"
@@ -178,7 +178,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/weth.png",
       "extensions": {
         "opListId": "default",
         "opTokenId": "WETH"
@@ -190,7 +190,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/weth.png",
       "extensions": {
         "opListId": "default",
         "opTokenId": "WETH"
@@ -202,7 +202,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/weth.png",
       "extensions": {
         "opListId": "default",
         "opTokenId": "WETH"
@@ -214,7 +214,7 @@
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/lusd.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "opListId": "default",
@@ -227,7 +227,7 @@
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/lusd.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -240,7 +240,7 @@
       "name": "FRAX",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/FRAX/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/frax.svg",
       "extensions": {
         "opListId": "extended",
         "opTokenId": "FRAX"
@@ -252,7 +252,7 @@
       "name": "FRAX",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/FRAX/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/frax.svg",
       "extensions": {
         "opListId": "extended",
         "opTokenId": "FRAX"
@@ -264,7 +264,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/knc.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "baseBridgeAddress": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
@@ -278,7 +278,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/knc.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -291,7 +291,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/knc.png",
       "extensions": {
         "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -304,7 +304,7 @@
       "name": "USD+",
       "symbol": "USD+",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDplus/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/usd+.svg",
       "extensions": {
         "opListId": "extended",
         "opTokenId": "USDplus"
@@ -316,7 +316,7 @@
       "name": "BarnBridge Governance Token",
       "symbol": "BOND",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/bond.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "opListId": "extended",
@@ -329,7 +329,7 @@
       "name": "BarnBridge Governance Token",
       "symbol": "BOND",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/bond.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "extended",
@@ -342,7 +342,7 @@
       "name": "Cartesi Token",
       "symbol": "CTSI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/ctsi.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "opListId": "extended",
@@ -355,7 +355,7 @@
       "name": "Cartesi Token",
       "symbol": "CTSI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/ctsi.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "extended",
@@ -368,7 +368,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wsteth.svg",
       "extensions": {
         "optimismBridgeAddress": "0x76943C0D61395d8F2edF9060e1533529cAe05dE6",
         "baseBridgeAddress": "0x9de443AdC5A411E83F1878Ef24C3F52C61571e72",
@@ -382,7 +382,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wsteth.svg",
       "extensions": {
         "optimismBridgeAddress": "0x8E01013243a96601a86eb3153F0d9Fa4fbFb6957",
         "opListId": "default",
@@ -395,7 +395,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wsteth.svg",
       "extensions": {
         "baseBridgeAddress": "0xac9D11cD4D7eF6e54F14643a393F68Ca014287AB",
         "opListId": "default",
@@ -408,7 +408,7 @@
       "name": "Lyra",
       "symbol": "LYRA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/lyra.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "opListId": "default",
@@ -421,7 +421,7 @@
       "name": "Lyra",
       "symbol": "LYRA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/lyra.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
@@ -434,7 +434,7 @@
       "name": "dForce",
       "symbol": "DF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/df.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
         "opListId": "extended",
@@ -447,7 +447,7 @@
       "name": "dForce",
       "symbol": "DF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/df.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "extended",
