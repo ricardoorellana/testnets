@@ -4,7 +4,7 @@
 <path d="M23.5 12C23.5 18.3513 18.3513 23.5 12 23.5C5.64873 23.5 0.5 18.3513 0.5 12C0.5 5.64873 5.64873 0.5 12 0.5C18.3513 0.5 23.5 5.64873 23.5 12Z" stroke="black" stroke-opacity="0.097"/>
 <defs>
 <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(5.40504 7.85664) scale(19.9205)">
-<stop stop-color="#1055FF"/>
+<stop stop-color="#1055FF" offset="0%"/>
 <stop offset="0.404" stop-color="#579AFC"/>
 <stop offset="0.4353" stop-color="#6D95FA"/>
 <stop offset="0.5068" stop-color="#998BF7"/>
