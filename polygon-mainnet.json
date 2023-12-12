@@ -4,7 +4,7 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2023-12-08T00:46:14.924+00:00",
+  "timestamp": "2023-12-02T12:43:50.898+00:00",
   "tokens": [
     {
       "chainId": 137,
@@ -12,7 +12,7 @@
       "name": "BAT",
       "symbol": "BAT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bat.svg"
+      "logoURI": "https://polygonscan.com/token/images/bat.png"
     },
     {
       "chainId": 137,
@@ -20,7 +20,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usdt.svg"
+      "logoURI": "https://polygonscan.com/token/images/tether_32.png"
     },
     {
       "chainId": 137,
@@ -28,7 +28,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usdc.svg"
+      "logoURI": "https://polygonscan.com/token/images/usdc_32.png"
     },
     {
       "chainId": 137,
@@ -36,7 +36,7 @@
       "name": "ChainLink Token",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/link.svg"
+      "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png"
     },
     {
       "chainId": 137,
@@ -44,7 +44,7 @@
       "name": "Matic Token",
       "symbol": "MATIC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/matic.svg"
+      "logoURI": "https://polygonscan.com/token/images/polygonmatic_new_32.png"
     },
     {
       "chainId": 137,
@@ -52,7 +52,7 @@
       "name": "BNB",
       "symbol": "BNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bnb.svg"
+      "logoURI": "https://polygonscan.com/token/images/bnb_28_2.png"
     },
     {
       "chainId": 137,
@@ -60,7 +60,7 @@
       "name": "Avalanche Token",
       "symbol": "AVAX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/avax.png"
+      "logoURI": "https://polygonscan.com/token/images/avaxbtt_32.png"
     },
     {
       "chainId": 137,
@@ -68,7 +68,7 @@
       "name": "Wrapped UST Token",
       "symbol": "UST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ust.png"
+      "logoURI": "https://polygonscan.com/token/images/terra-ust_32.png"
     },
     {
       "chainId": 137,
@@ -76,7 +76,7 @@
       "name": "SHIBA INU",
       "symbol": "SHIB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/shib.svg"
+      "logoURI": "https://polygonscan.com/token/images/shibainu_32.png"
     },
     {
       "chainId": 137,
@@ -84,7 +84,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/uni.svg"
+      "logoURI": "https://polygonscan.com/token/images/uniswap_32.png"
     },
     {
       "chainId": 137,
@@ -92,7 +92,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dai.svg"
+      "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
     },
     {
       "chainId": 137,
@@ -100,7 +100,7 @@
       "name": "TrueUSD",
       "symbol": "TUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/tusd.svg"
+      "logoURI": "https://polygonscan.com/token/images/trueusd_32.png"
     },
     {
       "chainId": 137,
@@ -108,7 +108,7 @@
       "name": "Swipe",
       "symbol": "SXP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sxp.svg"
+      "logoURI": "https://polygonscan.com/token/images/swipe_32.png"
     },
     {
       "chainId": 137,
@@ -116,7 +116,7 @@
       "name": "Mask Network",
       "symbol": "MASK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mask.png"
+      "logoURI": "https://polygonscan.com/token/images/mask_32.png"
     },
     {
       "chainId": 137,
@@ -124,7 +124,7 @@
       "name": "Aave",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave.svg"
+      "logoURI": "https://polygonscan.com/token/images/aave_32.png"
     },
     {
       "chainId": 137,
@@ -132,7 +132,7 @@
       "name": "Render Token",
       "symbol": "RNDR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rndr.svg"
+      "logoURI": "https://polygonscan.com/token/images/render_32.png"
     },
     {
       "chainId": 137,
@@ -140,7 +140,7 @@
       "name": "yearn.finance",
       "symbol": "YFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/yfi.svg"
+      "logoURI": "https://polygonscan.com/token/images/yearn-yfi_32.png"
     },
     {
       "chainId": 137,
@@ -148,7 +148,7 @@
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mkr.png"
+      "logoURI": "https://polygonscan.com/token/images/mkr-etherscan-35.png"
     },
     {
       "chainId": 137,
@@ -156,7 +156,7 @@
       "name": "ApeCoin",
       "symbol": "APE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ape.png"
+      "logoURI": "https://polygonscan.com/token/images/apecoinpoly_32.png"
     },
     {
       "chainId": 137,
@@ -164,7 +164,7 @@
       "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/comp.svg"
+      "logoURI": "https://polygonscan.com/token/images/comp_32.png"
     },
     {
       "chainId": 137,
@@ -172,7 +172,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wbtc.svg"
+      "logoURI": "https://polygonscan.com/token/images/wBTC_32.png"
     },
     {
       "chainId": 137,
@@ -180,7 +180,7 @@
       "name": "SushiToken",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sushi.svg"
+      "logoURI": "https://polygonscan.com/token/images/sushiswap-sushi_32.png"
     },
     {
       "chainId": 137,
@@ -188,7 +188,7 @@
       "name": "Decentraland",
       "symbol": "MANA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mana.svg"
+      "logoURI": "https://polygonscan.com/token/images/decentraland_32.png"
     },
     {
       "chainId": 137,
@@ -196,7 +196,7 @@
       "name": "Fantom Token",
       "symbol": "FTM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ftm.svg"
+      "logoURI": "https://polygonscan.com/token/images/fantomtoken_32.png"
     },
     {
       "chainId": 137,
@@ -204,7 +204,7 @@
       "name": "SAND",
       "symbol": "SAND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sand.svg"
+      "logoURI": "https://polygonscan.com/token/images/sand_32.png"
     },
     {
       "chainId": 137,
@@ -212,7 +212,7 @@
       "name": "Fetch",
       "symbol": "FET",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fet.png"
+      "logoURI": "https://polygonscan.com/token/images/fetch_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -220,7 +220,7 @@
       "name": "CRV",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/crv.svg"
+      "logoURI": "https://polygonscan.com/token/images/curvefi-crv_32.png"
     },
     {
       "chainId": 137,
@@ -228,7 +228,7 @@
       "name": "Graph Token",
       "symbol": "GRT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/grt.svg"
+      "logoURI": "https://polygonscan.com/token/images/TheGraph_32.png"
     },
     {
       "chainId": 137,
@@ -236,7 +236,7 @@
       "name": "Lido DAO Token",
       "symbol": "LDO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ldo.png"
+      "logoURI": "https://polygonscan.com/token/images/lidodao_32.png"
     },
     {
       "chainId": 137,
@@ -244,7 +244,7 @@
       "name": "Ankr",
       "symbol": "ANKR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ankr.svg"
+      "logoURI": "https://polygonscan.com/token/images/ankr_new_32.png"
     },
     {
       "chainId": 137,
@@ -252,7 +252,7 @@
       "name": "Theta Token",
       "symbol": "THETA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/theta.svg"
+      "logoURI": "https://polygonscan.com/token/images/theta_28.png"
     },
     {
       "chainId": 137,
@@ -260,7 +260,7 @@
       "name": "Synthetix Network Token",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/snx.svg"
+      "logoURI": "https://polygonscan.com/token/images/synthetix-snx_32.png"
     },
     {
       "chainId": 137,
@@ -268,7 +268,7 @@
       "name": "Ocean Token",
       "symbol": "OCEAN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ocean.png"
+      "logoURI": "https://polygonscan.com/token/images/oceantoken_28.png"
     },
     {
       "chainId": 137,
@@ -276,7 +276,7 @@
       "name": "SingularityNET Token",
       "symbol": "AGIX",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/agix.png"
+      "logoURI": "https://polygonscan.com/token/images/singularitynet_28.png"
     },
     {
       "chainId": 137,
@@ -284,7 +284,7 @@
       "name": "Dogelon",
       "symbol": "ELON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/elon.png"
+      "logoURI": "https://polygonscan.com/token/images/dogelon_32.png"
     },
     {
       "chainId": 137,
@@ -292,7 +292,7 @@
       "name": "1INCH Token",
       "symbol": "1INCH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/1inch.png"
+      "logoURI": "https://polygonscan.com/token/images/1inch_32.png"
     },
     {
       "chainId": 137,
@@ -300,7 +300,7 @@
       "name": "Synapse",
       "symbol": "SYN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/syn.png"
+      "logoURI": "https://polygonscan.com/token/images/synapse_32.png"
     },
     {
       "chainId": 137,
@@ -308,7 +308,7 @@
       "name": "LoopringCoin V2",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lrc.svg"
+      "logoURI": "https://polygonscan.com/token/images/lrc_32.png"
     },
     {
       "chainId": 137,
@@ -316,7 +316,7 @@
       "name": "NEST",
       "symbol": "NEST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nest.png"
+      "logoURI": "https://polygonscan.com/token/images/nestprotocol_32.png"
     },
     {
       "chainId": 137,
@@ -324,7 +324,7 @@
       "name": "OMG Network",
       "symbol": "OMG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/omg.svg"
+      "logoURI": "https://polygonscan.com/token/images/OMGNetwork_32.png"
     },
     {
       "chainId": 137,
@@ -332,7 +332,7 @@
       "name": "ZRX",
       "symbol": "ZRX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/zrx.svg"
+      "logoURI": "https://polygonscan.com/token/images/zrx_28.png?v=3"
     },
     {
       "chainId": 137,
@@ -340,7 +340,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/knc.svg"
+      "logoURI": "https://polygonscan.com/token/images/kybernetwork2_32.png"
     },
     {
       "chainId": 137,
@@ -348,7 +348,7 @@
       "name": "Livepeer Token",
       "symbol": "LPT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpt.svg"
+      "logoURI": "https://polygonscan.com/token/images/livepeer_28.png"
     },
     {
       "chainId": 137,
@@ -356,7 +356,7 @@
       "name": "IoTeX Network",
       "symbol": "IOTX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/iotx.svg"
+      "logoURI": "https://polygonscan.com/token/images/iotex_28.png"
     },
     {
       "chainId": 137,
@@ -364,7 +364,7 @@
       "name": "StargateToken",
       "symbol": "STG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/stg.png"
+      "logoURI": "https://polygonscan.com/token/images/stargate_32.png"
     },
     {
       "chainId": 137,
@@ -372,7 +372,7 @@
       "name": "Coin98",
       "symbol": "C98",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/c98.png"
+      "logoURI": "https://polygonscan.com/token/images/coin98_32.png"
     },
     {
       "chainId": 137,
@@ -380,7 +380,7 @@
       "name": "Axelar",
       "symbol": "AXL",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/axl.png"
+      "logoURI": "https://polygonscan.com/token/images/axelar_32.png"
     },
     {
       "chainId": 137,
@@ -388,7 +388,7 @@
       "name": "EnjinCoin",
       "symbol": "ENJ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/enj.svg"
+      "logoURI": "https://polygonscan.com/token/images/enjin_28_2.png"
     },
     {
       "chainId": 137,
@@ -396,7 +396,7 @@
       "name": "BandToken",
       "symbol": "BAND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/band.svg"
+      "logoURI": "https://polygonscan.com/token/images/bandtoken_32.png"
     },
     {
       "chainId": 137,
@@ -404,7 +404,7 @@
       "name": "USD Coin Bridged",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usdc.e.png"
+      "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
     },
     {
       "chainId": 137,
@@ -412,7 +412,7 @@
       "name": "Nakamoto.Games",
       "symbol": "NAKA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/naka.png"
+      "logoURI": "https://polygonscan.com/token/images/nakamotogames_32.png"
     },
     {
       "chainId": 137,
@@ -420,7 +420,7 @@
       "name": "Wootrade Network",
       "symbol": "WOO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/woo.svg"
+      "logoURI": "https://polygonscan.com/token/images/wootradepoly_32.png"
     },
     {
       "chainId": 137,
@@ -428,7 +428,7 @@
       "name": "Frax Share",
       "symbol": "FXS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fxs.svg"
+      "logoURI": "https://polygonscan.com/token/images/fraxshare_32_2.png"
     },
     {
       "chainId": 137,
@@ -436,7 +436,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usdd.png"
+      "logoURI": "https://polygonscan.com/token/images/usddtron_32.png"
     },
     {
       "chainId": 137,
@@ -444,7 +444,7 @@
       "name": "Matic ABBC",
       "symbol": "MABBC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mabbc.png"
+      "logoURI": "https://polygonscan.com/token/images/abbccoin_32.png"
     },
     {
       "chainId": 137,
@@ -452,7 +452,7 @@
       "name": "Bluzelle",
       "symbol": "BLZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/blz.png"
+      "logoURI": "https://polygonscan.com/token/images/bluzelle28.png"
     },
     {
       "chainId": 137,
@@ -460,7 +460,7 @@
       "name": "OriginToken",
       "symbol": "OGN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ogn.svg"
+      "logoURI": "https://polygonscan.com/token/images/origintoken_28.png"
     },
     {
       "chainId": 137,
@@ -468,7 +468,7 @@
       "name": "Voyager",
       "symbol": "VGX",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/vgx.png"
+      "logoURI": "https://polygonscan.com/token/images/ethos_32.png"
     },
     {
       "chainId": 137,
@@ -476,7 +476,7 @@
       "name": "Cronos Coin",
       "symbol": "CRO",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cro.png"
+      "logoURI": "https://polygonscan.com/token/images/cro_32.png"
     },
     {
       "chainId": 137,
@@ -484,7 +484,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/frax.svg"
+      "logoURI": "https://polygonscan.com/token/images/frax_32.png"
     },
     {
       "chainId": 137,
@@ -492,7 +492,7 @@
       "name": "PowerLedger",
       "symbol": "POWR",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/powr.svg"
+      "logoURI": "https://polygonscan.com/token/images/powerledger_28_2.png"
     },
     {
       "chainId": 137,
@@ -500,7 +500,7 @@
       "name": "Paxos Gold",
       "symbol": "PAXG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/paxg.svg"
+      "logoURI": "https://polygonscan.com/token/images/paxosgold_32.png"
     },
     {
       "chainId": 137,
@@ -508,7 +508,7 @@
       "name": "XSGD",
       "symbol": "XSGD",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/xsgd.png"
+      "logoURI": "https://polygonscan.com/token/images/xsgdstable_32.png"
     },
     {
       "chainId": 137,
@@ -516,7 +516,7 @@
       "name": "PYR Token",
       "symbol": "PYR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pyr.svg"
+      "logoURI": "https://polygonscan.com/token/images/vulcanforgedpyr_32.png"
     },
     {
       "chainId": 137,
@@ -524,7 +524,7 @@
       "name": "Ampleforth Governance",
       "symbol": "FORTH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/forth.svg"
+      "logoURI": "https://polygonscan.com/token/images/ampleforthgovernance_32.png"
     },
     {
       "chainId": 137,
@@ -532,7 +532,7 @@
       "name": "HoloToken",
       "symbol": "HOT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/hot.svg"
+      "logoURI": "https://polygonscan.com/token/images/holo_28.png"
     },
     {
       "chainId": 137,
@@ -540,7 +540,7 @@
       "name": "HuobiToken",
       "symbol": "HT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ht.svg"
+      "logoURI": "https://polygonscan.com/token/images/huobi_28.png"
     },
     {
       "chainId": 137,
@@ -548,7 +548,7 @@
       "name": "VOXEL Token",
       "symbol": "VOXEL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/voxel.png"
+      "logoURI": "https://polygonscan.com/token/images/voxies_32.png"
     },
     {
       "chainId": 137,
@@ -556,7 +556,7 @@
       "name": "Gains Network",
       "symbol": "GNS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gns.png"
+      "logoURI": "https://polygonscan.com/token/images/gainsnetwork_32.png"
     },
     {
       "chainId": 137,
@@ -564,7 +564,7 @@
       "name": "Nexo",
       "symbol": "NEXO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nexo.png"
+      "logoURI": "https://polygonscan.com/token/images/nexo_32.png"
     },
     {
       "chainId": 137,
@@ -572,7 +572,7 @@
       "name": "Marlin POND",
       "symbol": "POND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pond.png"
+      "logoURI": "https://polygonscan.com/token/images/marlinpond_32.png"
     },
     {
       "chainId": 137,
@@ -580,7 +580,7 @@
       "name": "pBORA",
       "symbol": "pBORA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pbora.png"
+      "logoURI": "https://polygonscan.com/token/images/pbora_32.png"
     },
     {
       "chainId": 137,
@@ -588,7 +588,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/reth.png"
+      "logoURI": "https://polygonscan.com/token/images/rethrocketpool_32.png"
     },
     {
       "chainId": 137,
@@ -596,7 +596,7 @@
       "name": "Rocket Pool",
       "symbol": "RPL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rpl.svg"
+      "logoURI": "https://polygonscan.com/token/images/Rocketpool_32.png"
     },
     {
       "chainId": 137,
@@ -604,7 +604,7 @@
       "name": "Veloce",
       "symbol": "VEXT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/vext.png"
+      "logoURI": "https://polygonscan.com/token/images/vext_32.png"
     },
     {
       "chainId": 137,
@@ -612,7 +612,7 @@
       "name": "Orbs",
       "symbol": "ORBS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/orbs.svg"
+      "logoURI": "https://polygonscan.com/token/images/orbs_28.png"
     },
     {
       "chainId": 137,
@@ -620,7 +620,7 @@
       "name": "Request",
       "symbol": "REQ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/req.png"
+      "logoURI": "https://polygonscan.com/token/images/request_32.png"
     },
     {
       "chainId": 137,
@@ -628,7 +628,7 @@
       "name": "Automata",
       "symbol": "ATA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ata.png"
+      "logoURI": "https://polygonscan.com/token/images/automatanetwork_32.png"
     },
     {
       "chainId": 137,
@@ -636,7 +636,7 @@
       "name": "Frax Ether",
       "symbol": "frxETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/frxeth.png"
+      "logoURI": "https://polygonscan.com/token/images/fraxethcanonical2_32.png"
     },
     {
       "chainId": 137,
@@ -644,7 +644,7 @@
       "name": "AdEx Network",
       "symbol": "ADX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/adx.svg"
+      "logoURI": "https://polygonscan.com/token/images/ambireAdex_32.png"
     },
     {
       "chainId": 137,
@@ -652,7 +652,7 @@
       "name": "Orchid",
       "symbol": "OXT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oxt.png"
+      "logoURI": "https://polygonscan.com/token/images/orchid_32.png?v=3"
     },
     {
       "chainId": 137,
@@ -660,7 +660,7 @@
       "name": "KAP Games Token",
       "symbol": "fxKAP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fxkap.png"
+      "logoURI": "https://polygonscan.com/token/images/kapgameskap_32.png"
     },
     {
       "chainId": 137,
@@ -668,7 +668,7 @@
       "name": "Aavegotchi GHST Token",
       "symbol": "GHST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ghst.png"
+      "logoURI": "https://polygonscan.com/token/images/aavegotchighst_32.png"
     },
     {
       "chainId": 137,
@@ -676,7 +676,7 @@
       "name": "Boba Token",
       "symbol": "BOBA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/boba.png"
+      "logoURI": "https://polygonscan.com/token/images/bobanetwork_32.png"
     },
     {
       "chainId": 137,
@@ -684,7 +684,7 @@
       "name": "QuickSwap",
       "symbol": "QUICK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/quick.svg"
+      "logoURI": "https://polygonscan.com/token/images/quickswapnew_32.png"
     },
     {
       "chainId": 137,
@@ -692,7 +692,7 @@
       "name": "Streamr",
       "symbol": "DATA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/data.png"
+      "logoURI": "https://polygonscan.com/token/images/streamr_32.png"
     },
     {
       "chainId": 137,
@@ -700,7 +700,7 @@
       "name": "SmarDex Token",
       "symbol": "SDEX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sdex.png"
+      "logoURI": "https://polygonscan.com/token/images/smardextoken_32.png"
     },
     {
       "chainId": 137,
@@ -708,7 +708,7 @@
       "name": "STASIS EURS Token",
       "symbol": "EURS",
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/eurs.svg"
+      "logoURI": "https://polygonscan.com/token/images/statiseuro_28.png"
     },
     {
       "chainId": 137,
@@ -716,7 +716,7 @@
       "name": "FoodChain Global",
       "symbol": "FOOD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/food.png"
+      "logoURI": "https://polygonscan.com/token/images/foodchainglobalnew_32.png"
     },
     {
       "chainId": 137,
@@ -724,7 +724,7 @@
       "name": "MASQ",
       "symbol": "MASQ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/masq.svg"
+      "logoURI": "https://polygonscan.com/token/images/masqtoken_32.png"
     },
     {
       "chainId": 137,
@@ -732,7 +732,7 @@
       "name": "dForce",
       "symbol": "DF",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/df.png"
+      "logoURI": "https://polygonscan.com/token/images/dforcetoken_32.png"
     },
     {
       "chainId": 137,
@@ -740,7 +740,7 @@
       "name": "MANTRA DAO",
       "symbol": "OM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/om.svg"
+      "logoURI": "https://polygonscan.com/token/images/mantradao_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -748,7 +748,7 @@
       "name": "GAMEE",
       "symbol": "GMEE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gmee.svg"
+      "logoURI": "https://polygonscan.com/token/images/gameetoken_32.png"
     },
     {
       "chainId": 137,
@@ -756,7 +756,7 @@
       "name": "Orion Protocol",
       "symbol": "ORN",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/orn.png"
+      "logoURI": "https://polygonscan.com/token/images/orionprotocol_32.png"
     },
     {
       "chainId": 137,
@@ -764,7 +764,7 @@
       "name": "Paxos Standard",
       "symbol": "PAX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pax.png"
+      "logoURI": "https://polygonscan.com/token/images/paxos_28_2.png"
     },
     {
       "chainId": 137,
@@ -772,7 +772,7 @@
       "name": "agEUR",
       "symbol": "agEUR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ageur.png"
+      "logoURI": "https://polygonscan.com/token/images/ageurpoly_32.png"
     },
     {
       "chainId": 137,
@@ -780,7 +780,7 @@
       "name": "Rarible",
       "symbol": "RARI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rari.svg"
+      "logoURI": "https://polygonscan.com/token/images/rarible_32.png"
     },
     {
       "chainId": 137,
@@ -788,7 +788,7 @@
       "name": "Bancor",
       "symbol": "BNT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bnt.svg"
+      "logoURI": "https://polygonscan.com/token/images/bancor_32.png"
     },
     {
       "chainId": 137,
@@ -796,7 +796,7 @@
       "name": "Gold Fever Native Gold [via ChainPort.io]",
       "symbol": "NGL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ngl.png"
+      "logoURI": "https://polygonscan.com/token/images/goldfever_32.png"
     },
     {
       "chainId": 137,
@@ -804,7 +804,7 @@
       "name": "Orbit Bridge Polygon Orbit Chain",
       "symbol": "oORC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oorc.png"
+      "logoURI": "https://polygonscan.com/token/images/orbitbridgepolychain_32.png"
     },
     {
       "chainId": 137,
@@ -812,7 +812,7 @@
       "name": "Orbit Bridge Polygon BUSD Token",
       "symbol": "oBUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/obusd.png"
+      "logoURI": "https://polygonscan.com/token/images/orbitbridgebusd_32.png"
     },
     {
       "chainId": 137,
@@ -820,7 +820,7 @@
       "name": "Bitfinex LEO Token",
       "symbol": "LEO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/leo.svg"
+      "logoURI": "https://polygonscan.com/token/images/leo_28_2.png"
     },
     {
       "chainId": 137,
@@ -828,7 +828,7 @@
       "name": "Everipedia IQ",
       "symbol": "IQ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/iq.svg"
+      "logoURI": "https://polygonscan.com/token/images/everipedia_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -836,7 +836,7 @@
       "name": "Boson Token",
       "symbol": "BOSON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/boson.png"
+      "logoURI": "https://polygonscan.com/token/images/bosonprotocol_32.png"
     },
     {
       "chainId": 137,
@@ -844,7 +844,7 @@
       "name": "Wrapped USD+",
       "symbol": "wUSD+",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wusd+.png"
+      "logoURI": "https://polygonscan.com/token/images/usdplus_32.png"
     },
     {
       "chainId": 137,
@@ -852,7 +852,7 @@
       "name": "USD+",
       "symbol": "USD+",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usd+.png"
+      "logoURI": "https://polygonscan.com/token/images/usdplus_32.png"
     },
     {
       "chainId": 137,
@@ -860,7 +860,7 @@
       "name": "Stader",
       "symbol": "SD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sd.png"
+      "logoURI": "https://polygonscan.com/token/images/staderlabs_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -868,7 +868,7 @@
       "name": "ClinTex",
       "symbol": "CTI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cti.svg"
+      "logoURI": "https://polygonscan.com/token/images/clintex_32.png"
     },
     {
       "chainId": 137,
@@ -876,7 +876,7 @@
       "name": "HEX",
       "symbol": "HEX",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/hex.svg"
+      "logoURI": "https://polygonscan.com/token/images/hex_32.png"
     },
     {
       "chainId": 137,
@@ -884,7 +884,7 @@
       "name": "Kommunitas",
       "symbol": "KOM",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/kom.png"
+      "logoURI": "https://polygonscan.com/token/images/kommunitas_32.png"
     },
     {
       "chainId": 137,
@@ -892,7 +892,7 @@
       "name": "Parsiq Token",
       "symbol": "PRQ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/prq.svg"
+      "logoURI": "https://polygonscan.com/token/images/parsiqtoken_32.png"
     },
     {
       "chainId": 137,
@@ -900,7 +900,7 @@
       "name": "Rally",
       "symbol": "RLY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rly.png"
+      "logoURI": "https://polygonscan.com/token/images/rally_32.png"
     },
     {
       "chainId": 137,
@@ -908,7 +908,7 @@
       "name": "Ferrum Network Token",
       "symbol": "FRM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/frm.png"
+      "logoURI": "https://polygonscan.com/token/images/ferrumnetworknew_32.png"
     },
     {
       "chainId": 137,
@@ -916,7 +916,7 @@
       "name": "Aimedis",
       "symbol": "AIMX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aimx.png"
+      "logoURI": "https://polygonscan.com/token/images/aimedispoly_32.png"
     },
     {
       "chainId": 137,
@@ -924,7 +924,7 @@
       "name": "LIF3",
       "symbol": "LIF3",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lif3.png"
+      "logoURI": "https://polygonscan.com/token/images/lif3_32.png"
     },
     {
       "chainId": 137,
@@ -932,7 +932,7 @@
       "name": "ICHI",
       "symbol": "ICHI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ichi.png"
+      "logoURI": "https://polygonscan.com/token/images/ichi_32.png"
     },
     {
       "chainId": 137,
@@ -940,7 +940,7 @@
       "name": "PolkaBridge",
       "symbol": "PBR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pbr.png"
+      "logoURI": "https://polygonscan.com/token/images/polkabridge_32.png"
     },
     {
       "chainId": 137,
@@ -948,7 +948,7 @@
       "name": "ZED RUN",
       "symbol": "ZED",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/zed.png"
+      "logoURI": "https://polygonscan.com/token/images/zedtoken_32.png"
     },
     {
       "chainId": 137,
@@ -956,7 +956,7 @@
       "name": "DeRace Token",
       "symbol": "DERC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/derc.png"
+      "logoURI": "https://polygonscan.com/token/images/derace_32.png"
     },
     {
       "chainId": 137,
@@ -964,7 +964,7 @@
       "name": "Lithium",
       "symbol": "LITH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lith.png"
+      "logoURI": "https://polygonscan.com/token/images/lithiumfinance_32.png"
     },
     {
       "chainId": 137,
@@ -972,7 +972,7 @@
       "name": "IOI Token",
       "symbol": "IOI",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ioi.png"
+      "logoURI": "https://polygonscan.com/token/images/ioitoken2_32.png"
     },
     {
       "chainId": 137,
@@ -980,7 +980,7 @@
       "name": "Dimo",
       "symbol": "DIMO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dimo.png"
+      "logoURI": "https://polygonscan.com/token/images/dimo_32.png"
     },
     {
       "chainId": 137,
@@ -988,7 +988,7 @@
       "name": "Dimo License",
       "symbol": "DIMO",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dimo.png"
+      "logoURI": "https://polygonscan.com/token/images/dimo_32.png"
     },
     {
       "chainId": 137,
@@ -996,7 +996,7 @@
       "name": "Adshares",
       "symbol": "ADS",
       "decimals": 11,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ads.png"
+      "logoURI": "https://polygonscan.com/token/images/adshares2_32.png"
     },
     {
       "chainId": 137,
@@ -1004,7 +1004,7 @@
       "name": "AWT",
       "symbol": "AWT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/awt.png"
+      "logoURI": "https://polygonscan.com/token/images/abyssawt2_32.png"
     },
     {
       "chainId": 137,
@@ -1012,7 +1012,7 @@
       "name": "O3 Swap Token",
       "symbol": "O3",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/o3.png"
+      "logoURI": "https://polygonscan.com/token/images/o3swaptoken_32.png"
     },
     {
       "chainId": 137,
@@ -1020,7 +1020,7 @@
       "name": "ApeSwapFinance Banana",
       "symbol": "BANANA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/banana.png"
+      "logoURI": "https://polygonscan.com/token/images/apeswapbanana_32.png"
     },
     {
       "chainId": 137,
@@ -1028,7 +1028,7 @@
       "name": "beefy.finance",
       "symbol": "BIFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bifi.png"
+      "logoURI": "https://polygonscan.com/token/images/beefy_32.png"
     },
     {
       "chainId": 137,
@@ -1036,7 +1036,7 @@
       "name": "OMMNIVERSE",
       "symbol": "OMMI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ommi.png"
+      "logoURI": "https://polygonscan.com/token/images/omniverseai_32.png"
     },
     {
       "chainId": 137,
@@ -1044,7 +1044,7 @@
       "name": "Defactor",
       "symbol": "FACTR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/factr.png"
+      "logoURI": "https://polygonscan.com/token/images/defactor_32.png"
     },
     {
       "chainId": 137,
@@ -1052,7 +1052,7 @@
       "name": "NEOPIN Token",
       "symbol": "NPT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/npt.png"
+      "logoURI": "https://polygonscan.com/token/images/neopin_32.png"
     },
     {
       "chainId": 137,
@@ -1060,7 +1060,7 @@
       "name": "Ethereum Push Notification Service",
       "symbol": "PUSH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/push.png"
+      "logoURI": "https://polygonscan.com/token/images/epns_32.png"
     },
     {
       "chainId": 137,
@@ -1068,7 +1068,7 @@
       "name": "Edgeware",
       "symbol": "EDG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/edg.png"
+      "logoURI": "https://polygonscan.com/token/images/edgeware_32.png"
     },
     {
       "chainId": 137,
@@ -1076,7 +1076,7 @@
       "name": "KastaToken",
       "symbol": "KASTA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/kasta.png"
+      "logoURI": "https://polygonscan.com/token/images/kastatoken_new_32.png"
     },
     {
       "chainId": 137,
@@ -1084,7 +1084,7 @@
       "name": "Standard",
       "symbol": "STND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/stnd.png"
+      "logoURI": "https://polygonscan.com/token/images/standard_32.png"
     },
     {
       "chainId": 137,
@@ -1092,7 +1092,7 @@
       "name": "ROOBEE",
       "symbol": "ROOBEE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/roobee.png"
+      "logoURI": "https://polygonscan.com/token/images/roobeefin_32.png"
     },
     {
       "chainId": 137,
@@ -1100,7 +1100,7 @@
       "name": "DEUS",
       "symbol": "DEUS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/deus.png"
+      "logoURI": "https://polygonscan.com/token/images/deusfinancepoly_32.png"
     },
     {
       "chainId": 137,
@@ -1108,7 +1108,7 @@
       "name": "Internxt",
       "symbol": "INXT",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/inxt.svg"
+      "logoURI": "https://polygonscan.com/token/images/internxt_32.png"
     },
     {
       "chainId": 137,
@@ -1116,7 +1116,7 @@
       "name": "loser coin",
       "symbol": "lowb",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lowb.png"
+      "logoURI": "https://polygonscan.com/token/images/losercoin_32.png"
     },
     {
       "chainId": 137,
@@ -1124,7 +1124,7 @@
       "name": "Wall Street Games",
       "symbol": "WSG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wsg.png"
+      "logoURI": "https://polygonscan.com/token/images/wallstreetgames_32.png"
     },
     {
       "chainId": 137,
@@ -1132,7 +1132,7 @@
       "name": "RAZOR",
       "symbol": "RAZOR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/razor.svg"
+      "logoURI": "https://polygonscan.com/token/images/razonetwork_32.png"
     },
     {
       "chainId": 137,
@@ -1140,7 +1140,7 @@
       "name": "PlanetIX",
       "symbol": "IXT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ixt.png"
+      "logoURI": "https://polygonscan.com/token/images/planetix_32.png"
     },
     {
       "chainId": 137,
@@ -1148,7 +1148,7 @@
       "name": "Ultron",
       "symbol": "ULX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ulx.png"
+      "logoURI": "https://polygonscan.com/token/images/ultronfoundation_32.png"
     },
     {
       "chainId": 137,
@@ -1156,7 +1156,7 @@
       "name": "Gelato Network Token",
       "symbol": "GEL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gel.png"
+      "logoURI": "https://polygonscan.com/token/images/gelatoeth_32.png"
     },
     {
       "chainId": 137,
@@ -1164,7 +1164,7 @@
       "name": "Wrapped Ixs Token",
       "symbol": "WIXS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wixs.png"
+      "logoURI": "https://polygonscan.com/token/images/ixsswap2_32.png"
     },
     {
       "chainId": 137,
@@ -1172,7 +1172,7 @@
       "name": "InsurAce",
       "symbol": "INSUR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/insur.png"
+      "logoURI": "https://polygonscan.com/token/images/insurace2_32.png"
     },
     {
       "chainId": 137,
@@ -1180,7 +1180,7 @@
       "name": "DSLA",
       "symbol": "DSLA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dsla.svg"
+      "logoURI": "https://polygonscan.com/token/images/dsla_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -1188,7 +1188,7 @@
       "name": "KEEP Token",
       "symbol": "KEEP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/keep.svg"
+      "logoURI": "https://polygonscan.com/token/images/keepnetwork_32.png"
     },
     {
       "chainId": 137,
@@ -1196,7 +1196,7 @@
       "name": "MahaDAO",
       "symbol": "MAHA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/maha.svg"
+      "logoURI": "https://polygonscan.com/token/images/mahadaopoly_32.png"
     },
     {
       "chainId": 137,
@@ -1204,7 +1204,7 @@
       "name": "Aura",
       "symbol": "AURA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aura.png"
+      "logoURI": "https://polygonscan.com/token/images/aurafinance_32.png"
     },
     {
       "chainId": 137,
@@ -1212,7 +1212,7 @@
       "name": "FABWELT",
       "symbol": "WELT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/welt.png"
+      "logoURI": "https://polygonscan.com/token/images/fabwelt2_32.png?v=10"
     },
     {
       "chainId": 137,
@@ -1220,7 +1220,7 @@
       "name": "Decentrawood",
       "symbol": "Deod",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/deod.png"
+      "logoURI": "https://polygonscan.com/token/images/decentrawood_32.png"
     },
     {
       "chainId": 137,
@@ -1228,7 +1228,7 @@
       "name": "iMe Lab",
       "symbol": "LIME",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lime.png"
+      "logoURI": "https://polygonscan.com/token/images/imemapp2_32.png"
     },
     {
       "chainId": 137,
@@ -1236,7 +1236,7 @@
       "name": "Nord Token",
       "symbol": "NORD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nord.svg"
+      "logoURI": "https://polygonscan.com/token/images/nordfinance_32.png"
     },
     {
       "chainId": 137,
@@ -1244,7 +1244,7 @@
       "name": "DAFI Token",
       "symbol": "DAFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dafi.svg"
+      "logoURI": "https://polygonscan.com/token/images/dafiprotocol_32.png"
     },
     {
       "chainId": 137,
@@ -1252,7 +1252,7 @@
       "name": "AurusX",
       "symbol": "AX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ax.png"
+      "logoURI": "https://polygonscan.com/token/images/auruscoin_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -1260,7 +1260,7 @@
       "name": "Gemini dollar",
       "symbol": "GUSD",
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gusd.svg"
+      "logoURI": "https://polygonscan.com/token/images/gemini_28.png"
     },
     {
       "chainId": 137,
@@ -1268,7 +1268,7 @@
       "name": "Wirex Token",
       "symbol": "WXT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wxt.png"
+      "logoURI": "https://polygonscan.com/token/images/nereuswirex_32.png"
     },
     {
       "chainId": 137,
@@ -1276,7 +1276,7 @@
       "name": "Rubic",
       "symbol": "RBC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rbc.svg"
+      "logoURI": "https://polygonscan.com/token/images/rubic_32.png"
     },
     {
       "chainId": 137,
@@ -1284,7 +1284,7 @@
       "name": "BRZ Token",
       "symbol": "BRZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/brz.png"
+      "logoURI": "https://polygonscan.com/token/images/braziliandigital_32.png"
     },
     {
       "chainId": 137,
@@ -1292,7 +1292,7 @@
       "name": "Hop",
       "symbol": "HOP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/hop.png"
+      "logoURI": "https://polygonscan.com/token/images/Hop_32.png"
     },
     {
       "chainId": 137,
@@ -1300,7 +1300,7 @@
       "name": "Real USD",
       "symbol": "USDR",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usdr.png"
+      "logoURI": "https://polygonscan.com/token/images/realusdr_32.png"
     },
     {
       "chainId": 137,
@@ -1308,7 +1308,7 @@
       "name": "Battle World",
       "symbol": "BWO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bwo.png"
+      "logoURI": "https://polygonscan.com/token/images/battleworld_32.png"
     },
     {
       "chainId": 137,
@@ -1316,7 +1316,7 @@
       "name": "Panther",
       "symbol": "$ZKP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/$zkp.png"
+      "logoURI": "https://polygonscan.com/token/images/pantherzkp2_32.png"
     },
     {
       "chainId": 137,
@@ -1324,7 +1324,7 @@
       "name": "Human Token",
       "symbol": "HMT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/hmt.png"
+      "logoURI": "https://polygonscan.com/token/images/humantoken_32.png"
     },
     {
       "chainId": 137,
@@ -1332,7 +1332,7 @@
       "name": "Decentral Games",
       "symbol": "DG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dg.svg"
+      "logoURI": "https://polygonscan.com/token/images/decentralgame_32.png?v=5"
     },
     {
       "chainId": 137,
@@ -1340,7 +1340,7 @@
       "name": "Lympo tokens",
       "symbol": "LYM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lym.png"
+      "logoURI": "https://polygonscan.com/token/images/lympolym_32.png"
     },
     {
       "chainId": 137,
@@ -1348,7 +1348,7 @@
       "name": "Pancake Games",
       "symbol": "GCAKE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gcake.png"
+      "logoURI": "https://polygonscan.com/token/images/anygcake_32.png"
     },
     {
       "chainId": 137,
@@ -1356,7 +1356,7 @@
       "name": "Allbridge",
       "symbol": "ABR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/abr.png"
+      "logoURI": "https://polygonscan.com/token/images/allbridge_32.png"
     },
     {
       "chainId": 137,
@@ -1364,7 +1364,7 @@
       "name": "World$tateCoin",
       "symbol": "W$C",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/w$c.png"
+      "logoURI": "https://polygonscan.com/token/images/theworldstate_32.png"
     },
     {
       "chainId": 137,
@@ -1372,7 +1372,7 @@
       "name": "BoringDAO Token",
       "symbol": "BORING",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/boring.png"
+      "logoURI": "https://polygonscan.com/token/images/boringdao3_32.png"
     },
     {
       "chainId": 137,
@@ -1380,7 +1380,7 @@
       "name": "Paint",
       "symbol": "PAINT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/paint.svg"
+      "logoURI": "https://polygonscan.com/token/images/paint_32.png"
     },
     {
       "chainId": 137,
@@ -1388,7 +1388,7 @@
       "name": "Verse",
       "symbol": "VERSE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/verse.png"
+      "logoURI": "https://polygonscan.com/token/images/verse_32.png"
     },
     {
       "chainId": 137,
@@ -1396,7 +1396,7 @@
       "name": "NFTY Token",
       "symbol": "NFTY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nfty.png"
+      "logoURI": "https://polygonscan.com/token/images/nftynetwork_32.png"
     },
     {
       "chainId": 137,
@@ -1404,7 +1404,7 @@
       "name": "Thales DAO Token",
       "symbol": "THALES",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/thales.png"
+      "logoURI": "https://polygonscan.com/token/images/thalesfin_32.png"
     },
     {
       "chainId": 137,
@@ -1412,7 +1412,7 @@
       "name": "Exeedme",
       "symbol": "XED",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/xed.svg"
+      "logoURI": "https://polygonscan.com/token/images/xed_32.png"
     },
     {
       "chainId": 137,
@@ -1420,7 +1420,7 @@
       "name": "Mysterium",
       "symbol": "MYST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/myst.svg"
+      "logoURI": "https://polygonscan.com/token/images/mysteriumnetwork_32.png"
     },
     {
       "chainId": 137,
@@ -1428,7 +1428,7 @@
       "name": "TOWER",
       "symbol": "TOWER",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/tower.svg"
+      "logoURI": "https://polygonscan.com/token/images/towertoken_32.png"
     },
     {
       "chainId": 137,
@@ -1436,7 +1436,7 @@
       "name": "Trace Network",
       "symbol": "TRACE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/trace.png"
+      "logoURI": "https://polygonscan.com/token/images/tracenetwork2_32.png"
     },
     {
       "chainId": 137,
@@ -1444,7 +1444,7 @@
       "name": "OddzToken",
       "symbol": "ODDZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oddz.png"
+      "logoURI": "https://polygonscan.com/token/images/oddzfi2_32.png"
     },
     {
       "chainId": 137,
@@ -1452,7 +1452,7 @@
       "name": "PureFi Token",
       "symbol": "UFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ufi.png"
+      "logoURI": "https://polygonscan.com/token/images/purefi_32.png"
     },
     {
       "chainId": 137,
@@ -1460,7 +1460,7 @@
       "name": "Pinakion",
       "symbol": "PNK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pnk.png"
+      "logoURI": "https://polygonscan.com/token/images/kelros_28.png"
     },
     {
       "chainId": 137,
@@ -1468,7 +1468,7 @@
       "name": "Decentr",
       "symbol": "DEC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dec.svg"
+      "logoURI": "https://polygonscan.com/token/images/decentr_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -1476,7 +1476,7 @@
       "name": "SportX",
       "symbol": "SX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sx.svg"
+      "logoURI": "https://polygonscan.com/token/images/sportx_32.png?v=3"
     },
     {
       "chainId": 137,
@@ -1484,7 +1484,7 @@
       "name": "JPY Coin",
       "symbol": "JPYC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jpyc.svg"
+      "logoURI": "https://polygonscan.com/token/images/jpycoin_32.png"
     },
     {
       "chainId": 137,
@@ -1492,7 +1492,7 @@
       "name": "GAIA Everworld",
       "symbol": "GAIA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gaia.png"
+      "logoURI": "https://polygonscan.com/token/images/gaiaeverworld_32.png"
     },
     {
       "chainId": 137,
@@ -1500,7 +1500,7 @@
       "name": "Safe Haven Token",
       "symbol": "SHA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sha.png"
+      "logoURI": "https://polygonscan.com/token/images/safehavensha_32.png"
     },
     {
       "chainId": 137,
@@ -1508,7 +1508,7 @@
       "name": "hoge.finance",
       "symbol": "HOGE",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/hoge.svg"
+      "logoURI": "https://polygonscan.com/token/images/hogefinance_32.png"
     },
     {
       "chainId": 137,
@@ -1516,7 +1516,7 @@
       "name": "Wrapped USDR",
       "symbol": "wUSDR",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wusdr.png"
+      "logoURI": "https://polygonscan.com/token/images/wrappedusdr_32.png?v=29"
     },
     {
       "chainId": 137,
@@ -1524,7 +1524,7 @@
       "name": "MEAN",
       "symbol": "MEAN",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mean.png"
+      "logoURI": "https://polygonscan.com/token/images/meandaofi_32.png"
     },
     {
       "chainId": 137,
@@ -1532,7 +1532,7 @@
       "name": "Alongside Crypto Market Index",
       "symbol": "AMKT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/amkt.png"
+      "logoURI": "https://polygonscan.com/token/images/alongsideamkt_32.png"
     },
     {
       "chainId": 137,
@@ -1540,7 +1540,7 @@
       "name": "Wombat",
       "symbol": "WOMBAT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wombat.png"
+      "logoURI": "https://polygonscan.com/token/images/wombatapp_32.png"
     },
     {
       "chainId": 137,
@@ -1548,7 +1548,7 @@
       "name": "DFYN Token",
       "symbol": "DFYN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dfyn.svg"
+      "logoURI": "https://polygonscan.com/token/images/dfyn_32.png"
     },
     {
       "chainId": 137,
@@ -1556,7 +1556,7 @@
       "name": "OCC",
       "symbol": "OCC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/occ.png"
+      "logoURI": "https://polygonscan.com/token/images/occ_32.png"
     },
     {
       "chainId": 137,
@@ -1564,7 +1564,7 @@
       "name": "Staked Frax Ether",
       "symbol": "sfrxETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sfrxeth.png"
+      "logoURI": "https://polygonscan.com/token/images/sfrxeth2_32.png"
     },
     {
       "chainId": 137,
@@ -1572,7 +1572,7 @@
       "name": "CASToken",
       "symbol": "CAS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cas.png"
+      "logoURI": "https://polygonscan.com/token/images/castoken_32.png"
     },
     {
       "chainId": 137,
@@ -1580,7 +1580,7 @@
       "name": "Duet Governance Token",
       "symbol": "DUET",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/duet.png"
+      "logoURI": "https://polygonscan.com/token/images/duetfinance_32.png"
     },
     {
       "chainId": 137,
@@ -1588,7 +1588,7 @@
       "name": "pTokens ORE",
       "symbol": "ORE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ore.png"
+      "logoURI": "https://polygonscan.com/token/images/ptokensore_32.png"
     },
     {
       "chainId": 137,
@@ -1596,7 +1596,7 @@
       "name": "miMATIC",
       "symbol": "miMATIC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mimatic.png"
+      "logoURI": "https://polygonscan.com/token/images/miMatic_32.png"
     },
     {
       "chainId": 137,
@@ -1604,7 +1604,7 @@
       "name": "MetaShooter",
       "symbol": "MHUNT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mhunt.png"
+      "logoURI": "https://polygonscan.com/token/images/metashooter_32.png"
     },
     {
       "chainId": 137,
@@ -1612,7 +1612,7 @@
       "name": "Rebel Bots Token",
       "symbol": "RBLS",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rbls.png"
+      "logoURI": "https://polygonscan.com/token/images/rebelbots_32.png"
     },
     {
       "chainId": 137,
@@ -1620,7 +1620,7 @@
       "name": "Nexum Coin",
       "symbol": "NEXM",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nexm.png"
+      "logoURI": "https://polygonscan.com/token/images/nexumpoly_32.png"
     },
     {
       "chainId": 137,
@@ -1628,7 +1628,7 @@
       "name": "OkLetsPlay",
       "symbol": "OKLP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oklp.png"
+      "logoURI": "https://polygonscan.com/token/images/okayletsplay_32.png"
     },
     {
       "chainId": 137,
@@ -1636,7 +1636,7 @@
       "name": "GeniuX",
       "symbol": "IUX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/iux.png"
+      "logoURI": "https://polygonscan.com/token/images/geniusassets_32.png"
     },
     {
       "chainId": 137,
@@ -1644,7 +1644,7 @@
       "name": "UniBright",
       "symbol": "UBT",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ubt.svg"
+      "logoURI": "https://polygonscan.com/token/images/unibright_28.png"
     },
     {
       "chainId": 137,
@@ -1652,7 +1652,7 @@
       "name": "Furucombo",
       "symbol": "COMBO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/combo.png"
+      "logoURI": "https://polygonscan.com/token/images/furucombo_32.png"
     },
     {
       "chainId": 137,
@@ -1660,7 +1660,7 @@
       "name": "Aluna",
       "symbol": "ALN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aln.png"
+      "logoURI": "https://polygonscan.com/token/images/aluna_32.png"
     },
     {
       "chainId": 137,
@@ -1668,7 +1668,7 @@
       "name": "CargoX",
       "symbol": "CXO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cxo.png"
+      "logoURI": "https://polygonscan.com/token/images/cargox_28.png"
     },
     {
       "chainId": 137,
@@ -1676,7 +1676,7 @@
       "name": "Student Coin",
       "symbol": "STC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/stc.png"
+      "logoURI": "https://polygonscan.com/token/images/studentcoin_32.png"
     },
     {
       "chainId": 137,
@@ -1684,7 +1684,7 @@
       "name": "SafeMoon",
       "symbol": "SFM",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sfm.png"
+      "logoURI": "https://polygonscan.com/token/images/safemoon2_32.png"
     },
     {
       "chainId": 137,
@@ -1692,7 +1692,7 @@
       "name": "BambooDeFi",
       "symbol": "BAMBOO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bamboo.png"
+      "logoURI": "https://polygonscan.com/token/images/bamboodefi_32.png"
     },
     {
       "chainId": 137,
@@ -1700,7 +1700,7 @@
       "name": "Calvaria: Duels of Eternity",
       "symbol": "RIA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ria.png"
+      "logoURI": "https://polygonscan.com/token/images/calvaria2_32.png"
     },
     {
       "chainId": 137,
@@ -1708,7 +1708,7 @@
       "name": "EthLend",
       "symbol": "LEND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lend.svg"
+      "logoURI": "https://polygonscan.com/token/images/ethlend_28.png"
     },
     {
       "chainId": 137,
@@ -1716,7 +1716,7 @@
       "name": "Gnosis",
       "symbol": "GNO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gno.svg"
+      "logoURI": "https://polygonscan.com/token/images/gnosans_32.png"
     },
     {
       "chainId": 137,
@@ -1724,7 +1724,7 @@
       "name": "RLC",
       "symbol": "RLC",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rlc.svg"
+      "logoURI": "https://polygonscan.com/token/images/iexec_28.png"
     },
     {
       "chainId": 137,
@@ -1732,7 +1732,7 @@
       "name": "99Starz",
       "symbol": "STZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/stz.png"
+      "logoURI": "https://polygonscan.com/token/images/99starz_32.png"
     },
     {
       "chainId": 137,
@@ -1740,7 +1740,7 @@
       "name": "Monavale",
       "symbol": "MONA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mona.svg"
+      "logoURI": "https://polygonscan.com/token/images/monavale_32.png"
     },
     {
       "chainId": 137,
@@ -1748,7 +1748,7 @@
       "name": "Instadapp",
       "symbol": "INST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/inst.svg"
+      "logoURI": "https://polygonscan.com/token/images/instadapp_32.png"
     },
     {
       "chainId": 137,
@@ -1756,7 +1756,7 @@
       "name": "Nitro",
       "symbol": "NITRO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nitro.png"
+      "logoURI": "https://polygonscan.com/token/images/nitroleaguepoly_32.png"
     },
     {
       "chainId": 137,
@@ -1764,7 +1764,7 @@
       "name": "Morpher",
       "symbol": "MPH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mph.svg"
+      "logoURI": "https://polygonscan.com/token/images/morpher_32.png"
     },
     {
       "chainId": 137,
@@ -1772,7 +1772,7 @@
       "name": "Klima DAO",
       "symbol": "KLIMA",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/klima.svg"
+      "logoURI": "https://polygonscan.com/token/images/klimadao_32.png?v=4"
     },
     {
       "chainId": 137,
@@ -1780,7 +1780,7 @@
       "name": "moda",
       "symbol": "MODA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/moda.png"
+      "logoURI": "https://polygonscan.com/token/images/modadao_32.png"
     },
     {
       "chainId": 137,
@@ -1788,7 +1788,7 @@
       "name": "ChainLink Token Bridged",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/link.svg"
+      "logoURI": "https://polygonscan.com/token/images/chainlinktoken_32.png?v=6"
     },
     {
       "chainId": 137,
@@ -1796,7 +1796,7 @@
       "name": "Cherry Token",
       "symbol": "CHER",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cher.png"
+      "logoURI": "https://polygonscan.com/token/images/cherrynetwork_32.png"
     },
     {
       "chainId": 137,
@@ -1804,7 +1804,7 @@
       "name": "Digital Fitness",
       "symbol": "DEFIT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/defit.png"
+      "logoURI": "https://polygonscan.com/token/images/digitalfitness_32.png"
     },
     {
       "chainId": 137,
@@ -1812,7 +1812,7 @@
       "name": "Yesports",
       "symbol": "YESP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/yesp.png"
+      "logoURI": "https://polygonscan.com/token/images/yesports_32.png"
     },
     {
       "chainId": 137,
@@ -1820,7 +1820,7 @@
       "name": "BakedToken",
       "symbol": "BAKED",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/baked.png"
+      "logoURI": "https://polygonscan.com/token/images/rebakedtoken_32.png"
     },
     {
       "chainId": 137,
@@ -1828,7 +1828,7 @@
       "name": "YIN Finance",
       "symbol": "YIN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/yin.png"
+      "logoURI": "https://polygonscan.com/token/images/yinfinance_32.png"
     },
     {
       "chainId": 137,
@@ -1836,7 +1836,7 @@
       "name": "Bounty0x",
       "symbol": "BNTY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bnty.svg"
+      "logoURI": "https://polygonscan.com/token/images/bounty0x.png"
     },
     {
       "chainId": 137,
@@ -1844,7 +1844,7 @@
       "name": "Blockchain Monster Coin",
       "symbol": "BCMC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bcmc.png"
+      "logoURI": "https://polygonscan.com/token/images/bcmhunt_32.png"
     },
     {
       "chainId": 137,
@@ -1852,7 +1852,7 @@
       "name": "ChainPort Token [via ChainPort.io]",
       "symbol": "PORTX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/portx.png"
+      "logoURI": "https://polygonscan.com/token/images/chainport_32_sept.png"
     },
     {
       "chainId": 137,
@@ -1860,7 +1860,7 @@
       "name": "CheckDot",
       "symbol": "CDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cdt.png"
+      "logoURI": "https://polygonscan.com/token/images/checkdotarb_32.png"
     },
     {
       "chainId": 137,
@@ -1868,7 +1868,7 @@
       "name": "MetaSoccer Universe",
       "symbol": "MSU",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/msu.png"
+      "logoURI": "https://polygonscan.com/token/images/metasocceruniverse_32.png"
     },
     {
       "chainId": 137,
@@ -1876,7 +1876,7 @@
       "name": "BAC",
       "symbol": "BAC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bac.png"
+      "logoURI": "https://polygonscan.com/token/images/basiscash_32.png"
     },
     {
       "chainId": 137,
@@ -1884,7 +1884,7 @@
       "name": "LSHARE",
       "symbol": "LSHARE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lshare.png"
+      "logoURI": "https://polygonscan.com/token/images/lif3lshare_32.png"
     },
     {
       "chainId": 137,
@@ -1892,7 +1892,7 @@
       "name": "Digital Reserve Currency",
       "symbol": "DRC",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/drc.svg"
+      "logoURI": "https://polygonscan.com/token/images/digitalreservecurrency_32.png"
     },
     {
       "chainId": 137,
@@ -1900,7 +1900,7 @@
       "name": "EthermonToken",
       "symbol": "EMON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/emon.png"
+      "logoURI": "https://polygonscan.com/token/images/ethermontoken2_32.png"
     },
     {
       "chainId": 137,
@@ -1908,7 +1908,7 @@
       "name": "ITSBLOC",
       "symbol": "ITSB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/itsb.png"
+      "logoURI": "https://polygonscan.com/token/images/itsbloc_32.png"
     },
     {
       "chainId": 137,
@@ -1916,7 +1916,7 @@
       "name": "DeFiner",
       "symbol": "FIN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fin.png"
+      "logoURI": "https://polygonscan.com/token/images/definerorg_32.png"
     },
     {
       "chainId": 137,
@@ -1924,7 +1924,7 @@
       "name": "Permission Token",
       "symbol": "ASK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ask.png"
+      "logoURI": "https://polygonscan.com/token/images/permission_32.png"
     },
     {
       "chainId": 137,
@@ -1932,7 +1932,7 @@
       "name": "Autonio",
       "symbol": "NIOX",
       "decimals": 4,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/niox.svg"
+      "logoURI": "https://polygonscan.com/token/images/autonio_ 32.png"
     },
     {
       "chainId": 137,
@@ -1940,7 +1940,7 @@
       "name": "Decentral Games ICE",
       "symbol": "ICE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ice.svg"
+      "logoURI": "https://polygonscan.com/token/images/decentralgames_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -1948,7 +1948,7 @@
       "name": "Polinate",
       "symbol": "POLI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/poli.png"
+      "logoURI": "https://polygonscan.com/token/images/polinatefi_32.png"
     },
     {
       "chainId": 137,
@@ -1956,7 +1956,7 @@
       "name": "MnI",
       "symbol": "MNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mni.png"
+      "logoURI": "https://polygonscan.com/token/images/mnicorp_32.png"
     },
     {
       "chainId": 137,
@@ -1964,7 +1964,7 @@
       "name": "dForce USD",
       "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usx.png"
+      "logoURI": "https://polygonscan.com/token/images/dforceusx_32.png"
     },
     {
       "chainId": 137,
@@ -1972,7 +1972,7 @@
       "name": "iNFTspaceToken",
       "symbol": "INS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ins.png"
+      "logoURI": "https://polygonscan.com/token/images/inftspace_32.png"
     },
     {
       "chainId": 137,
@@ -1980,7 +1980,7 @@
       "name": "Orion Money Token",
       "symbol": "ORION",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/orion.png"
+      "logoURI": "https://polygonscan.com/token/images/orionmoney_32.png"
     },
     {
       "chainId": 137,
@@ -1988,7 +1988,7 @@
       "name": "UniCrypt",
       "symbol": "UNCX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/uncx.svg"
+      "logoURI": "https://polygonscan.com/token/images/unicryptuncx_32.png"
     },
     {
       "chainId": 137,
@@ -1996,7 +1996,7 @@
       "name": "tSILVER",
       "symbol": "TXAG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/txag.png"
+      "logoURI": "https://polygonscan.com/token/images/aurustsilver_32.png"
     },
     {
       "chainId": 137,
@@ -2004,7 +2004,7 @@
       "name": "Sway Social Protocol",
       "symbol": "SWAY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sway.png"
+      "logoURI": "https://polygonscan.com/token/images/swaysocial_32.png"
     },
     {
       "chainId": 137,
@@ -2012,7 +2012,7 @@
       "name": "Stake DAO Token",
       "symbol": "SDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sdt.svg"
+      "logoURI": "https://polygonscan.com/token/images/stakedaopoly_32.png"
     },
     {
       "chainId": 137,
@@ -2020,7 +2020,7 @@
       "name": "CUBIX",
       "symbol": "CUBIX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cubix.png"
+      "logoURI": "https://polygonscan.com/token/images/cubixpro_32.png"
     },
     {
       "chainId": 137,
@@ -2028,7 +2028,7 @@
       "name": "Bankless Token",
       "symbol": "BANK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bank.png"
+      "logoURI": "https://polygonscan.com/token/images/banklesstoken_32.png"
     },
     {
       "chainId": 137,
@@ -2036,7 +2036,7 @@
       "name": "EUROe Stablecoin",
       "symbol": "EUROe",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/euroe.png"
+      "logoURI": "https://polygonscan.com/token/images/euroestable_32.png"
     },
     {
       "chainId": 137,
@@ -2044,7 +2044,7 @@
       "name": "Elk",
       "symbol": "ELK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/elk.png"
+      "logoURI": "https://polygonscan.com/token/images/elkfinance_32.png"
     },
     {
       "chainId": 137,
@@ -2052,7 +2052,7 @@
       "name": "Mad Meerkat Finance",
       "symbol": "MMF",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mmf.png"
+      "logoURI": "https://polygonscan.com/token/images/mmfinancepoly_32.png"
     },
     {
       "chainId": 137,
@@ -2060,7 +2060,7 @@
       "name": "TOMB",
       "symbol": "TOMB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/tomb.png"
+      "logoURI": "https://polygonscan.com/token/images/tombpoly_32.png"
     },
     {
       "chainId": 137,
@@ -2068,7 +2068,7 @@
       "name": "Nash Exchange Token",
       "symbol": "NEX",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nex.svg"
+      "logoURI": "https://polygonscan.com/token/images/nashexchangepoly2_32.png"
     },
     {
       "chainId": 137,
@@ -2076,7 +2076,7 @@
       "name": "Synergy Land Token",
       "symbol": "SNG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sng.png"
+      "logoURI": "https://polygonscan.com/token/images/synergylandsng_32.png"
     },
     {
       "chainId": 137,
@@ -2084,7 +2084,7 @@
       "name": "IceToken",
       "symbol": "ICE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ice.svg"
+      "logoURI": "https://polygonscan.com/token/images/popsiclefinance_32.png"
     },
     {
       "chainId": 137,
@@ -2092,7 +2092,7 @@
       "name": "IceToken Bridged",
       "symbol": "ICE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ice.svg"
+      "logoURI": "https://polygonscan.com/token/images/popsiclefinance_32.png"
     },
     {
       "chainId": 137,
@@ -2100,7 +2100,7 @@
       "name": "JumpToken",
       "symbol": "JMPT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jmpt.png"
+      "logoURI": "https://polygonscan.com/token/images/jumptask_32.png"
     },
     {
       "chainId": 137,
@@ -2108,7 +2108,7 @@
       "name": "Carbify",
       "symbol": "CBY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cby.png"
+      "logoURI": "https://polygonscan.com/token/images/carbify_32.png"
     },
     {
       "chainId": 137,
@@ -2116,7 +2116,7 @@
       "name": "WrappedPeercoin",
       "symbol": "wPPC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wppc.png"
+      "logoURI": "https://polygonscan.com/token/images/peercoinwrapped_32.png"
     },
     {
       "chainId": 137,
@@ -2124,7 +2124,7 @@
       "name": "Entropy",
       "symbol": "ERP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/erp.png"
+      "logoURI": "https://polygonscan.com/token/images/entropy_32.png"
     },
     {
       "chainId": 137,
@@ -2132,7 +2132,7 @@
       "name": "BetSwirl v2",
       "symbol": "BETS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bets.png"
+      "logoURI": "https://polygonscan.com/token/images/betswirl_32.png"
     },
     {
       "chainId": 137,
@@ -2140,7 +2140,7 @@
       "name": "Miracleplay Token",
       "symbol": "MPT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mpt.png"
+      "logoURI": "https://polygonscan.com/token/images/miracleplay_32.png"
     },
     {
       "chainId": 137,
@@ -2148,7 +2148,7 @@
       "name": "Wrapped Banano",
       "symbol": "wBAN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wban.png"
+      "logoURI": "https://polygonscan.com/token/images/wbananoccpoly_32.png"
     },
     {
       "chainId": 137,
@@ -2156,7 +2156,7 @@
       "name": "Space Token",
       "symbol": "SPACE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/space.png"
+      "logoURI": "https://polygonscan.com/token/images/spacetoken_32.png"
     },
     {
       "chainId": 137,
@@ -2164,7 +2164,7 @@
       "name": "Ankr Eth2 Reward Bearing Certificate",
       "symbol": "aETHc",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aethc.png"
+      "logoURI": "https://polygonscan.com/token/images/ankraetc_32.png"
     },
     {
       "chainId": 137,
@@ -2172,7 +2172,7 @@
       "name": "Giddy Token",
       "symbol": "GDDY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gddy.png"
+      "logoURI": "https://polygonscan.com/token/images/giddyco_32.png"
     },
     {
       "chainId": 137,
@@ -2180,7 +2180,7 @@
       "name": "Mars Token",
       "symbol": "MRST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mrst.png"
+      "logoURI": "https://polygonscan.com/token/images/marslabs2_32.png"
     },
     {
       "chainId": 137,
@@ -2188,7 +2188,7 @@
       "name": "MAMA DAO",
       "symbol": "MAMA",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mama.png"
+      "logoURI": "https://polygonscan.com/token/images/mamadao_32.png"
     },
     {
       "chainId": 137,
@@ -2196,7 +2196,7 @@
       "name": "LFG Token [via ChainPort.io]",
       "symbol": "LFG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lfg.png"
+      "logoURI": "https://polygonscan.com/token/images/gamerse_32.png"
     },
     {
       "chainId": 137,
@@ -2204,7 +2204,7 @@
       "name": "Morpheus Infrastructure Token",
       "symbol": "MITx",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mitx.png"
+      "logoURI": "https://polygonscan.com/token/images/morpheuslabs2_32.png"
     },
     {
       "chainId": 137,
@@ -2212,7 +2212,7 @@
       "name": "Rai Reflex Index",
       "symbol": "RAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rai.svg"
+      "logoURI": "https://polygonscan.com/token/images/raireflexindex_32.png"
     },
     {
       "chainId": 137,
@@ -2220,7 +2220,7 @@
       "name": "Decentral Games Governance",
       "symbol": "xDG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/xdg.svg"
+      "logoURI": "https://polygonscan.com/token/images/decentralgamesgov_32.png?v=1"
     },
     {
       "chainId": 137,
@@ -2228,7 +2228,7 @@
       "name": "Vabble",
       "symbol": "VAB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/vab.png"
+      "logoURI": "https://polygonscan.com/token/images/vabbletoken_32.png"
     },
     {
       "chainId": 137,
@@ -2236,7 +2236,7 @@
       "name": "Orica",
       "symbol": "ORI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ori.png"
+      "logoURI": "https://polygonscan.com/token/images/oricabsc2_32.png"
     },
     {
       "chainId": 137,
@@ -2244,7 +2244,7 @@
       "name": "Ludena Protocol",
       "symbol": "LDN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ldn.png"
+      "logoURI": "https://polygonscan.com/token/images/ludenaprotocol_32.png"
     },
     {
       "chainId": 137,
@@ -2252,7 +2252,7 @@
       "name": "PontoonToken",
       "symbol": "TOON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/toon.png"
+      "logoURI": "https://polygonscan.com/token/images/pontoon_32.png"
     },
     {
       "chainId": 137,
@@ -2260,7 +2260,7 @@
       "name": "DogeGF",
       "symbol": "DOGEGF",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dogegf.png"
+      "logoURI": "https://polygonscan.com/token/images/dogegf_32.png"
     },
     {
       "chainId": 137,
@@ -2268,7 +2268,7 @@
       "name": "Gravity Finance",
       "symbol": "GFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gfi.png"
+      "logoURI": "https://polygonscan.com/token/images/gravityfinance_32.png"
     },
     {
       "chainId": 137,
@@ -2276,7 +2276,7 @@
       "name": "ELIS",
       "symbol": "XLS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/xls.png"
+      "logoURI": "https://polygonscan.com/token/images/elistech_32.png"
     },
     {
       "chainId": 137,
@@ -2284,7 +2284,7 @@
       "name": "Flourishing AI Token",
       "symbol": "AI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ai.png"
+      "logoURI": "https://polygonscan.com/token/images/flourishingcapital_32.png"
     },
     {
       "chainId": 137,
@@ -2292,7 +2292,7 @@
       "name": "Imported GBYTE",
       "symbol": "GBYTE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gbyte.png"
+      "logoURI": "https://polygonscan.com/token/images/obytepoly_32.png"
     },
     {
       "chainId": 137,
@@ -2300,7 +2300,7 @@
       "name": "Woofy",
       "symbol": "WOOFY",
       "decimals": 12,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/woofy.svg"
+      "logoURI": "https://polygonscan.com/token/images/woofy_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -2308,7 +2308,7 @@
       "name": "Glitch",
       "symbol": "GLCH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/glch.svg"
+      "logoURI": "https://polygonscan.com/token/images/glitch_32.png"
     },
     {
       "chainId": 137,
@@ -2316,7 +2316,7 @@
       "name": "Revolt 2 Earn",
       "symbol": "RVLT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rvlt.png"
+      "logoURI": "https://polygonscan.com/token/images/revolt2earn_32.png"
     },
     {
       "chainId": 137,
@@ -2324,7 +2324,7 @@
       "name": "Hakka Finance",
       "symbol": "HAKKA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/hakka.svg"
+      "logoURI": "https://polygonscan.com/token/images/hakkafinance_32.png"
     },
     {
       "chainId": 137,
@@ -2332,7 +2332,7 @@
       "name": "Pleasure Coin",
       "symbol": "NSFW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nsfw.png"
+      "logoURI": "https://polygonscan.com/token/images/pleasurecoin_32.png"
     },
     {
       "chainId": 137,
@@ -2340,7 +2340,7 @@
       "name": "Toucan Protocol: Base Carbon Tonne",
       "symbol": "BCT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bct.png"
+      "logoURI": "https://polygonscan.com/token/images/toucanearth_32.png"
     },
     {
       "chainId": 137,
@@ -2348,7 +2348,7 @@
       "name": "Fish",
       "symbol": "FISH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fish.png"
+      "logoURI": "https://polygonscan.com/token/images/polycat_32.png"
     },
     {
       "chainId": 137,
@@ -2356,7 +2356,7 @@
       "name": "EVERYONESCRYPTO",
       "symbol": "EOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/eoc.png"
+      "logoURI": "https://polygonscan.com/token/images/everyonecryptos_32.png"
     },
     {
       "chainId": 137,
@@ -2364,7 +2364,7 @@
       "name": "NFTBOOKS",
       "symbol": "NFTBS",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nftbs.png"
+      "logoURI": "https://polygonscan.com/token/images/nftbooks_32.png"
     },
     {
       "chainId": 137,
@@ -2372,7 +2372,7 @@
       "name": "USDK",
       "symbol": "USDK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usdk.svg"
+      "logoURI": "https://polygonscan.com/token/images/usdk_32.png"
     },
     {
       "chainId": 137,
@@ -2380,7 +2380,7 @@
       "name": "Sport",
       "symbol": "SPORT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sport.png"
+      "logoURI": "https://polygonscan.com/token/images/lymposport_32.png"
     },
     {
       "chainId": 137,
@@ -2388,7 +2388,7 @@
       "name": "Giveth",
       "symbol": "fxGIV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fxgiv.png"
+      "logoURI": "https://polygonscan.com/token/images/givethgno_32.png"
     },
     {
       "chainId": 137,
@@ -2396,7 +2396,7 @@
       "name": "RadioShack Token",
       "symbol": "RADIO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/radio.png"
+      "logoURI": "https://polygonscan.com/token/images/radioshack_32.png"
     },
     {
       "chainId": 137,
@@ -2404,7 +2404,7 @@
       "name": "Synapse Network",
       "symbol": "SNP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/snp.png"
+      "logoURI": "https://polygonscan.com/token/images/synapsenetwork_32.png"
     },
     {
       "chainId": 137,
@@ -2412,7 +2412,7 @@
       "name": "Sphere Finance",
       "symbol": "SPHERE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sphere.png"
+      "logoURI": "https://polygonscan.com/token/images/spherefinance_32.png"
     },
     {
       "chainId": 137,
@@ -2420,7 +2420,7 @@
       "name": "Quadrant Protocol",
       "symbol": "eQUAD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/equad.svg"
+      "logoURI": "https://polygonscan.com/token/images/quadrant_32.png"
     },
     {
       "chainId": 137,
@@ -2428,7 +2428,7 @@
       "name": "Lithium IONs",
       "symbol": "IONs",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ions.png"
+      "logoURI": "https://polygonscan.com/token/images/lithiumventures_32.png"
     },
     {
       "chainId": 137,
@@ -2436,7 +2436,7 @@
       "name": "Pepedex",
       "symbol": "PPDEX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ppdex.png"
+      "logoURI": "https://polygonscan.com/token/images/pepedex_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -2444,7 +2444,7 @@
       "name": "$KMC",
       "symbol": "$KMC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/$kmc.png"
+      "logoURI": "https://polygonscan.com/token/images/kmc_32.png"
     },
     {
       "chainId": 137,
@@ -2452,7 +2452,7 @@
       "name": "TryHards",
       "symbol": "TRY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/try.png"
+      "logoURI": "https://polygonscan.com/token/images/tryhards_32.png"
     },
     {
       "chainId": 137,
@@ -2460,7 +2460,7 @@
       "name": "Direct",
       "symbol": "DRCT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/drct.png"
+      "logoURI": "https://polygonscan.com/token/images/allydirect_32.png"
     },
     {
       "chainId": 137,
@@ -2468,7 +2468,7 @@
       "name": "TetherToken",
       "symbol": "MXNt",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mxnt.png"
+      "logoURI": "https://polygonscan.com/token/images/tethermxnt_32.png"
     },
     {
       "chainId": 137,
@@ -2476,7 +2476,7 @@
       "name": "Yellow Duckies",
       "symbol": "DUCKIES",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/duckies.png"
+      "logoURI": "https://polygonscan.com/token/images/yellowduckies_32.png"
     },
     {
       "chainId": 137,
@@ -2484,7 +2484,7 @@
       "name": "Ethereum Meta",
       "symbol": "ETHM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ethm.png"
+      "logoURI": "https://polygonscan.com/token/images/ethereummeta_32.png"
     },
     {
       "chainId": 137,
@@ -2492,7 +2492,7 @@
       "name": "MetalSwap",
       "symbol": "XMT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/xmt.png"
+      "logoURI": "https://polygonscan.com/token/images/metalswapxmt_32.png"
     },
     {
       "chainId": 137,
@@ -2500,7 +2500,7 @@
       "name": "Crosschain IOTX",
       "symbol": "CIOTX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ciotx.png"
+      "logoURI": "https://polygonscan.com/token/images/crosschainiotx_32.png"
     },
     {
       "chainId": 137,
@@ -2508,7 +2508,7 @@
       "name": "TSHARE",
       "symbol": "TSHARE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/tshare.png"
+      "logoURI": "https://polygonscan.com/token/images/tombsharespoly_32.png"
     },
     {
       "chainId": 137,
@@ -2516,7 +2516,7 @@
       "name": "Atari",
       "symbol": "ATRI",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/atri.svg"
+      "logoURI": "https://polygonscan.com/token/images/ataritoken_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -2524,7 +2524,7 @@
       "name": "EarnX",
       "symbol": "EarnX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/earnx.png"
+      "logoURI": "https://polygonscan.com/token/images/yearnclassicearnx_32.png"
     },
     {
       "chainId": 137,
@@ -2532,7 +2532,7 @@
       "name": "NFTY Token",
       "symbol": "NFTY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nfty.png"
+      "logoURI": "https://polygonscan.com/token/images/nftytoken_32.png"
     },
     {
       "chainId": 137,
@@ -2540,7 +2540,7 @@
       "name": "OxAI",
       "symbol": "OXAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oxai.png"
+      "logoURI": "https://polygonscan.com/token/images/oxai_32.png"
     },
     {
       "chainId": 137,
@@ -2548,7 +2548,7 @@
       "name": "RAMP",
       "symbol": "RAMP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ramp.svg"
+      "logoURI": "https://polygonscan.com/token/images/ramp_32.png"
     },
     {
       "chainId": 137,
@@ -2556,7 +2556,7 @@
       "name": "Popcorn",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pop.svg"
+      "logoURI": "https://polygonscan.com/token/images/popcornnetwork_32.png"
     },
     {
       "chainId": 137,
@@ -2564,7 +2564,7 @@
       "name": "BLOCKv",
       "symbol": "VEE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/vee.svg"
+      "logoURI": "https://polygonscan.com/token/images/blockv_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -2572,7 +2572,7 @@
       "name": "JP3G",
       "symbol": "JP3G",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jp3g.png"
+      "logoURI": "https://polygonscan.com/token/images/jp3gvault2_32.png"
     },
     {
       "chainId": 137,
@@ -2580,7 +2580,7 @@
       "name": "JetSwap Polygon Token",
       "symbol": "pWINGS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pwings.png"
+      "logoURI": "https://polygonscan.com/token/images/jetswappoly_32.png"
     },
     {
       "chainId": 137,
@@ -2588,7 +2588,7 @@
       "name": "Aavegotchi FOMO",
       "symbol": "FOMO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fomo.png"
+      "logoURI": "https://polygonscan.com/token/images/aavegotchifomo_32.png"
     },
     {
       "chainId": 137,
@@ -2596,7 +2596,7 @@
       "name": "Aavegotchi KEK",
       "symbol": "KEK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/kek.png"
+      "logoURI": "https://polygonscan.com/token/images/aavegotchikek_32.png"
     },
     {
       "chainId": 137,
@@ -2604,7 +2604,7 @@
       "name": "Milk",
       "symbol": "MILK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/milk.png"
+      "logoURI": "https://polygonscan.com/token/images/coolcatsmilk_32.png"
     },
     {
       "chainId": 137,
@@ -2612,7 +2612,7 @@
       "name": "Herocoin",
       "symbol": "PLAY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/play.svg"
+      "logoURI": "https://polygonscan.com/token/images/herocoinpoly_32.png"
     },
     {
       "chainId": 137,
@@ -2620,7 +2620,7 @@
       "name": "Aavegotchi ALPHA",
       "symbol": "ALPHA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/alpha.png"
+      "logoURI": "https://polygonscan.com/token/images/aavegotchialpha_32.png"
     },
     {
       "chainId": 137,
@@ -2628,7 +2628,7 @@
       "name": "Flare Token",
       "symbol": "1FLR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/1flr.png"
+      "logoURI": "https://polygonscan.com/token/images/flaretoken_32.png"
     },
     {
       "chainId": 137,
@@ -2636,7 +2636,7 @@
       "name": "Phenix Finance",
       "symbol": "PHNX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/phnx.png"
+      "logoURI": "https://polygonscan.com/token/images/phenixfinance_32.png"
     },
     {
       "chainId": 137,
@@ -2644,7 +2644,7 @@
       "name": "EverRise",
       "symbol": "RISE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rise.png"
+      "logoURI": "https://polygonscan.com/token/images/everrise_32.png"
     },
     {
       "chainId": 137,
@@ -2652,7 +2652,7 @@
       "name": "Jarvis Reward Token",
       "symbol": "JRT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jrt.svg"
+      "logoURI": "https://polygonscan.com/token/images/jarvis_28.png"
     },
     {
       "chainId": 137,
@@ -2660,7 +2660,7 @@
       "name": "Aavegotchi FUD",
       "symbol": "FUD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fud.png"
+      "logoURI": "https://polygonscan.com/token/images/aavefud_32.png"
     },
     {
       "chainId": 137,
@@ -2668,7 +2668,7 @@
       "name": "Follow",
       "symbol": "FOLO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/folo.png"
+      "logoURI": "https://polygonscan.com/token/images/alphaimpact_32.png"
     },
     {
       "chainId": 137,
@@ -2676,7 +2676,7 @@
       "name": "A4",
       "symbol": "A4",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/a4.png"
+      "logoURI": "https://polygonscan.com/token/images/a4finance_32.png"
     },
     {
       "chainId": 137,
@@ -2684,7 +2684,7 @@
       "name": "PieDAO DOUGH v2",
       "symbol": "DOUGH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dough.png"
+      "logoURI": "https://polygonscan.com/token/images/piedao_32.png"
     },
     {
       "chainId": 137,
@@ -2692,7 +2692,7 @@
       "name": "GhostMarket Token",
       "symbol": "GM",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gm.png"
+      "logoURI": "https://polygonscan.com/token/images/ghostmarket2_32.png"
     },
     {
       "chainId": 137,
@@ -2700,7 +2700,7 @@
       "name": "Coreto",
       "symbol": "COR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cor.svg"
+      "logoURI": "https://polygonscan.com/token/images/coreto_32.png"
     },
     {
       "chainId": 137,
@@ -2708,7 +2708,7 @@
       "name": "Monolend",
       "symbol": "MLD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mld.png"
+      "logoURI": "https://polygonscan.com/token/images/monolendmoney_32.png"
     },
     {
       "chainId": 137,
@@ -2716,7 +2716,7 @@
       "name": "Runy",
       "symbol": "Runy",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/runy.png"
+      "logoURI": "https://polygonscan.com/token/images/runy_32.png"
     },
     {
       "chainId": 137,
@@ -2724,7 +2724,7 @@
       "name": "SOMBRA",
       "symbol": "SMBR",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/smbr.png"
+      "logoURI": "https://polygonscan.com/token/images/sombraapp_32.png"
     },
     {
       "chainId": 137,
@@ -2732,7 +2732,7 @@
       "name": "RipioCreditNetwork",
       "symbol": "RCN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rcn.png"
+      "logoURI": "https://polygonscan.com/token/images/ripio_28_2.png"
     },
     {
       "chainId": 137,
@@ -2740,7 +2740,7 @@
       "name": "Lympo Market Token",
       "symbol": "LMT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lmt.png"
+      "logoURI": "https://polygonscan.com/token/images/lympomarkettoken_32.png"
     },
     {
       "chainId": 137,
@@ -2748,7 +2748,7 @@
       "name": "Poodl Exchange Token",
       "symbol": "PET",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pet.png"
+      "logoURI": "https://polygonscan.com/token/images/poodlexchange_32.png"
     },
     {
       "chainId": 137,
@@ -2756,7 +2756,7 @@
       "name": "DELOT.IO",
       "symbol": "DELOT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/delot.png"
+      "logoURI": "https://polygonscan.com/token/images/delotio_32.png"
     },
     {
       "chainId": 137,
@@ -2764,7 +2764,7 @@
       "name": "Graviton",
       "symbol": "GTON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gton.png"
+      "logoURI": "https://polygonscan.com/token/images/gtoncapital_32.png"
     },
     {
       "chainId": 137,
@@ -2772,7 +2772,7 @@
       "name": "Edge Activity Token",
       "symbol": "EAT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/eat.png"
+      "logoURI": "https://polygonscan.com/token/images/edgevideo_32.png"
     },
     {
       "chainId": 137,
@@ -2780,7 +2780,7 @@
       "name": "Apreum",
       "symbol": "APU",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/apu.png"
+      "logoURI": "https://polygonscan.com/token/images/swopx_32.png"
     },
     {
       "chainId": 137,
@@ -2788,7 +2788,7 @@
       "name": "INVERSE",
       "symbol": "XIV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/xiv.png"
+      "logoURI": "https://polygonscan.com/token/images/projectinverse_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -2796,7 +2796,7 @@
       "name": "Fancy Games",
       "symbol": "FNC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fnc.png"
+      "logoURI": "https://polygonscan.com/token/images/fancygames_32.png"
     },
     {
       "chainId": 137,
@@ -2804,7 +2804,7 @@
       "name": "Stacker Ventures Token",
       "symbol": "STACK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/stack.png"
+      "logoURI": "https://polygonscan.com/token/images/stacker_32.png"
     },
     {
       "chainId": 137,
@@ -2812,7 +2812,7 @@
       "name": "StackOS",
       "symbol": "STACK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/stack.png"
+      "logoURI": "https://polygonscan.com/token/images/stackos_32.png?v=4"
     },
     {
       "chainId": 137,
@@ -2820,7 +2820,7 @@
       "name": "DOVU",
       "symbol": "DOV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dov.svg"
+      "logoURI": "https://polygonscan.com/token/images/dovu_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -2828,7 +2828,7 @@
       "name": "STAKE",
       "symbol": "STAKE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/stake.png"
+      "logoURI": "https://polygonscan.com/token/images/stake_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -2836,7 +2836,7 @@
       "name": "HUSD",
       "symbol": "HUSD",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/husd.png"
+      "logoURI": "https://polygonscan.com/token/images/husd_32.png"
     },
     {
       "chainId": 137,
@@ -2844,7 +2844,7 @@
       "name": "AnRKey X",
       "symbol": "$ANRX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/$anrx.svg"
+      "logoURI": "https://polygonscan.com/token/images/anrkeyx_32.png"
     },
     {
       "chainId": 137,
@@ -2852,7 +2852,7 @@
       "name": "Shardus",
       "symbol": "ULT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ult.svg"
+      "logoURI": "https://polygonscan.com/token/images/shardus_32.png"
     },
     {
       "chainId": 137,
@@ -2860,7 +2860,7 @@
       "name": "GameStation",
       "symbol": "GAMER",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gamer.png"
+      "logoURI": "https://polygonscan.com/token/images/gamestation_32.png?v=6"
     },
     {
       "chainId": 137,
@@ -2868,7 +2868,7 @@
       "name": "Cryptonovae",
       "symbol": "YAE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/yae.png"
+      "logoURI": "https://polygonscan.com/token/images/cryptonovae_32.png"
     },
     {
       "chainId": 137,
@@ -2876,7 +2876,7 @@
       "name": "UNIFARM Token",
       "symbol": "UFARM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ufarm.png"
+      "logoURI": "https://polygonscan.com/token/images/unifarmtoken_32.png"
     },
     {
       "chainId": 137,
@@ -2884,7 +2884,7 @@
       "name": "Ethereum Blue",
       "symbol": "BLUE",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/blue.svg"
+      "logoURI": "https://polygonscan.com/token/images/etherblue_28.png"
     },
     {
       "chainId": 137,
@@ -2892,7 +2892,7 @@
       "name": "Parrot Egg",
       "symbol": "pPEGG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ppegg.png"
+      "logoURI": "https://polygonscan.com/token/images/parrotegg_32.png"
     },
     {
       "chainId": 137,
@@ -2900,7 +2900,7 @@
       "name": "YEL Token",
       "symbol": "YEL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/yel.png"
+      "logoURI": "https://polygonscan.com/token/images/yelfinance_32.png"
     },
     {
       "chainId": 137,
@@ -2908,7 +2908,7 @@
       "name": "PayBolt",
       "symbol": "PAY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pay.svg"
+      "logoURI": "https://polygonscan.com/token/images/paybolt2_32.png"
     },
     {
       "chainId": 137,
@@ -2916,7 +2916,7 @@
       "name": "0xBitcoin Token",
       "symbol": "0xBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/0xbtc.svg"
+      "logoURI": "https://polygonscan.com/token/images/0xbitcoin_32.png"
     },
     {
       "chainId": 137,
@@ -2924,7 +2924,7 @@
       "name": "Fundamenta",
       "symbol": "FMTA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fmta.png"
+      "logoURI": "https://polygonscan.com/token/images/civitasfundamenta_32.png"
     },
     {
       "chainId": 137,
@@ -2932,7 +2932,7 @@
       "name": "HASH",
       "symbol": "HASH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/hash.png"
+      "logoURI": "https://polygonscan.com/token/images/hashbonpoly_32.png"
     },
     {
       "chainId": 137,
@@ -2940,7 +2940,7 @@
       "name": "BTU Protocol",
       "symbol": "BTU",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/btu.svg"
+      "logoURI": "https://polygonscan.com/token/images/btu_28.png"
     },
     {
       "chainId": 137,
@@ -2948,7 +2948,7 @@
       "name": "OwlDAO token",
       "symbol": "OWL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/owl.png"
+      "logoURI": "https://polygonscan.com/token/images/owldao_32.png"
     },
     {
       "chainId": 137,
@@ -2956,7 +2956,7 @@
       "name": "CACHE Gold",
       "symbol": "CGT",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cgt.png"
+      "logoURI": "https://polygonscan.com/token/images/cachegoldpoly_32.png"
     },
     {
       "chainId": 137,
@@ -2964,7 +2964,7 @@
       "name": "Stable One Rocket",
       "symbol": "SROCKET",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/srocket.png"
+      "logoURI": "https://polygonscan.com/token/images/srocket_32.png"
     },
     {
       "chainId": 137,
@@ -2972,7 +2972,7 @@
       "name": "WOWswap",
       "symbol": "WOW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wow.png"
+      "logoURI": "https://polygonscan.com/token/images/wowswap_32.png"
     },
     {
       "chainId": 137,
@@ -2980,7 +2980,7 @@
       "name": "Scoobi-Doge",
       "symbol": "SCooBi",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/scoobi.png"
+      "logoURI": "https://polygonscan.com/token/images/scoobidoge2_32.png"
     },
     {
       "chainId": 137,
@@ -2988,7 +2988,7 @@
       "name": "ACY",
       "symbol": "ACY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/acy.svg"
+      "logoURI": "https://polygonscan.com/token/images/acyfinance_32.png"
     },
     {
       "chainId": 137,
@@ -2996,7 +2996,7 @@
       "name": "DAOventuresDeFi",
       "symbol": "DVD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dvd.png"
+      "logoURI": "https://polygonscan.com/token/images/daoventuresdvd_32.png"
     },
     {
       "chainId": 137,
@@ -3004,7 +3004,7 @@
       "name": "renDOGE",
       "symbol": "renDOGE",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rendoge.svg"
+      "logoURI": "https://polygonscan.com/token/images/rendogecoin_32.png"
     },
     {
       "chainId": 137,
@@ -3012,7 +3012,7 @@
       "name": "CBK",
       "symbol": "CBK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cbk.png"
+      "logoURI": "https://polygonscan.com/token/images/cbkcbk_32.png"
     },
     {
       "chainId": 137,
@@ -3020,7 +3020,7 @@
       "name": "GemGuardian",
       "symbol": "GEMG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gemg.png"
+      "logoURI": "https://polygonscan.com/token/images/gemg_32.png"
     },
     {
       "chainId": 137,
@@ -3028,7 +3028,7 @@
       "name": "Navigator",
       "symbol": "NTTC",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nttc.png"
+      "logoURI": "https://polygonscan.com/token/images/navigatortech_32.png"
     },
     {
       "chainId": 137,
@@ -3036,7 +3036,7 @@
       "name": "StableFund USD",
       "symbol": "SFUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sfusd.png"
+      "logoURI": "https://polygonscan.com/token/images/sfusd_32.png"
     },
     {
       "chainId": 137,
@@ -3044,7 +3044,7 @@
       "name": "UNCL",
       "symbol": "UNCL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/uncl.png"
+      "logoURI": "https://polygonscan.com/token/images/unicryptuncl_32.png"
     },
     {
       "chainId": 137,
@@ -3052,7 +3052,7 @@
       "name": "Answerly",
       "symbol": "ANSR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ansr.png"
+      "logoURI": "https://polygonscan.com/token/images/answerlyapp_32.png"
     },
     {
       "chainId": 137,
@@ -3060,7 +3060,7 @@
       "name": "WalletNow",
       "symbol": "WNOW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wnow.png"
+      "logoURI": "https://polygonscan.com/token/images/walletnow_32.png"
     },
     {
       "chainId": 137,
@@ -3068,7 +3068,7 @@
       "name": "Inflation Adjusted Spice USD",
       "symbol": "iUSDS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/iusds.png"
+      "logoURI": "https://polygonscan.com/token/images/spicetradeinflation_32.png"
     },
     {
       "chainId": 137,
@@ -3076,7 +3076,7 @@
       "name": "MaticLaunch",
       "symbol": "MTCL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mtcl.png"
+      "logoURI": "https://polygonscan.com/token/images/maticlaunch_32.png"
     },
     {
       "chainId": 137,
@@ -3084,7 +3084,7 @@
       "name": "Bridged RPTR",
       "symbol": "RPTR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rptr.png"
+      "logoURI": "https://polygonscan.com/token/images/raptorchain_32.png"
     },
     {
       "chainId": 137,
@@ -3092,7 +3092,7 @@
       "name": "Universal Store of Value",
       "symbol": "USV",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/usv.png"
+      "logoURI": "https://polygonscan.com/token/images/atlasusv_32.png"
     },
     {
       "chainId": 137,
@@ -3100,7 +3100,7 @@
       "name": "CRYPTOPUNT Token",
       "symbol": "PUN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pun.png"
+      "logoURI": "https://polygonscan.com/token/images/cryptopunt_32.png"
     },
     {
       "chainId": 137,
@@ -3108,7 +3108,7 @@
       "name": "Impermax",
       "symbol": "IMX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/imx.png"
+      "logoURI": "https://polygonscan.com/token/images/impermax_32.png"
     },
     {
       "chainId": 137,
@@ -3116,7 +3116,7 @@
       "name": "HONOR",
       "symbol": "HONOR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/honor.png"
+      "logoURI": "https://polygonscan.com/token/images/honor_32.png"
     },
     {
       "chainId": 137,
@@ -3124,7 +3124,7 @@
       "name": "Orbit",
       "symbol": "ORBIT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/orbit.png"
+      "logoURI": "https://polygonscan.com/token/images/orbitlaunch_32.png"
     },
     {
       "chainId": 137,
@@ -3132,7 +3132,7 @@
       "name": "KeyFi Token",
       "symbol": "KEYFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/keyfi.png"
+      "logoURI": "https://polygonscan.com/token/images/keyfi_32.png"
     },
     {
       "chainId": 137,
@@ -3140,7 +3140,7 @@
       "name": "LunaChow",
       "symbol": "LUCHOW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/luchow.png"
+      "logoURI": "https://polygonscan.com/token/images/lunachow_32.png"
     },
     {
       "chainId": 137,
@@ -3148,7 +3148,7 @@
       "name": "MMToken",
       "symbol": "MM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mm.png"
+      "logoURI": "https://polygonscan.com/token/images/mushroomsfinance_32.png"
     },
     {
       "chainId": 137,
@@ -3156,7 +3156,7 @@
       "name": "Otter Clam",
       "symbol": "CLAM",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/clam.png"
+      "logoURI": "https://polygonscan.com/token/images/otterclamfinance_32.png"
     },
     {
       "chainId": 137,
@@ -3164,7 +3164,7 @@
       "name": "CBomber Token",
       "symbol": "CBOMBER",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cbomber.png"
+      "logoURI": "https://polygonscan.com/token/images/cryptobomber_32.png"
     },
     {
       "chainId": 137,
@@ -3172,7 +3172,7 @@
       "name": "ARTH Valuecoin",
       "symbol": "ARTH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/arth.svg"
+      "logoURI": "https://polygonscan.com/token/images/mahadaoarth2_32.png"
     },
     {
       "chainId": 137,
@@ -3180,7 +3180,7 @@
       "name": "Flux Protocol",
       "symbol": "FLUX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/flux.svg"
+      "logoURI": "https://polygonscan.com/token/images/fluxprotocol_32.png"
     },
     {
       "chainId": 137,
@@ -3188,7 +3188,7 @@
       "name": "TORG",
       "symbol": "TORG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/torg.png"
+      "logoURI": "https://polygonscan.com/token/images/torg_32.png"
     },
     {
       "chainId": 137,
@@ -3196,7 +3196,7 @@
       "name": "CAT",
       "symbol": "CAT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cat.png"
+      "logoURI": "https://polygonscan.com/token/images/kittyfinancecat_32.png"
     },
     {
       "chainId": 137,
@@ -3204,7 +3204,7 @@
       "name": "JOY",
       "symbol": "JOY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/joy.png"
+      "logoURI": "https://polygonscan.com/token/images/joystickclub_32.png"
     },
     {
       "chainId": 137,
@@ -3212,7 +3212,7 @@
       "name": "Snowflake",
       "symbol": "SNOW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/snow.svg"
+      "logoURI": "https://polygonscan.com/token/images/snowflakeexchange_32.png"
     },
     {
       "chainId": 137,
@@ -3220,7 +3220,7 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bal.svg"
+      "logoURI": "https://polygonscan.com/token/images/Balancer_32.png"
     },
     {
       "chainId": 137,
@@ -3228,7 +3228,7 @@
       "name": "SW DAO [via ChainPort.io]",
       "symbol": "SWD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/swd.png"
+      "logoURI": "https://polygonscan.com/token/images/swdao_32.png"
     },
     {
       "chainId": 137,
@@ -3236,7 +3236,7 @@
       "name": "SpaceRat",
       "symbol": "SRAT",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/srat.svg"
+      "logoURI": "https://polygonscan.com/token/images/spacerat_32.png"
     },
     {
       "chainId": 137,
@@ -3244,7 +3244,7 @@
       "name": "Wrapped Celo",
       "symbol": "wCELO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wcelo.svg"
+      "logoURI": "https://polygonscan.com/token/images/wrappedcelo_32.png"
     },
     {
       "chainId": 137,
@@ -3252,7 +3252,7 @@
       "name": "Volt Inu",
       "symbol": "VOLT",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/volt.png"
+      "logoURI": "https://polygonscan.com/token/images/voltinuv2_32.png"
     },
     {
       "chainId": 137,
@@ -3260,7 +3260,7 @@
       "name": "Rainbow Token",
       "symbol": "RBW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rbw.png"
+      "logoURI": "https://polygonscan.com/token/images/unicornrainbow_32.png"
     },
     {
       "chainId": 137,
@@ -3268,7 +3268,7 @@
       "name": "onG",
       "symbol": "ONG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ong.png"
+      "logoURI": "https://polygonscan.com/token/images/ong_32.png"
     },
     {
       "chainId": 137,
@@ -3276,7 +3276,7 @@
       "name": "LasMeta",
       "symbol": "LASM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lasm.png"
+      "logoURI": "https://polygonscan.com/token/images/lasmeta_32.png"
     },
     {
       "chainId": 137,
@@ -3284,7 +3284,7 @@
       "name": "JustMoney",
       "symbol": "JM",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jm.png"
+      "logoURI": "https://polygonscan.com/token/images/justmoney_32.png"
     },
     {
       "chainId": 137,
@@ -3292,7 +3292,7 @@
       "name": "IRON Stablecoin",
       "symbol": "IRON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/iron.png"
+      "logoURI": "https://polygonscan.com/token/images/iron_32.png"
     },
     {
       "chainId": 137,
@@ -3300,7 +3300,7 @@
       "name": "inSure",
       "symbol": "SURE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sure.png"
+      "logoURI": "https://polygonscan.com/token/images/insure_32.png"
     },
     {
       "chainId": 137,
@@ -3308,7 +3308,7 @@
       "name": "CrowdToken",
       "symbol": "CROWD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/crowd.png"
+      "logoURI": "https://polygonscan.com/token/images/crowdtoken_32.png"
     },
     {
       "chainId": 137,
@@ -3316,7 +3316,7 @@
       "name": "Ivory Token",
       "symbol": "IVORY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ivory.png"
+      "logoURI": "https://polygonscan.com/token/images/ivorytoken_32.png"
     },
     {
       "chainId": 137,
@@ -3324,7 +3324,7 @@
       "name": "MOV",
       "symbol": "MOV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mov.png"
+      "logoURI": "https://polygonscan.com/token/images/movnapp2_32.png"
     },
     {
       "chainId": 137,
@@ -3332,7 +3332,7 @@
       "name": "TrotelCoin",
       "symbol": "TROTEL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/trotel.png"
+      "logoURI": "https://polygonscan.com/token/images/trotelcoin_32.png"
     },
     {
       "chainId": 137,
@@ -3340,7 +3340,7 @@
       "name": "Chi Gastoken by 1inch",
       "symbol": "CHI",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/chi.png"
+      "logoURI": "https://polygonscan.com/token/images/chi_1inch_32.png"
     },
     {
       "chainId": 137,
@@ -3348,7 +3348,7 @@
       "name": "Kripton",
       "symbol": "LPK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpk.png"
+      "logoURI": "https://polygonscan.com/token/images/lpesa_28.png"
     },
     {
       "chainId": 137,
@@ -3356,7 +3356,7 @@
       "name": "Lepasa",
       "symbol": "LEPA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lepa.svg"
+      "logoURI": "https://polygonscan.com/token/images/lepasa_32.png"
     },
     {
       "chainId": 137,
@@ -3364,7 +3364,7 @@
       "name": "FreshCut Diamond",
       "symbol": "FCD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fcd.png"
+      "logoURI": "https://polygonscan.com/token/images/freshcutdiamond_32.png"
     },
     {
       "chainId": 137,
@@ -3372,7 +3372,7 @@
       "name": "Grumpy Cat",
       "symbol": "GRUMPY",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/grumpy.png"
+      "logoURI": "https://polygonscan.com/token/images/grumpycat_32.png"
     },
     {
       "chainId": 137,
@@ -3380,7 +3380,7 @@
       "name": "UCASH",
       "symbol": "UCASH",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ucash.png"
+      "logoURI": "https://polygonscan.com/token/images/ucashpoly_32.png"
     },
     {
       "chainId": 137,
@@ -3388,7 +3388,7 @@
       "name": "BoringDAO",
       "symbol": "BOR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bor.png"
+      "logoURI": "https://polygonscan.com/token/images/boringdao3_32.png"
     },
     {
       "chainId": 137,
@@ -3396,7 +3396,7 @@
       "name": "Cerby Token",
       "symbol": "CERBY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cerby.png"
+      "logoURI": "https://polygonscan.com/token/images/cerby_32.png?v=3"
     },
     {
       "chainId": 137,
@@ -3412,7 +3412,7 @@
       "name": "UNIFARM Token",
       "symbol": "anyUFARM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/anyufarm.png"
+      "logoURI": "https://polygonscan.com/token/images/anyufarm_32.png"
     },
     {
       "chainId": 137,
@@ -3420,7 +3420,7 @@
       "name": "UniCrypt",
       "symbol": "anyUNCX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/anyuncx.png"
+      "logoURI": "https://polygonscan.com/token/images/anyuncx_32.png"
     },
     {
       "chainId": 137,
@@ -3428,7 +3428,7 @@
       "name": "UNCL",
       "symbol": "anyUNCL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/anyuncl.png"
+      "logoURI": "https://polygonscan.com/token/images/anyuncl_32.png"
     },
     {
       "chainId": 137,
@@ -3444,7 +3444,7 @@
       "name": "Staked MATIC",
       "symbol": "stMATIC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/stmatic.png"
+      "logoURI": "https://polygonscan.com/token/images/lidostmatic_32.png"
     },
     {
       "chainId": 137,
@@ -3452,7 +3452,7 @@
       "name": "renDOGE",
       "symbol": "renDOGE",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/rendoge.svg"
+      "logoURI": "https://polygonscan.com/token/images/rendoge_32.png"
     },
     {
       "chainId": 137,
@@ -3460,7 +3460,7 @@
       "name": "pTokens BTC",
       "symbol": "pBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pbtc.png"
+      "logoURI": "https://polygonscan.com/token/images/ptokensbtc_32.png"
     },
     {
       "chainId": 137,
@@ -3468,7 +3468,7 @@
       "name": "Polygon BUNNY Token",
       "symbol": "polyBUNNY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/polybunny.png"
+      "logoURI": "https://polygonscan.com/token/images/polygonbunnytoken_32.png"
     },
     {
       "chainId": 137,
@@ -3476,7 +3476,7 @@
       "name": "Polyflip",
       "symbol": "FLIP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/flip.png"
+      "logoURI": "https://polygonscan.com/token/images/polyflip_32.png"
     },
     {
       "chainId": 137,
@@ -3484,7 +3484,7 @@
       "name": "PAR Stablecoin",
       "symbol": "PAR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/par.svg"
+      "logoURI": "https://polygonscan.com/token/images/parstablecoin_32.png"
     },
     {
       "chainId": 137,
@@ -3492,7 +3492,7 @@
       "name": "Orbit Bridge Polygon XRP Token",
       "symbol": "oXRP",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oxrp.png"
+      "logoURI": "https://polygonscan.com/token/images/orbitbridgexrp_32.png"
     },
     {
       "chainId": 137,
@@ -3500,7 +3500,7 @@
       "name": "Orbit Bridge Polygon Toncoin",
       "symbol": "oTON",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oton.png"
+      "logoURI": "https://polygonscan.com/token/images/orbitbridgeton_32.png"
     },
     {
       "chainId": 137,
@@ -3508,7 +3508,7 @@
       "name": "Orbit Bridge Polygon Tokamak Network Token",
       "symbol": "oTON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oton.png"
+      "logoURI": "https://polygonscan.com/token/images/orbitbridgetokamak_32.png?v=4"
     },
     {
       "chainId": 137,
@@ -3516,7 +3516,7 @@
       "name": "Orbit Bridge Polygon Megaton Finance",
       "symbol": "oMEGA",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/omega.png"
+      "logoURI": "https://polygonscan.com/token/images/orbitbridgemega_32.png"
     },
     {
       "chainId": 137,
@@ -3524,7 +3524,7 @@
       "name": "One Rare Token",
       "symbol": "ORARE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/orare.png"
+      "logoURI": "https://polygonscan.com/token/images/onerare3_32.png"
     },
     {
       "chainId": 137,
@@ -3540,7 +3540,7 @@
       "name": "MMToken",
       "symbol": "anyMM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/anymm.png"
+      "logoURI": "https://polygonscan.com/token/images/anymm_32.png"
     },
     {
       "chainId": 137,
@@ -3572,7 +3572,7 @@
       "name": "MATIC 2x Flexible Leverage Index",
       "symbol": "MATIC2x-FLI-P",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/matic2x-fli-p.png"
+      "logoURI": "https://polygonscan.com/token/images/indexcoopmatic2xflex_32.png"
     },
     {
       "chainId": 137,
@@ -3596,7 +3596,7 @@
       "name": "L3USD",
       "symbol": "L3USD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/l3usd.png"
+      "logoURI": "https://polygonscan.com/token/images/l3usd_32.png"
     },
     {
       "chainId": 137,
@@ -3604,7 +3604,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "anyKNC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/anyknc.png"
+      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3612,7 +3612,7 @@
       "name": "Kripton Z",
       "symbol": "LPKZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpkz.png"
+      "logoURI": "https://polygonscan.com/token/images/kriptonz_32.png"
     },
     {
       "chainId": 137,
@@ -3620,7 +3620,7 @@
       "name": "Kripton Y",
       "symbol": "LPKY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpky.png"
+      "logoURI": "https://polygonscan.com/token/images/kriptony_32.png"
     },
     {
       "chainId": 137,
@@ -3628,7 +3628,7 @@
       "name": "Kripton X",
       "symbol": "LPKX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpkx.png"
+      "logoURI": "https://polygonscan.com/token/images/kriptonx_32.png"
     },
     {
       "chainId": 137,
@@ -3636,7 +3636,7 @@
       "name": "Kripton T",
       "symbol": "LPKT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpkt.png"
+      "logoURI": "https://polygonscan.com/token/images/kriptont_32.png"
     },
     {
       "chainId": 137,
@@ -3644,7 +3644,7 @@
       "name": "Kripton Q",
       "symbol": "LPKQ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpkq.png"
+      "logoURI": "https://polygonscan.com/token/images/kriptonq_32.png"
     },
     {
       "chainId": 137,
@@ -3652,7 +3652,7 @@
       "name": "Kripton P",
       "symbol": "LPKP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpkp.png"
+      "logoURI": "https://polygonscan.com/token/images/kriptonp_32.png"
     },
     {
       "chainId": 137,
@@ -3660,7 +3660,7 @@
       "name": "Kripton Mobile",
       "symbol": "LPKM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpkm.png"
+      "logoURI": "https://polygonscan.com/token/images/kriptonmobile_32.png"
     },
     {
       "chainId": 137,
@@ -3668,7 +3668,7 @@
       "name": "Kripton B",
       "symbol": "LPKB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpkb.png"
+      "logoURI": "https://polygonscan.com/token/images/kriptonblack_32.png"
     },
     {
       "chainId": 137,
@@ -3684,7 +3684,7 @@
       "name": "Jarvis Synthetic United States Dollar",
       "symbol": "jUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jusd.png"
+      "logoURI": "https://polygonscan.com/token/images/jUSD_32.png"
     },
     {
       "chainId": 137,
@@ -3692,7 +3692,7 @@
       "name": "Jarvis Synthetic Turkish Lira",
       "symbol": "jTRY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jtry.png"
+      "logoURI": "https://polygonscan.com/token/images/jTRY_32.png"
     },
     {
       "chainId": 137,
@@ -3700,7 +3700,7 @@
       "name": "Jarvis Synthetic Swedish Krona",
       "symbol": "jSEK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jsek.png"
+      "logoURI": "https://polygonscan.com/token/images/jSEK_32.png"
     },
     {
       "chainId": 137,
@@ -3708,7 +3708,7 @@
       "name": "Jarvis Synthetic South Korean Won",
       "symbol": "jKRW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jkrw.png"
+      "logoURI": "https://polygonscan.com/token/images/jKRW_32.png"
     },
     {
       "chainId": 137,
@@ -3716,7 +3716,7 @@
       "name": "Jarvis Synthetic Singapore Dollar",
       "symbol": "jSGD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jsgd.png"
+      "logoURI": "https://polygonscan.com/token/images/jSGD_32.png"
     },
     {
       "chainId": 137,
@@ -3724,7 +3724,7 @@
       "name": "Jarvis Synthetic Polish Zloty",
       "symbol": "jPLN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jpln.png"
+      "logoURI": "https://polygonscan.com/token/images/jPLN_32.png"
     },
     {
       "chainId": 137,
@@ -3732,7 +3732,7 @@
       "name": "Jarvis Synthetic Philippine Peso",
       "symbol": "jPHP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jphp.png"
+      "logoURI": "https://polygonscan.com/token/images/jPHP_32_32.png"
     },
     {
       "chainId": 137,
@@ -3740,7 +3740,7 @@
       "name": "Jarvis Synthetic Nigerian Naira",
       "symbol": "jNGN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jngn.png"
+      "logoURI": "https://polygonscan.com/token/images/jNGN_32.png"
     },
     {
       "chainId": 137,
@@ -3748,7 +3748,7 @@
       "name": "Jarvis Synthetic New Zealand Dollar",
       "symbol": "jNZD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jnzd.png"
+      "logoURI": "https://polygonscan.com/token/images/jNZD_32.png"
     },
     {
       "chainId": 137,
@@ -3756,7 +3756,7 @@
       "name": "Jarvis Synthetic Mexican Peso",
       "symbol": "jMXN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jmxn.png"
+      "logoURI": "https://polygonscan.com/token/images/jMXN_32.png"
     },
     {
       "chainId": 137,
@@ -3764,7 +3764,7 @@
       "name": "Jarvis Synthetic Japanese Yen",
       "symbol": "jJPY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jjpy.png"
+      "logoURI": "https://polygonscan.com/token/images/jJPY_32.png"
     },
     {
       "chainId": 137,
@@ -3772,7 +3772,7 @@
       "name": "Jarvis Synthetic Gold",
       "symbol": "jGOLD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jgold.png"
+      "logoURI": "https://polygonscan.com/token/images/jGOLD_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -3780,7 +3780,7 @@
       "name": "Jarvis Synthetic Euro",
       "symbol": "jEUR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jeur.png"
+      "logoURI": "https://polygonscan.com/token/images/jarvissyntheticeuro_32.png?v=3"
     },
     {
       "chainId": 137,
@@ -3788,7 +3788,7 @@
       "name": "Jarvis Synthetic Colombian Peso",
       "symbol": "jCOP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jcop.png"
+      "logoURI": "https://polygonscan.com/token/images/jCOP_32.png"
     },
     {
       "chainId": 137,
@@ -3796,7 +3796,7 @@
       "name": "Jarvis Synthetic Chinese Yuan",
       "symbol": "jCNY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jcny.png"
+      "logoURI": "https://polygonscan.com/token/images/jCNY_32.png"
     },
     {
       "chainId": 137,
@@ -3804,7 +3804,7 @@
       "name": "Jarvis Synthetic Canadian Dollar",
       "symbol": "jCAD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jcad.png"
+      "logoURI": "https://polygonscan.com/token/images/jCAD_32.png"
     },
     {
       "chainId": 137,
@@ -3812,7 +3812,7 @@
       "name": "Jarvis Synthetic British Pound",
       "symbol": "jGBP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jgbp.png"
+      "logoURI": "https://polygonscan.com/token/images/jarvissyntheticbritishpound_32.png"
     },
     {
       "chainId": 137,
@@ -3820,7 +3820,7 @@
       "name": "Jarvis Synthetic Brazilian Real",
       "symbol": "jBRL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jbrl.png"
+      "logoURI": "https://polygonscan.com/token/images/jBRL.png"
     },
     {
       "chainId": 137,
@@ -3828,7 +3828,7 @@
       "name": "Jarvis Synthetic Australian Dollar",
       "symbol": "jAUD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jaud.png"
+      "logoURI": "https://polygonscan.com/token/images/jAUD_32.png"
     },
     {
       "chainId": 137,
@@ -3836,7 +3836,7 @@
       "name": "JARVIS",
       "symbol": "fxJARVIS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fxjarvis.png"
+      "logoURI": "https://polygonscan.com/token/images/jarvisnew_32.png"
     },
     {
       "chainId": 137,
@@ -3844,7 +3844,7 @@
       "name": "JARVIS",
       "symbol": "JARVIS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/jarvis.png"
+      "logoURI": "https://polygonscan.com/token/images/jarvisnew_32.png"
     },
     {
       "chainId": 137,
@@ -3852,7 +3852,7 @@
       "name": "Iron Finance ICE Token",
       "symbol": "ICE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ice.svg"
+      "logoURI": "https://polygonscan.com/token/images/ironfinanceicetoken_32.png"
     },
     {
       "chainId": 137,
@@ -3860,7 +3860,7 @@
       "name": "Inverse ETH Flexible Leverage Index",
       "symbol": "iETH-FLI-P",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ieth-fli-p.png"
+      "logoURI": "https://polygonscan.com/token/images/indexcoopiethflip_32.png"
     },
     {
       "chainId": 137,
@@ -3908,7 +3908,7 @@
       "name": "Harrison First",
       "symbol": "FIRST",
       "decimals": 4,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/first.png"
+      "logoURI": "https://polygonscan.com/token/images/harrisonfirst_32.png"
     },
     {
       "chainId": 137,
@@ -3916,7 +3916,7 @@
       "name": "GreenMetaverseToken",
       "symbol": "GMT",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gmt.png"
+      "logoURI": "https://polygonscan.com/token/images/gasheroofc_32.png"
     },
     {
       "chainId": 137,
@@ -3948,7 +3948,7 @@
       "name": "DefiPulse Index",
       "symbol": "DPI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dpi.svg"
+      "logoURI": "https://polygonscan.com/token/images/defipulseindexcoop_32.png"
     },
     {
       "chainId": 137,
@@ -3964,7 +3964,7 @@
       "name": "DATA Economy Index",
       "symbol": "DATA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/data.png"
+      "logoURI": "https://polygonscan.com/token/images/dataeconomyindexcoop_32.png"
     },
     {
       "chainId": 137,
@@ -3980,7 +3980,7 @@
       "name": "CriptonoBolso",
       "symbol": "CNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cnb.png"
+      "logoURI": "https://polygonscan.com/token/images/criptonobolso_32.png"
     },
     {
       "chainId": 137,
@@ -3988,7 +3988,7 @@
       "name": "CelsiusX Wrapped ETH",
       "symbol": "cxETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cxeth.png"
+      "logoURI": "https://polygonscan.com/token/images/celsiusxwrappedeth_32.png"
     },
     {
       "chainId": 137,
@@ -3996,7 +3996,7 @@
       "name": "Blue Parrot Egg",
       "symbol": "BPEGG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bpegg.png"
+      "logoURI": "https://polygonscan.com/token/images/blueparrotegg_32.png"
     },
     {
       "chainId": 137,
@@ -4004,7 +4004,7 @@
       "name": "BINCUA",
       "symbol": "BINCUA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bincua.png"
+      "logoURI": "https://polygonscan.com/token/images/bincuacentus_32.png"
     },
     {
       "chainId": 137,
@@ -4012,7 +4012,7 @@
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/busd.svg"
+      "logoURI": "https://polygonscan.com/token/images/busdnew_32.png"
     },
     {
       "chainId": 137,
@@ -4020,7 +4020,7 @@
       "name": "Backed IBTA $ Treasury Bond 1-3yr",
       "symbol": "bIBTA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bibta.png"
+      "logoURI": "https://polygonscan.com/token/images/bibta_32.png"
     },
     {
       "chainId": 137,
@@ -4028,7 +4028,7 @@
       "name": "Backed IB01 $ Treasury Bond 0-1yr",
       "symbol": "bIB01",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bib01.png"
+      "logoURI": "https://polygonscan.com/token/images/bIb01_32.png"
     },
     {
       "chainId": 137,
@@ -4036,7 +4036,7 @@
       "name": "Axelar Wrapped UST",
       "symbol": "UST",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ust.png"
+      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4060,7 +4060,7 @@
       "name": "Axelar Wrapped LUNA",
       "symbol": "LUNA",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/luna.svg"
+      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4108,7 +4108,7 @@
       "name": "AlchemistKlima",
       "symbol": "alKLIMA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/alklima.png"
+      "logoURI": "https://polygonscan.com/token/images/alchemistklima_32.png"
     },
     {
       "chainId": 137,
@@ -4132,7 +4132,7 @@
       "name": "FEGtoken",
       "symbol": "FEG",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/feg.png"
+      "logoURI": "https://polygonscan.com/token/images/fegtoken_32.png"
     },
     {
       "chainId": 137,
@@ -4140,7 +4140,7 @@
       "name": "Endor Protocol Token",
       "symbol": "EDR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/edr.png"
+      "logoURI": "https://polygonscan.com/token/images/endor_28.png"
     },
     {
       "chainId": 137,
@@ -4148,7 +4148,7 @@
       "name": "PYQ",
       "symbol": "PYQ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pyq.png"
+      "logoURI": "https://polygonscan.com/token/images/polyquity-pyq_32.png"
     },
     {
       "chainId": 137,
@@ -4156,7 +4156,7 @@
       "name": "PGOV Token",
       "symbol": "PGOV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pgov.png"
+      "logoURI": "https://polygonscan.com/token/images/pgovtoken_32.png"
     },
     {
       "chainId": 137,
@@ -4164,7 +4164,7 @@
       "name": "Krill",
       "symbol": "Krill",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/krill.png"
+      "logoURI": "https://polygonscan.com/token/images/krill_32.png"
     },
     {
       "chainId": 137,
@@ -4172,7 +4172,7 @@
       "name": "Bone Token",
       "symbol": "BONE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bone.png"
+      "logoURI": "https://polygonscan.com/token/images/boneswap_32.png"
     },
     {
       "chainId": 137,
@@ -4180,7 +4180,7 @@
       "name": "Augury Finance",
       "symbol": "OMEN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/omen.png"
+      "logoURI": "https://polygonscan.com/token/images/augury_32.png"
     },
     {
       "chainId": 137,
@@ -4188,7 +4188,7 @@
       "name": "Polywolf",
       "symbol": "MOON",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/moon.png"
+      "logoURI": "https://polygonscan.com/token/images/moonwolf-moon_32.png"
     },
     {
       "chainId": 137,
@@ -4196,7 +4196,7 @@
       "name": "SafeDollar.Fi Share 2.0",
       "symbol": "SDS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sds.png"
+      "logoURI": "https://polygonscan.com/token/images/safedollarfishare_32.png"
     },
     {
       "chainId": 137,
@@ -4204,7 +4204,7 @@
       "name": "Bone Token",
       "symbol": "BONE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bone.png"
+      "logoURI": "https://polygonscan.com/token/images/polypup-bone_32.png"
     },
     {
       "chainId": 137,
@@ -4212,7 +4212,7 @@
       "name": "SafeDollar.Fi Dollar 2.0",
       "symbol": "SDO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sdo.png"
+      "logoURI": "https://polygonscan.com/token/images/safedollar_32.png"
     },
     {
       "chainId": 137,
@@ -4220,7 +4220,7 @@
       "name": "PolyYeld Token",
       "symbol": "YELD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/yeld.svg"
+      "logoURI": "https://polygonscan.com/token/images/polyyeld_32.png"
     },
     {
       "chainId": 137,
@@ -4228,7 +4228,7 @@
       "name": "Dragon QUICK",
       "symbol": "dQUICK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dquick.png"
+      "logoURI": "https://polygonscan.com/token/images/dragonquick_32.png"
     },
     {
       "chainId": 137,
@@ -4236,7 +4236,7 @@
       "name": "Mad Meerkat Optimizer",
       "symbol": "MMO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mmo.png"
+      "logoURI": "https://polygonscan.com/token/images/anymmo_32.png"
     },
     {
       "chainId": 137,
@@ -4244,7 +4244,7 @@
       "name": "RETRO",
       "symbol": "RETRO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/retro.png"
+      "logoURI": "https://polygonscan.com/token/images/retrofinstabl_32.png"
     },
     {
       "chainId": 137,
@@ -4252,7 +4252,7 @@
       "name": "Pup Token",
       "symbol": "PUP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pup.png"
+      "logoURI": "https://polygonscan.com/token/images/polypup-pup_32.png"
     },
     {
       "chainId": 137,
@@ -4260,7 +4260,7 @@
       "name": "Adamant",
       "symbol": "ADDY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/addy.png"
+      "logoURI": "https://polygonscan.com/token/images/adamant_32.png"
     },
     {
       "chainId": 137,
@@ -4276,7 +4276,7 @@
       "name": "Polyroll Token",
       "symbol": "ROLL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/roll.png"
+      "logoURI": "https://polygonscan.com/token/images/polyroll_32.png"
     },
     {
       "chainId": 137,
@@ -4284,7 +4284,7 @@
       "name": "Inverse MATIC Flexible Leverage Index",
       "symbol": "iMATIC-FLI-P",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/imatic-fli-p.png"
+      "logoURI": "https://polygonscan.com/token/images/indexcoopimaticflip_32.png"
     },
     {
       "chainId": 137,
@@ -4292,7 +4292,7 @@
       "name": "YOP",
       "symbol": "YOP",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/yop.svg"
+      "logoURI": "https://polygonscan.com/token/images/yop_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -4300,7 +4300,7 @@
       "name": "Shopping.io",
       "symbol": "SPI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/spi.svg"
+      "logoURI": "https://polygonscan.com/token/images/shoppingiotoken2_32.png"
     },
     {
       "chainId": 137,
@@ -4308,7 +4308,7 @@
       "name": "WaultSwap Polygon",
       "symbol": "WEXpoly",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wexpoly.png"
+      "logoURI": "https://polygonscan.com/token/images/waultswap_32.png"
     },
     {
       "chainId": 137,
@@ -4316,7 +4316,7 @@
       "name": "Wrapped Filecoin",
       "symbol": "WFIL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wfil.png"
+      "logoURI": "https://polygonscan.com/token/images/wrappedfil_32.png"
     },
     {
       "chainId": 137,
@@ -4324,7 +4324,7 @@
       "name": "moonwolf.io",
       "symbol": "WOLF",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wolf.png"
+      "logoURI": "https://polygonscan.com/token/images/moonwolf-wolf_32.png"
     },
     {
       "chainId": 137,
@@ -4332,7 +4332,7 @@
       "name": "Tapmydata",
       "symbol": "TAP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/tap.svg"
+      "logoURI": "https://polygonscan.com/token/images/tapmydatatoken_32.png"
     },
     {
       "chainId": 137,
@@ -4340,7 +4340,7 @@
       "name": "UNIFUND",
       "symbol": "iFUND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ifund.svg"
+      "logoURI": "https://polygonscan.com/token/images/unifund_32.png"
     },
     {
       "chainId": 137,
@@ -4348,7 +4348,7 @@
       "name": "xToken",
       "symbol": "XTK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/xtk.svg"
+      "logoURI": "https://polygonscan.com/token/images/xtoken_32.png"
     },
     {
       "chainId": 137,
@@ -4356,7 +4356,7 @@
       "name": "CafeSwap Token",
       "symbol": "pBREW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pbrew.png"
+      "logoURI": "https://polygonscan.com/token/images/cafeswaptoken_32.png"
     },
     {
       "chainId": 137,
@@ -4364,7 +4364,7 @@
       "name": "HASHGARD",
       "symbol": "GARD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gard.svg"
+      "logoURI": "https://polygonscan.com/token/images/hashgard1_28.png"
     },
     {
       "chainId": 137,
@@ -4372,7 +4372,7 @@
       "name": "Inverse BTC Flexible Leverage Index",
       "symbol": "iBTC-FLI-P",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ibtc-fli-p.png"
+      "logoURI": "https://polygonscan.com/token/images/iBTC-FLI-P_32.png"
     },
     {
       "chainId": 137,
@@ -4380,7 +4380,7 @@
       "name": "WePower",
       "symbol": "WPR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wpr.svg"
+      "logoURI": "https://polygonscan.com/token/images/wepower_28.png"
     },
     {
       "chainId": 137,
@@ -4388,7 +4388,7 @@
       "name": "Pinknode Token",
       "symbol": "PNODE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pnode.svg"
+      "logoURI": "https://polygonscan.com/token/images/pinknode_32.png"
     },
     {
       "chainId": 137,
@@ -4396,7 +4396,7 @@
       "name": "ETH 2x Flexible Leverage Index",
       "symbol": "ETH2x-FLI-P",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/eth2x-fli-p.png"
+      "logoURI": "https://polygonscan.com/token/images/indexcoopeth2xflex_32.png"
     },
     {
       "chainId": 137,
@@ -4404,7 +4404,7 @@
       "name": "BOB",
       "symbol": "BOB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bob.png"
+      "logoURI": "https://polygonscan.com/token/images/bobstable_32.png"
     },
     {
       "chainId": 137,
@@ -4412,7 +4412,7 @@
       "name": "NapoleonX",
       "symbol": "NPX",
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/npx.svg"
+      "logoURI": "https://polygonscan.com/token/images/napoleonx_28_2.png"
     },
     {
       "chainId": 137,
@@ -4420,7 +4420,7 @@
       "name": "https://unimex.network/",
       "symbol": "UMX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/umx.svg"
+      "logoURI": "https://polygonscan.com/token/images/unimex_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -4428,7 +4428,7 @@
       "name": "pTokens BTC",
       "symbol": "pBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pbtc.png"
+      "logoURI": "https://polygonscan.com/token/images/ptokensbtc_32.png"
     },
     {
       "chainId": 137,
@@ -4436,7 +4436,7 @@
       "name": "Armor",
       "symbol": "ARMOR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/armor.svg"
+      "logoURI": "https://polygonscan.com/token/images/armor_32.png"
     },
     {
       "chainId": 137,
@@ -4444,7 +4444,7 @@
       "name": "UnFederalReserveToken",
       "symbol": "eRSDL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ersdl.svg"
+      "logoURI": "https://polygonscan.com/token/images/unfederalreserve_32.png"
     },
     {
       "chainId": 137,
@@ -4452,7 +4452,7 @@
       "name": "Oiler",
       "symbol": "OIL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/oil.png"
+      "logoURI": "https://polygonscan.com/token/images/oiler_32.png"
     },
     {
       "chainId": 137,
@@ -4460,7 +4460,7 @@
       "name": "Scalara NFT Index",
       "symbol": "NFTI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/nfti.png"
+      "logoURI": "https://polygonscan.com/token/images/scalaranftindexpoly_32.png"
     },
     {
       "chainId": 137,
@@ -4468,7 +4468,7 @@
       "name": "Mover",
       "symbol": "MOVE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/move.png"
+      "logoURI": "https://polygonscan.com/token/images/movertoken_32.png"
     },
     {
       "chainId": 137,
@@ -4476,7 +4476,7 @@
       "name": "Tidal Token",
       "symbol": "TIDAL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/tidal.svg"
+      "logoURI": "https://polygonscan.com/token/images/tidaltoken_32.png"
     },
     {
       "chainId": 137,
@@ -4484,7 +4484,7 @@
       "name": "SENTinel",
       "symbol": "SENT",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/sent.svg"
+      "logoURI": "https://polygonscan.com/token/images/sentinelgroup_28.png"
     },
     {
       "chainId": 137,
@@ -4492,7 +4492,7 @@
       "name": "Meta",
       "symbol": "MTA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mta.png"
+      "logoURI": "https://polygonscan.com/token/images/meta_32.png"
     },
     {
       "chainId": 137,
@@ -4500,7 +4500,7 @@
       "name": "Cardstack",
       "symbol": "CARD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/card.svg"
+      "logoURI": "https://polygonscan.com/token/images/cardstack_28.png"
     },
     {
       "chainId": 137,
@@ -4508,7 +4508,7 @@
       "name": "Qi Dao",
       "symbol": "QI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/qi.png"
+      "logoURI": "https://polygonscan.com/token/images/qidao_32.png"
     },
     {
       "chainId": 137,
@@ -4516,7 +4516,7 @@
       "name": "PoolTogether",
       "symbol": "POOL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/pool.svg"
+      "logoURI": "https://polygonscan.com/token/images/pooltogether_32.png"
     },
     {
       "chainId": 137,
@@ -4524,7 +4524,7 @@
       "name": "Fractal Protocol Token",
       "symbol": "FCL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fcl.svg"
+      "logoURI": "https://polygonscan.com/token/images/fractalprotocoltoken_32.png"
     },
     {
       "chainId": 137,
@@ -4532,7 +4532,7 @@
       "name": "Deri",
       "symbol": "DERI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/deri.png"
+      "logoURI": "https://polygonscan.com/token/images/deriprotocol_32.png"
     },
     {
       "chainId": 137,
@@ -4540,7 +4540,7 @@
       "name": "Launchpool token",
       "symbol": "LPOOL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lpool.svg"
+      "logoURI": "https://polygonscan.com/token/images/launchpooltoken_32.png"
     },
     {
       "chainId": 137,
@@ -4548,7 +4548,7 @@
       "name": "InnovaMinex",
       "symbol": "MINX",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/minx.png"
+      "logoURI": "https://polygonscan.com/token/images/innovaminex_32.png"
     },
     {
       "chainId": 137,
@@ -4556,7 +4556,7 @@
       "name": "dHedge DAO Token",
       "symbol": "DHT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/dht.svg"
+      "logoURI": "https://polygonscan.com/token/images/dHedge_32.png"
     },
     {
       "chainId": 137,
@@ -4564,7 +4564,7 @@
       "name": "VesperToken",
       "symbol": "VSP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/vsp.png"
+      "logoURI": "https://polygonscan.com/token/images/vesperfinance_32.png"
     },
     {
       "chainId": 137,
@@ -4572,7 +4572,7 @@
       "name": "FOAM Token",
       "symbol": "FOAM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/foam.png"
+      "logoURI": "https://polygonscan.com/token/images/foam_28.png"
     },
     {
       "chainId": 137,
@@ -4580,7 +4580,7 @@
       "name": "PolyDoge",
       "symbol": "PolyDoge",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/polydoge.png"
+      "logoURI": "https://polygonscan.com/token/images/polydoge_32.png"
     },
     {
       "chainId": 137,
@@ -4588,7 +4588,7 @@
       "name": "TORN Token",
       "symbol": "TORN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/torn.svg"
+      "logoURI": "https://polygonscan.com/token/images/torn_32.png"
     },
     {
       "chainId": 137,
@@ -4596,7 +4596,7 @@
       "name": "PAID Network",
       "symbol": "PAID",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/paid.png"
+      "logoURI": "https://polygonscan.com/token/images/paidnetwork_32.png"
     },
     {
       "chainId": 137,
@@ -4604,7 +4604,7 @@
       "name": "Free Coin",
       "symbol": "FREE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/free.png"
+      "logoURI": "https://polygonscan.com/token/images/freecoin_28_2.png"
     },
     {
       "chainId": 137,
@@ -4612,7 +4612,7 @@
       "name": "Guaranteed Entrance Token",
       "symbol": "GET",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/get.svg"
+      "logoURI": "https://polygonscan.com/token/images/gutstickets.png"
     },
     {
       "chainId": 137,
@@ -4620,7 +4620,7 @@
       "name": "renBTC",
       "symbol": "renBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/renbtc.png"
+      "logoURI": "https://polygonscan.com/token/images/renbtcpoly_32.png"
     },
     {
       "chainId": 137,
@@ -4628,7 +4628,7 @@
       "name": "bZx Protocol Token",
       "symbol": "BZRX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bzrx.png"
+      "logoURI": "https://polygonscan.com/token/images/bzxprotocoltoken_32.png"
     },
     {
       "chainId": 137,
@@ -4636,7 +4636,7 @@
       "name": "OVR",
       "symbol": "OVR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ovr.png"
+      "logoURI": "https://polygonscan.com/token/images/ovr_32.png"
     },
     {
       "chainId": 137,
@@ -4644,7 +4644,7 @@
       "name": "HOPR Token",
       "symbol": "HOPR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/hopr.svg"
+      "logoURI": "https://polygonscan.com/token/images/hoprtoken_32.png"
     },
     {
       "chainId": 137,
@@ -4652,7 +4652,7 @@
       "name": "Fusion",
       "symbol": "FSN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fsn.png"
+      "logoURI": "https://polygonscan.com/token/images/fusion_28.png"
     },
     {
       "chainId": 137,
@@ -4660,7 +4660,7 @@
       "name": "Serum",
       "symbol": "SRM",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/srm.png"
+      "logoURI": "https://polygonscan.com/token/images/serum_32.png"
     },
     {
       "chainId": 137,
@@ -4668,7 +4668,7 @@
       "name": "FOX",
       "symbol": "FOX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/fox.svg"
+      "logoURI": "https://polygonscan.com/token/images/fox_32.png"
     },
     {
       "chainId": 137,
@@ -4676,7 +4676,7 @@
       "name": "Frontier Token",
       "symbol": "FRONT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/front.svg"
+      "logoURI": "https://polygonscan.com/token/images/Frontier_32.png"
     },
     {
       "chainId": 137,
@@ -4684,7 +4684,7 @@
       "name": "Pluton",
       "symbol": "PLU",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/plu.svg"
+      "logoURI": "https://polygonscan.com/token/images/pluton.png"
     },
     {
       "chainId": 137,
@@ -4692,7 +4692,7 @@
       "name": "StakeWise",
       "symbol": "SWISE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/swise.svg"
+      "logoURI": "https://polygonscan.com/token/images/stakewise_32.png"
     },
     {
       "chainId": 137,
@@ -4700,7 +4700,7 @@
       "name": "Litentry",
       "symbol": "LIT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lit.svg"
+      "logoURI": "https://polygonscan.com/token/images/litentry_32.png"
     },
     {
       "chainId": 137,
@@ -4708,7 +4708,7 @@
       "name": "Synth sUSD",
       "symbol": "sUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/susd.png"
+      "logoURI": "https://polygonscan.com/token/images/SynthetixsUSD_32.png"
     },
     {
       "chainId": 137,
@@ -4716,7 +4716,7 @@
       "name": "Route",
       "symbol": "ROUTE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/route.svg"
+      "logoURI": "https://polygonscan.com/token/images/routerprotocol_32.png?=v2"
     },
     {
       "chainId": 137,
@@ -4724,7 +4724,7 @@
       "name": "XY Oracle",
       "symbol": "XYO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/xyo.png"
+      "logoURI": "https://polygonscan.com/token/images/xyoracle_28_2.png"
     },
     {
       "chainId": 137,
@@ -4732,7 +4732,7 @@
       "name": "LCX",
       "symbol": "LCX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/lcx.svg"
+      "logoURI": "https://polygonscan.com/token/images/lcxtoken_28.png"
     },
     {
       "chainId": 137,
@@ -4740,7 +4740,7 @@
       "name": "Mainframe Token",
       "symbol": "MFT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/mft.png"
+      "logoURI": "https://polygonscan.com/token/images/mainframe_28.png"
     },
     {
       "chainId": 137,
@@ -4748,7 +4748,7 @@
       "name": "Oraichain Token",
       "symbol": "ORAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/orai.png"
+      "logoURI": "https://polygonscan.com/token/images/oraichaintoken_32.png"
     },
     {
       "chainId": 137,
@@ -4756,7 +4756,7 @@
       "name": "Gitcoin",
       "symbol": "GTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/gtc.png"
+      "logoURI": "https://polygonscan.com/token/images/gitcoinGTC_32.png"
     },
     {
       "chainId": 137,
@@ -4764,7 +4764,7 @@
       "name": "BetProtocolToken",
       "symbol": "BEPRO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bepro.svg"
+      "logoURI": "https://polygonscan.com/token/images/bepronetwork_32.png"
     },
     {
       "chainId": 137,
@@ -4772,7 +4772,7 @@
       "name": "Liquid Staking Matic",
       "symbol": "MaticX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/maticx.png"
+      "logoURI": "https://polygonscan.com/token/images/stradermatic_32.png"
     },
     {
       "chainId": 137,
@@ -4780,7 +4780,7 @@
       "name": "AIOZ Network",
       "symbol": "AIOZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aioz.svg"
+      "logoURI": "https://polygonscan.com/token/images/aioznetwork_32.png"
     },
     {
       "chainId": 137,
@@ -4788,7 +4788,7 @@
       "name": "Celsius",
       "symbol": "CEL",
       "decimals": 4,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/cel.svg"
+      "logoURI": "https://polygonscan.com/token/images/celsiustoken_32.png"
     },
     {
       "chainId": 137,
@@ -4796,7 +4796,7 @@
       "name": "Energy Web Token Bridged",
       "symbol": "EWTB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/ewtb.svg"
+      "logoURI": "https://polygonscan.com/token/images/energywebtokenbridged_32.png"
     },
     {
       "chainId": 137,
@@ -4804,7 +4804,7 @@
       "name": "Amp",
       "symbol": "AMP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/amp.svg"
+      "logoURI": "https://polygonscan.com/token/images/amp_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -4812,7 +4812,7 @@
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/uma.png"
+      "logoURI": "https://polygonscan.com/token/images/umavotingtokenv1_32.png?v=3"
     },
     {
       "chainId": 137,
@@ -4820,7 +4820,7 @@
       "name": "Telcoin",
       "symbol": "TEL",
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/tel.svg"
+      "logoURI": "https://polygonscan.com/token/images/telcoin_28.png"
     },
     {
       "chainId": 137,
@@ -4828,7 +4828,7 @@
       "name": "Tellor Tributes",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/trb.svg"
+      "logoURI": "https://polygonscan.com/token/images/tellortributes_32.png?v=2"
     },
     {
       "chainId": 137,
@@ -4836,7 +4836,7 @@
       "name": "SwissBorg",
       "symbol": "CHSB",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/chsb.svg"
+      "logoURI": "https://polygonscan.com/token/images/swissborg_28_3.png"
     },
     {
       "chainId": 137,
@@ -4844,7 +4844,7 @@
       "name": "Golem Network Token",
       "symbol": "GLM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/glm.png"
+      "logoURI": "https://polygonscan.com/token/images/golem-glm_32.png"
     },
     {
       "chainId": 137,
@@ -4852,7 +4852,7 @@
       "name": "Polymath",
       "symbol": "POLY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/poly.svg"
+      "logoURI": "https://polygonscan.com/token/images/polymath_28.png"
     },
     {
       "chainId": 137,
@@ -4860,7 +4860,7 @@
       "name": "chiliZ",
       "symbol": "CHZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/chz.svg"
+      "logoURI": "https://polygonscan.com/token/images/chiliz_28.png?v=2"
     },
     {
       "chainId": 137,
@@ -4868,7 +4868,7 @@
       "name": "Injective Token",
       "symbol": "INJ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/inj.svg"
+      "logoURI": "https://polygonscan.com/token/images/injective_32.png"
     },
     {
       "chainId": 137,
@@ -4876,7 +4876,7 @@
       "name": "binance-usd",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/busd.svg"
+      "logoURI": "https://polygonscan.com/token/images/binanceusd_32.png"
     }
   ]
 }
