@@ -8,6 +8,14 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/wETH_32.png"
+    },
+    {
+      "chainId": 137,
       "address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
       "name": "BAT",
       "symbol": "BAT",
