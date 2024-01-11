@@ -733,6 +733,198 @@
         "symbol": "CTSI",
         "decimals": 18,
         "logoURI": "https://optimistic.etherscan.io/token/images/cartesi_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xD8Ad37849950903571df17049516a5CD4cbE55F6",
+      "name": "Aave Optimism Stable Debt WETH",
+      "symbol": "stableDebtOptWETH",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x633b207Dd676331c413D4C013a6294B0FE47cD0e",
+      "name": "Aave Optimism Stable Debt WBTC",
+      "symbol": "stableDebtOptWBTC",
+      "decimals": 8,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x89D976629b7055ff1ca02b927BA3e020F22A44e4",
+      "name": "Aave Optimism Stable Debt LINK",
+      "symbol": "stableDebtOptLINK",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xfAeF6A702D15428E588d4C0614AEFb4348D83D48",
+      "name": "Aave Optimism Stable Debt AAVE",
+      "symbol": "stableDebtOptAAVE",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x70effc565db6eef7b927610155602d31b670e802",
+      "name": "Aave Optimism Stable Debt USDT",
+      "symbol": "stableDebtOptUSDT",
+      "decimals": 6,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x307ffe186F84a3bc2613D1eA417A5737D69A7007",
+      "name": "Aave Optimism Stable Debt USDC",
+      "symbol": "stableDebtOptUSDC",
+      "decimals": 6,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xF15F26710c827DDe8ACBA678682F3Ce24f2Fb56E",
+      "name": "Aave Optimism Stable Debt SUSD",
+      "symbol": "stableDebtOptSUSD",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xd94112B5B62d53C9402e7A60289c6810dEF1dC9B",
+      "name": "Aave Optimism Stable Debt DAI",
+      "symbol": "stableDebtOptDAI",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x0c84331e39d6658Cd6e6b9ba04736cC4c4734351",
+      "name": "Aave Optimism Variable Debt WETH",
+      "symbol": "variableDebtOptWETH",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x92b42c66840C7AD907b4BF74879FF3eF7c529473",
+      "name": "Aave Optimism Variable Debt WBTC",
+      "symbol": "variableDebtOptWBTC",
+      "decimals": 8,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x953A573793604aF8d41F306FEb8274190dB4aE0e",
+      "name": "Aave Optimism Variable Debt LINK",
+      "symbol": "variableDebtOptLINK",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xE80761Ea617F66F96274eA5e8c37f03960ecC679",
+      "name": "Aave Optimism Variable Debt AAVE",
+      "symbol": "variableDebtOptAAVE",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+      "name": "Aave Optimism Variable Debt USDT",
+      "symbol": "variableDebtOptUSDT",
+      "decimals": 6,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xFCCf3cAbbe80101232d343252614b6A3eE81C989",
+      "name": "Aave Optimism Variable Debt USDC",
+      "symbol": "variableDebtOptUSDC",
+      "decimals": 6,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4a1c3aD6Ed28a636ee1751C69071f6be75DEb8B8",
+      "name": "Aave Optimism Variable Debt SUSD",
+      "symbol": "variableDebtOptSUSD",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x8619d80FB0141ba7F184CbF22fd724116D9f7ffC",
+      "name": "Aave Optimism Variable Debt DAI",
+      "symbol": "variableDebtOptDAI",
+      "decimals": 18,
+      "logoURI": "/images/main/empty-token.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+      "name": "Aave Optimism WETH",
+      "symbol": "aOptWETH",
+      "decimals": 18,
+      "logoURI": "/token/images/aaveweth_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x078f358208685046a11C85e8ad32895DED33A249",
+      "name": "Aave Optimism WBTC",
+      "symbol": "aOptWBTC",
+      "decimals": 8,
+      "logoURI": "/token/images/aavewbtc_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+      "name": "Aave Optimism LINK",
+      "symbol": "aOptLINK",
+      "decimals": 18,
+      "logoURI": "/token/images/aavelink_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
+      "name": "Aave Optimism AAVE",
+      "symbol": "aOptAAVE",
+      "decimals": 18,
+      "logoURI": "/token/images/aaveaave_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+      "name": "Aave Optimism USDT",
+      "symbol": "aOptUSDT",
+      "decimals": 6,
+      "logoURI": "/token/images/aaveusdt_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "name": "Aave Optimism USDC",
+      "symbol": "aOptUSDC",
+      "decimals": 6,
+      "logoURI": "/token/images/aaveusdc_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+      "name": "Aave Optimism SUSD",
+      "symbol": "aOptSUSD",
+      "decimals": 18,
+      "logoURI": "/token/images/aavesusd_32.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+      "name": "Aave Optimism DAI",
+      "symbol": "aOptDAI",
+      "decimals": 18,
+      "logoURI": "/token/images/aavedai_32.png"
     }
   ]
 }
