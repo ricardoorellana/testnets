@@ -7707,7 +7707,8 @@
       "address": "0xBae535520Abd9f8C85E58929e0006A2c8B372F74",
       "name": "Aave Ethereum Variable Debt AAVE",
       "symbol": "variableDebtEthAAVE",
-      "decimals": "18,"
+      "decimals": 18,
+      "logoURI": ""
     }
   ]
 }
