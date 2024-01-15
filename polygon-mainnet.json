@@ -3412,7 +3412,7 @@
       "name": "USD Coin Hop Token",
       "symbol": "hUSDC",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3444,7 +3444,7 @@
       "name": "Tether USD Hop Token",
       "symbol": "hUSDT",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3540,7 +3540,7 @@
       "name": "NFTY Token",
       "symbol": "anyNFTY",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3556,7 +3556,7 @@
       "name": "MetaSoccer Universe",
       "symbol": "anyMSU",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3564,7 +3564,7 @@
       "name": "Matic WETH",
       "symbol": "MTX",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3572,7 +3572,7 @@
       "name": "Matic Token Hop Token",
       "symbol": "hMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3588,7 +3588,7 @@
       "name": "MahaDAO",
       "symbol": "anyMAHA",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3596,7 +3596,7 @@
       "name": "Lepasa",
       "symbol": "anyLEPA",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3684,7 +3684,7 @@
       "name": "KeyFi Token",
       "symbol": "anyKEYFI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3876,7 +3876,7 @@
       "name": "Hop USDT LP Token",
       "symbol": "HOP-LP-USDT",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3884,7 +3884,7 @@
       "name": "Hop USDC LP Token",
       "symbol": "HOP-LP-USDC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3892,7 +3892,7 @@
       "name": "Hop MATIC LP Token",
       "symbol": "HOP-LP-MATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3900,7 +3900,7 @@
       "name": "Hop ETH LP Token",
       "symbol": "HOP-LP-ETH",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3908,7 +3908,7 @@
       "name": "Hop DAI LP Token",
       "symbol": "HOP-LP-DAI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3932,7 +3932,7 @@
       "name": "ETH Hop Token",
       "symbol": "hETH",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3940,7 +3940,7 @@
       "name": "e-Money NGM staking token",
       "symbol": "NGM",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3948,7 +3948,7 @@
       "name": "e-Money EUR stablecoin",
       "symbol": "EEUR",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3964,7 +3964,7 @@
       "name": "DeFiner",
       "symbol": "anyFIN",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -3980,7 +3980,7 @@
       "name": "DAI Hop Token",
       "symbol": "hDAI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4052,7 +4052,7 @@
       "name": "Axelar Wrapped USDT",
       "symbol": "axlUSDT",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4060,7 +4060,7 @@
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4076,7 +4076,7 @@
       "name": "Axelar Wrapped FRAX",
       "symbol": "axlFRAX",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4084,7 +4084,7 @@
       "name": "Axelar Wrapped DAI",
       "symbol": "axlDAI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4092,7 +4092,7 @@
       "name": "Axelar Wrapped ATOM",
       "symbol": "axlATOM",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4100,7 +4100,7 @@
       "name": "Autonio",
       "symbol": "anyNIOX",
       "decimals": 4,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4108,7 +4108,7 @@
       "name": "Ankr",
       "symbol": "anyANKR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4124,7 +4124,7 @@
       "name": "AirNFT Token",
       "symbol": "anyAIRT",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4132,7 +4132,7 @@
       "name": "Aave Polygon SUSHI",
       "symbol": "aPolSUSHI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4276,7 +4276,7 @@
       "name": "Aave Polygon CRV",
       "symbol": "aPolCRV",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=23.11.3.0"
     },
     {
       "chainId": 137,
@@ -4892,7 +4892,7 @@
       "name": "Aave Polygon Stable Debt WMATIC",
       "symbol": "stableDebtPolWMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4900,7 +4900,7 @@
       "name": "Aave Polygon Stable Debt WETH",
       "symbol": "stableDebtPolWETH",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4908,7 +4908,7 @@
       "name": "Aave Polygon Stable Debt WBTC",
       "symbol": "stableDebtPolWBTC",
       "decimals": 8,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4916,7 +4916,7 @@
       "name": "Aave Polygon Stable Debt SUSHI",
       "symbol": "stableDebtPolSUSHI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4924,7 +4924,7 @@
       "name": "Aave Polygon Stable Debt LINK",
       "symbol": "stableDebtPolLINK",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4932,7 +4932,7 @@
       "name": "Aave Polygon Stable Debt GHST",
       "symbol": "stableDebtPolGHST",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4940,7 +4940,7 @@
       "name": "Aave Polygon Stable Debt DPI",
       "symbol": "stableDebtPolDPI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4948,7 +4948,7 @@
       "name": "Aave Polygon Stable Debt CRV",
       "symbol": "stableDebtPolCRV",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4956,7 +4956,7 @@
       "name": "Aave Polygon Stable Debt BAL",
       "symbol": "stableDebtPolBAL",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4964,7 +4964,7 @@
       "name": "Aave Polygon Stable Debt AAVE",
       "symbol": "stableDebtPolAAVE",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4972,7 +4972,7 @@
       "name": "Aave Polygon Stable Debt USDT",
       "symbol": "stableDebtPolUSDT",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4980,7 +4980,7 @@
       "name": "Aave Polygon Stable Debt USDC",
       "symbol": "stableDebtPolUSDC",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4988,7 +4988,7 @@
       "name": "Aave Polygon Stable Debt JEUR",
       "symbol": "stableDebtPolJEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -4996,7 +4996,7 @@
       "name": "Aave Polygon Stable Debt EURS",
       "symbol": "stableDebtPolEURS",
       "decimals": 2,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5004,7 +5004,7 @@
       "name": "Aave Polygon Stable Debt DAI",
       "symbol": "stableDebtPolDAI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5012,7 +5012,7 @@
       "name": "Aave Polygon Stable Debt AGEUR",
       "symbol": "stableDebtPolAGEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5020,7 +5020,7 @@
       "name": "Aave Polygon Variable Debt WMATIC",
       "symbol": "variableDebtPolWMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5028,7 +5028,7 @@
       "name": "Aave Polygon Variable Debt WETH",
       "symbol": "variableDebtPolWETH",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5036,7 +5036,7 @@
       "name": "Aave Polygon Variable Debt WBTC",
       "symbol": "variableDebtPolWBTC",
       "decimals": 8,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5044,7 +5044,7 @@
       "name": "Aave Polygon Variable Debt SUSHI",
       "symbol": "variableDebtPolSUSHI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5052,7 +5052,7 @@
       "name": "Aave Polygon Variable Debt LINK",
       "symbol": "variableDebtPolLINK",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5060,7 +5060,7 @@
       "name": "Aave Polygon Variable Debt GHST",
       "symbol": "variableDebtPolGHST",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5068,7 +5068,7 @@
       "name": "Aave Polygon Variable Debt DPI",
       "symbol": "variableDebtPolDPI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5076,7 +5076,7 @@
       "name": "Aave Polygon Variable Debt CRV",
       "symbol": "variableDebtPolCRV",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5084,7 +5084,7 @@
       "name": "Aave Polygon Variable Debt BAL",
       "symbol": "variableDebtPolBAL",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5092,7 +5092,7 @@
       "name": "Aave Polygon Variable Debt AAVE",
       "symbol": "variableDebtPolAAVE",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5100,7 +5100,7 @@
       "name": "Aave Polygon Variable Debt USDT",
       "symbol": "variableDebtPolUSDT",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5108,7 +5108,7 @@
       "name": "Aave Polygon Variable Debt USDC",
       "symbol": "variableDebtPolUSDC",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5116,7 +5116,7 @@
       "name": "Aave Polygon Variable Debt MIMATIC",
       "symbol": "variableDebtPolMIMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5124,7 +5124,7 @@
       "name": "Aave Polygon Variable Debt JEUR",
       "symbol": "variableDebtPolJEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5132,7 +5132,7 @@
       "name": "Aave Polygon Variable Debt EURS",
       "symbol": "variableDebtPolEURS",
       "decimals": 2,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5140,7 +5140,7 @@
       "name": "Aave Polygon Variable Debt DAI",
       "symbol": "variableDebtPolDAI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5148,7 +5148,7 @@
       "name": "Aave Polygon Variable Debt AGEUR",
       "symbol": "variableDebtPolAGEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5156,7 +5156,7 @@
       "name": "Aave Polygon WMATIC",
       "symbol": "aPolWMATIC",
       "decimals": 18,
-      "logoURI": "/token/images/aave_wmatic.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_wmatic.png"
     },
     {
       "chainId": 137,
@@ -5164,7 +5164,7 @@
       "name": "Aave Polygon WETH",
       "symbol": "aPolWETH",
       "decimals": 18,
-      "logoURI": "/token/images/aave_weth.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_weth.png"
     },
     {
       "chainId": 137,
@@ -5172,7 +5172,7 @@
       "name": "Aave Polygon WBTC",
       "symbol": "aPolWBTC",
       "decimals": 8,
-      "logoURI": "/token/images/aave_wbtc.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_wbtc.png"
     },
     {
       "chainId": 137,
@@ -5180,7 +5180,7 @@
       "name": "Aave Polygon STMATIC",
       "symbol": "aPolSTMATIC",
       "decimals": 18,
-      "logoURI": "/token/images/aave_stmatic.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_stmatic.png"
     },
     {
       "chainId": 137,
@@ -5188,7 +5188,7 @@
       "name": "Aave Polygon MATICX",
       "symbol": "aPolMATICX",
       "decimals": 18,
-      "logoURI": "/token/images/aave_maticx.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_maticx.png"
     },
     {
       "chainId": 137,
@@ -5196,7 +5196,7 @@
       "name": "Aave Polygon LINK",
       "symbol": "aPolLINK",
       "decimals": 18,
-      "logoURI": "/token/images/aave_link.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_link.png"
     },
     {
       "chainId": 137,
@@ -5204,7 +5204,7 @@
       "name": "Aave Polygon GHST",
       "symbol": "aPolGHST",
       "decimals": 18,
-      "logoURI": "/token/images/aave_ghst.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_ghst.png"
     },
     {
       "chainId": 137,
@@ -5212,7 +5212,7 @@
       "name": "Aave Polygon DPI",
       "symbol": "aPolDPI",
       "decimals": 18,
-      "logoURI": "/token/images/aave_dpi.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_dpi.png"
     },
     {
       "chainId": 137,
@@ -5220,7 +5220,7 @@
       "name": "Aave Polygon BAL",
       "symbol": "aPolBAL",
       "decimals": 18,
-      "logoURI": "/token/images/aave_bal.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_bal.png"
     },
     {
       "chainId": 137,
@@ -5228,7 +5228,7 @@
       "name": "Aave Polygon AAVE",
       "symbol": "aPolAAVE",
       "decimals": 18,
-      "logoURI": "/token/images/aave_aave.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_aave.png"
     },
     {
       "chainId": 137,
@@ -5236,7 +5236,7 @@
       "name": "Aave Polygon USDT",
       "symbol": "aPolUSDT",
       "decimals": 6,
-      "logoURI": "/token/images/aave_usdt.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_usdt.png"
     },
     {
       "chainId": 137,
@@ -5244,7 +5244,7 @@
       "name": "Aave Polygon USDC",
       "symbol": "aPolUSDC",
       "decimals": 6,
-      "logoURI": "/token/images/aave_usdc.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_usdc.png"
     },
     {
       "chainId": 137,
@@ -5252,7 +5252,7 @@
       "name": "Aave Polygon MIMATIC",
       "symbol": "aPolMIMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5260,7 +5260,7 @@
       "name": "Aave Polygon JEUR",
       "symbol": "aPolJEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5268,7 +5268,7 @@
       "name": "Aave Polygon EURS",
       "symbol": "aPolEURS",
       "decimals": 2,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5276,7 +5276,7 @@
       "name": "Aave Polygon DAI",
       "symbol": "aPolDAI",
       "decimals": 18,
-      "logoURI": "/token/images/aave_dai.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_dai.png"
     },
     {
       "chainId": 137,
@@ -5284,14 +5284,14 @@
       "name": "Aave Polygon AGEUR",
       "symbol": "aPolAGEUR",
       "decimals": 18,
-      "logoURI": "/token/images/aave_ageur.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_ageur.png"
     },    {
       "chainId": 137,
       "address": "0xF15F26710c827DDe8ACBA678682F3Ce24f2Fb56E",
       "name": "Aave Polygon Stable Debt WMATIC",
       "symbol": "stableDebtPolWMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5299,7 +5299,7 @@
       "name": "Aave Polygon Stable Debt WETH",
       "symbol": "stableDebtPolWETH",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5307,7 +5307,7 @@
       "name": "Aave Polygon Stable Debt WBTC",
       "symbol": "stableDebtPolWBTC",
       "decimals": 8,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5315,7 +5315,7 @@
       "name": "Aave Polygon Stable Debt SUSHI",
       "symbol": "stableDebtPolSUSHI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5323,7 +5323,7 @@
       "name": "Aave Polygon Stable Debt LINK",
       "symbol": "stableDebtPolLINK",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5331,7 +5331,7 @@
       "name": "Aave Polygon Stable Debt GHST",
       "symbol": "stableDebtPolGHST",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5339,7 +5339,7 @@
       "name": "Aave Polygon Stable Debt DPI",
       "symbol": "stableDebtPolDPI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5347,7 +5347,7 @@
       "name": "Aave Polygon Stable Debt CRV",
       "symbol": "stableDebtPolCRV",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5355,7 +5355,7 @@
       "name": "Aave Polygon Stable Debt BAL",
       "symbol": "stableDebtPolBAL",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5363,7 +5363,7 @@
       "name": "Aave Polygon Stable Debt AAVE",
       "symbol": "stableDebtPolAAVE",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5371,7 +5371,7 @@
       "name": "Aave Polygon Stable Debt USDT",
       "symbol": "stableDebtPolUSDT",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5379,7 +5379,7 @@
       "name": "Aave Polygon Stable Debt USDC",
       "symbol": "stableDebtPolUSDC",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5387,7 +5387,7 @@
       "name": "Aave Polygon Stable Debt JEUR",
       "symbol": "stableDebtPolJEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5395,7 +5395,7 @@
       "name": "Aave Polygon Stable Debt EURS",
       "symbol": "stableDebtPolEURS",
       "decimals": 2,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5403,7 +5403,7 @@
       "name": "Aave Polygon Stable Debt DAI",
       "symbol": "stableDebtPolDAI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5411,7 +5411,7 @@
       "name": "Aave Polygon Stable Debt AGEUR",
       "symbol": "stableDebtPolAGEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5419,7 +5419,7 @@
       "name": "Aave Polygon Variable Debt WMATIC",
       "symbol": "variableDebtPolWMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5427,7 +5427,7 @@
       "name": "Aave Polygon Variable Debt WETH",
       "symbol": "variableDebtPolWETH",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5435,7 +5435,7 @@
       "name": "Aave Polygon Variable Debt WBTC",
       "symbol": "variableDebtPolWBTC",
       "decimals": 8,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5443,7 +5443,7 @@
       "name": "Aave Polygon Variable Debt SUSHI",
       "symbol": "variableDebtPolSUSHI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5451,7 +5451,7 @@
       "name": "Aave Polygon Variable Debt LINK",
       "symbol": "variableDebtPolLINK",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5459,7 +5459,7 @@
       "name": "Aave Polygon Variable Debt GHST",
       "symbol": "variableDebtPolGHST",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5467,7 +5467,7 @@
       "name": "Aave Polygon Variable Debt DPI",
       "symbol": "variableDebtPolDPI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5475,7 +5475,7 @@
       "name": "Aave Polygon Variable Debt CRV",
       "symbol": "variableDebtPolCRV",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5483,7 +5483,7 @@
       "name": "Aave Polygon Variable Debt BAL",
       "symbol": "variableDebtPolBAL",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5491,7 +5491,7 @@
       "name": "Aave Polygon Variable Debt AAVE",
       "symbol": "variableDebtPolAAVE",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5499,7 +5499,7 @@
       "name": "Aave Polygon Variable Debt USDT",
       "symbol": "variableDebtPolUSDT",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5507,7 +5507,7 @@
       "name": "Aave Polygon Variable Debt USDC",
       "symbol": "variableDebtPolUSDC",
       "decimals": 6,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5515,7 +5515,7 @@
       "name": "Aave Polygon Variable Debt MIMATIC",
       "symbol": "variableDebtPolMIMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5523,7 +5523,7 @@
       "name": "Aave Polygon Variable Debt JEUR",
       "symbol": "variableDebtPolJEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5531,7 +5531,7 @@
       "name": "Aave Polygon Variable Debt EURS",
       "symbol": "variableDebtPolEURS",
       "decimals": 2,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5539,7 +5539,7 @@
       "name": "Aave Polygon Variable Debt DAI",
       "symbol": "variableDebtPolDAI",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5547,7 +5547,7 @@
       "name": "Aave Polygon Variable Debt AGEUR",
       "symbol": "variableDebtPolAGEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5555,7 +5555,7 @@
       "name": "Aave Polygon WMATIC",
       "symbol": "aPolWMATIC",
       "decimals": 18,
-      "logoURI": "/token/images/aave_wmatic.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_wmatic.png"
     },
     {
       "chainId": 137,
@@ -5563,7 +5563,7 @@
       "name": "Aave Polygon WETH",
       "symbol": "aPolWETH",
       "decimals": 18,
-      "logoURI": "/token/images/aave_weth.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_weth.png"
     },
     {
       "chainId": 137,
@@ -5571,7 +5571,7 @@
       "name": "Aave Polygon WBTC",
       "symbol": "aPolWBTC",
       "decimals": 8,
-      "logoURI": "/token/images/aave_wbtc.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_wbtc.png"
     },
     {
       "chainId": 137,
@@ -5579,7 +5579,7 @@
       "name": "Aave Polygon STMATIC",
       "symbol": "aPolSTMATIC",
       "decimals": 18,
-      "logoURI": "/token/images/aave_stmatic.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_stmatic.png"
     },
     {
       "chainId": 137,
@@ -5587,7 +5587,7 @@
       "name": "Aave Polygon MATICX",
       "symbol": "aPolMATICX",
       "decimals": 18,
-      "logoURI": "/token/images/aave_maticx.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_maticx.png"
     },
     {
       "chainId": 137,
@@ -5595,7 +5595,7 @@
       "name": "Aave Polygon LINK",
       "symbol": "aPolLINK",
       "decimals": 18,
-      "logoURI": "/token/images/aave_link.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_link.png"
     },
     {
       "chainId": 137,
@@ -5603,7 +5603,7 @@
       "name": "Aave Polygon GHST",
       "symbol": "aPolGHST",
       "decimals": 18,
-      "logoURI": "/token/images/aave_ghst.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_ghst.png"
     },
     {
       "chainId": 137,
@@ -5611,7 +5611,7 @@
       "name": "Aave Polygon DPI",
       "symbol": "aPolDPI",
       "decimals": 18,
-      "logoURI": "/token/images/aave_dpi.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_dpi.png"
     },
     {
       "chainId": 137,
@@ -5619,7 +5619,7 @@
       "name": "Aave Polygon BAL",
       "symbol": "aPolBAL",
       "decimals": 18,
-      "logoURI": "/token/images/aave_bal.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_bal.png"
     },
     {
       "chainId": 137,
@@ -5627,7 +5627,7 @@
       "name": "Aave Polygon AAVE",
       "symbol": "aPolAAVE",
       "decimals": 18,
-      "logoURI": "/token/images/aave_aave.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_aave.png"
     },
     {
       "chainId": 137,
@@ -5635,7 +5635,7 @@
       "name": "Aave Polygon USDT",
       "symbol": "aPolUSDT",
       "decimals": 6,
-      "logoURI": "/token/images/aave_usdt.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_usdt.png"
     },
     {
       "chainId": 137,
@@ -5643,7 +5643,7 @@
       "name": "Aave Polygon USDC",
       "symbol": "aPolUSDC",
       "decimals": 6,
-      "logoURI": "/token/images/aave_usdc.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_usdc.png"
     },
     {
       "chainId": 137,
@@ -5651,7 +5651,7 @@
       "name": "Aave Polygon MIMATIC",
       "symbol": "aPolMIMATIC",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5659,7 +5659,7 @@
       "name": "Aave Polygon JEUR",
       "symbol": "aPolJEUR",
       "decimals": 18,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5667,7 +5667,7 @@
       "name": "Aave Polygon EURS",
       "symbol": "aPolEURS",
       "decimals": 2,
-      "logoURI": "/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg?v=24.1.1.1"
     },
     {
       "chainId": 137,
@@ -5675,7 +5675,7 @@
       "name": "Aave Polygon DAI",
       "symbol": "aPolDAI",
       "decimals": 18,
-      "logoURI": "/token/images/aave_dai.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_dai.png"
     },
     {
       "chainId": 137,
@@ -5683,7 +5683,7 @@
       "name": "Aave Polygon AGEUR",
       "symbol": "aPolAGEUR",
       "decimals": 18,
-      "logoURI": "/token/images/aave_ageur.png"
+      "logoURI": "https://polygonscan.com/token/images/aave_ageur.png"
     }
   ]
 }
