@@ -659,6 +659,7 @@
         "name": "Decentralized USD",
         "symbol": "USDD",
         "decimals": 18,
+        "logoURI": "/images/main/empty-token.png"
     },
     {
         "chainId": 10,
