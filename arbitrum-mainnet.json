@@ -2068,7 +2068,7 @@
       "name": "USDLemma",
       "symbol": "USDL",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": "",
@@ -2076,7 +2076,7 @@
       "name": "USD Coin Hop Token",
       "symbol": "hUSDC",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": "",
@@ -2092,7 +2092,7 @@
       "name": "Tether USD Hop Token",
       "symbol": "hUSDT",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": "",
@@ -2116,7 +2116,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": "",
@@ -2156,7 +2156,7 @@
       "name": "Hop USDT LP Token",
       "symbol": "HOP-LP-USDT",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": "",
@@ -2164,7 +2164,7 @@
       "name": "Hop USDC LP Token",
       "symbol": "HOP-LP-USDC",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": "",
@@ -2172,7 +2172,7 @@
       "name": "Hop ETH LP Token",
       "symbol": "HOP-LP-ETH",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": "",
@@ -2316,7 +2316,7 @@
       "name": "Aave Arbitrum Stable Debt WETH",
       "symbol": "stableDebtArbWETH",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2324,7 +2324,7 @@
       "name": "Aave Arbitrum Stable Debt WBTC",
       "symbol": "stableDebtArbWBTC",
       "decimals": 8,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2332,7 +2332,7 @@
       "name": "Aave Arbitrum Stable Debt LINK",
       "symbol": "stableDebtArbLINK",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2340,7 +2340,7 @@
       "name": "Aave Arbitrum Stable Debt AAVE",
       "symbol": "stableDebtArbAAVE",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2348,7 +2348,7 @@
       "name": "Aave Arbitrum Stable Debt USDT",
       "symbol": "stableDebtArbUSDT",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2356,7 +2356,7 @@
       "name": "Aave Arbitrum Stable Debt USDC",
       "symbol": "stableDebtArbUSDC",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2364,7 +2364,7 @@
       "name": "Aave Arbitrum Stable Debt EURS",
       "symbol": "stableDebtArbEURS",
       "decimals": 2,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2372,7 +2372,7 @@
       "name": "Aave Arbitrum Stable Debt DAI",
       "symbol": "stableDebtArbDAI",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2380,7 +2380,7 @@
       "name": "Aave Arbitrum Variable Debt WETH",
       "symbol": "variableDebtArbWETH",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2388,7 +2388,7 @@
       "name": "Aave Arbitrum Variable Debt WBTC",
       "symbol": "variableDebtArbWBTC",
       "decimals": 8,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2396,7 +2396,7 @@
       "name": "Aave Arbitrum Variable Debt LINK",
       "symbol": "variableDebtArbLINK",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2404,7 +2404,7 @@
       "name": "Aave Arbitrum Variable Debt AAVE",
       "symbol": "variableDebtArbAAVE",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2412,7 +2412,7 @@
       "name": "Aave Arbitrum Variable Debt USDT",
       "symbol": "variableDebtArbUSDT",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2420,7 +2420,7 @@
       "name": "Aave Arbitrum Variable Debt USDC",
       "symbol": "variableDebtArbUSDC",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2428,7 +2428,7 @@
       "name": "Aave Arbitrum Variable Debt EURS",
       "symbol": "variableDebtArbEURS",
       "decimals": 2,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2436,7 +2436,7 @@
       "name": "Aave Arbitrum Variable Debt DAI",
       "symbol": "variableDebtArbDAI",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png?v=1"
+      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
     },
     {
       "chainId": 42161,
@@ -2444,7 +2444,7 @@
       "name": "Aave Arbitrum WETH",
       "symbol": "aArbWETH",
       "decimals": 18,
-      "logoURI": "/token/images/aarbweth_32.png"
+      "logoURI": "https://arbiscan.io/token/images/aarbweth_32.png"
     },
     {
       "chainId": 42161,
@@ -2452,7 +2452,7 @@
       "name": "Aave Arbitrum WBTC",
       "symbol": "aArbWBTC",
       "decimals": 8,
-      "logoURI": "/token/images/aarbwbtc_32.png"
+      "logoURI": "https://arbiscan.io/token/images/aarbwbtc_32.png"
     },
     {
       "chainId": 42161,
@@ -2460,7 +2460,7 @@
       "name": "Aave Arbitrum LINK",
       "symbol": "aArbLINK",
       "decimals": 18,
-      "logoURI": "/token/images/aarblink_32.png"
+      "logoURI": "https://arbiscan.io/token/images/aarblink_32.png"
     },
     {
       "chainId": 42161,
@@ -2468,7 +2468,7 @@
       "name": "Aave Arbitrum AAVE",
       "symbol": "aArbAAVE",
       "decimals": 18,
-      "logoURI": "/token/images/aarbaave_32.png"
+      "logoURI": "https://arbiscan.io/token/images/aarbaave_32.png"
     },
     {
       "chainId": 42161,
@@ -2476,7 +2476,7 @@
       "name": "Aave Arbitrum USDT",
       "symbol": "aArbUSDT",
       "decimals": 6,
-      "logoURI": "/token/images/aarbusdt_32.png"
+      "logoURI": "https://arbiscan.io/token/images/aarbusdt_32.png"
     },
     {
       "chainId": 42161,
@@ -2484,7 +2484,7 @@
       "name": "Aave Arbitrum USDC",
       "symbol": "aArbUSDC",
       "decimals": 6,
-      "logoURI": "/token/images/aave_32.png"
+      "logoURI": "https://arbiscan.io/token/images/aave_32.png"
     },
     {
       "chainId": 42161,
@@ -2492,7 +2492,7 @@
       "name": "Aave Arbitrum EURS",
       "symbol": "aArbEURS",
       "decimals": 2,
-      "logoURI": "/token/images/aave_eurs.png"
+      "logoURI": "https://arbiscan.io/token/images/aave_eurs.png"
     },
     {
       "chainId": 42161,
@@ -2500,7 +2500,7 @@
       "name": "Aave Arbitrum DAI",
       "symbol": "aArbDAI",
       "decimals": 18,
-      "logoURI": "/token/images/aarbdai_32.png"
+      "logoURI": "https://arbiscan.io/token/images/aarbdai_32.png"
     }
   ]
 }
