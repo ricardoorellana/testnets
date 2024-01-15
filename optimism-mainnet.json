@@ -612,6 +612,7 @@
         "name": "Kyber Network Crystal v2",
         "symbol": "KNC",
         "decimals": 18,
+        "logoURI": "https://optimistic.etherscan.io/token/images/kybernetworkknc_32.png"
     },
     {
         "chainId": 10,
