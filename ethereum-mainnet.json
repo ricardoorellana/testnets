@@ -7548,7 +7548,7 @@
       "name": "Aave Ethereum WETH",
       "symbol": "aEthWETH",
       "decimals": 18,
-      "logoURI": "/token/images/aave_weth.png"
+      "logoURI": "https://etherscan.io/token/images/aave_weth.png"
     },
     {
       "chainId": 1,
@@ -7556,7 +7556,7 @@
       "name": "Aave Ethereum wstETH",
       "symbol": "aEthwstETH",
       "decimals": 18,
-      "logoURI": "/token/images/aave_wsteth.png"
+      "logoURI": "https://etherscan.io/token/images/aave_wsteth.png"
     },
     {
       "chainId": 1,
@@ -7564,7 +7564,7 @@
       "name": "Aave Ethereum WBTC",
       "symbol": "aEthWBTC",
       "decimals": 8,
-      "logoURI": "/token/images/aave_wbtc.png"
+      "logoURI": "https://etherscan.io/token/images/aave_wbtc.png"
     },
     {
       "chainId": 1,
@@ -7572,7 +7572,7 @@
       "name": "Aave Ethereum USDC",
       "symbol": "aEthUSDC",
       "decimals": 6,
-      "logoURI": "/token/images/aave_usdc.png"
+      "logoURI": "https://etherscan.io/token/images/aave_usdc.png"
     },
     {
       "chainId": 1,
@@ -7580,7 +7580,7 @@
       "name": "Aave Ethereum DAI",
       "symbol": "aEthDAI",
       "decimals": 18,
-      "logoURI": "/token/images/aave_dai.png"
+      "logoURI": "https://etherscan.io/token/images/aave_dai.png"
     },
     {
       "chainId": 1,
@@ -7588,7 +7588,7 @@
       "name": "Aave Ethereum LINK",
       "symbol": "aEthLINK",
       "decimals": 18,
-      "logoURI": "/token/images/aave_link.png"
+      "logoURI": "https://etherscan.io/token/images/aave_link.png"
     },
     {
       "chainId": 1,
@@ -7596,7 +7596,7 @@
       "name": "Aave Ethereum AAVE",
       "symbol": "aEthAAVE",
       "decimals": 18,
-      "logoURI": "/token/images/aave_aave.png"
+      "logoURI": "https://etherscan.io/token/images/aave_aave.png"
     },
     {
       "chainId": 1,
