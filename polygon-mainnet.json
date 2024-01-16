@@ -5276,7 +5276,7 @@
       "name": "Aave Polygon DAI",
       "symbol": "aPolDAI",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_dai.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_dai.png"
     },
     {
       "chainId": 137,
