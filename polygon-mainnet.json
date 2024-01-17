@@ -12,7 +12,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/wETH_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/wETH_32.png"
     },
     {
       "chainId": 137,
@@ -5156,7 +5156,7 @@
       "name": "Aave Polygon WMATIC",
       "symbol": "aPolWMATIC",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_wmatic.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_wmatic.png"
     },
     {
       "chainId": 137,
@@ -5164,7 +5164,7 @@
       "name": "Aave Polygon WETH",
       "symbol": "aPolWETH",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_weth.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_weth.png"
     },
     {
       "chainId": 137,
@@ -5172,7 +5172,7 @@
       "name": "Aave Polygon WBTC",
       "symbol": "aPolWBTC",
       "decimals": 8,
-      "logoURI": "https://polygonscan.com/token/images/aave_wbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_wbtc.png"
     },
     {
       "chainId": 137,
@@ -5180,7 +5180,7 @@
       "name": "Aave Polygon STMATIC",
       "symbol": "aPolSTMATIC",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_stmatic.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_stmatic.png"
     },
     {
       "chainId": 137,
@@ -5188,7 +5188,7 @@
       "name": "Aave Polygon MATICX",
       "symbol": "aPolMATICX",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_maticx.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_maticx.png"
     },
     {
       "chainId": 137,
@@ -5196,7 +5196,7 @@
       "name": "Aave Polygon LINK",
       "symbol": "aPolLINK",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_link.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_link.png"
     },
     {
       "chainId": 137,
@@ -5204,7 +5204,7 @@
       "name": "Aave Polygon GHST",
       "symbol": "aPolGHST",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_ghst.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_ghst.png"
     },
     {
       "chainId": 137,
@@ -5212,7 +5212,7 @@
       "name": "Aave Polygon DPI",
       "symbol": "aPolDPI",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_dpi.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_dpi.png"
     },
     {
       "chainId": 137,
@@ -5220,7 +5220,7 @@
       "name": "Aave Polygon BAL",
       "symbol": "aPolBAL",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_bal.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_bal.png"
     },
     {
       "chainId": 137,
@@ -5228,7 +5228,7 @@
       "name": "Aave Polygon AAVE",
       "symbol": "aPolAAVE",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_aave.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_aave.png"
     },
     {
       "chainId": 137,
@@ -5236,7 +5236,7 @@
       "name": "Aave Polygon USDT",
       "symbol": "aPolUSDT",
       "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/aave_usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_usdt.png"
     },
     {
       "chainId": 137,
@@ -5244,7 +5244,7 @@
       "name": "Aave Polygon USDC",
       "symbol": "aPolUSDC",
       "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/aave_usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_usdc.png"
     },
     {
       "chainId": 137,
@@ -5276,7 +5276,7 @@
       "name": "Aave Polygon DAI",
       "symbol": "aPolDAI",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_dai.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_dai.png"
     },
     {
       "chainId": 137,
@@ -5284,7 +5284,7 @@
       "name": "Aave Polygon AGEUR",
       "symbol": "aPolAGEUR",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_ageur.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_ageur.png"
     },    {
       "chainId": 137,
       "address": "0xF15F26710c827DDe8ACBA678682F3Ce24f2Fb56E",
@@ -5555,7 +5555,7 @@
       "name": "Aave Polygon WMATIC",
       "symbol": "aPolWMATIC",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_wmatic.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_wmatic.png"
     },
     {
       "chainId": 137,
@@ -5563,7 +5563,7 @@
       "name": "Aave Polygon WETH",
       "symbol": "aPolWETH",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_weth.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_weth.png"
     },
     {
       "chainId": 137,
@@ -5571,7 +5571,7 @@
       "name": "Aave Polygon WBTC",
       "symbol": "aPolWBTC",
       "decimals": 8,
-      "logoURI": "https://polygonscan.com/token/images/aave_wbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_wbtc.png"
     },
     {
       "chainId": 137,
@@ -5579,7 +5579,7 @@
       "name": "Aave Polygon STMATIC",
       "symbol": "aPolSTMATIC",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_stmatic.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_stmatic.png"
     },
     {
       "chainId": 137,
@@ -5587,7 +5587,7 @@
       "name": "Aave Polygon MATICX",
       "symbol": "aPolMATICX",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_maticx.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_maticx.png"
     },
     {
       "chainId": 137,
@@ -5595,7 +5595,7 @@
       "name": "Aave Polygon LINK",
       "symbol": "aPolLINK",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_link.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_link.png"
     },
     {
       "chainId": 137,
@@ -5603,7 +5603,7 @@
       "name": "Aave Polygon GHST",
       "symbol": "aPolGHST",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_ghst.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_ghst.png"
     },
     {
       "chainId": 137,
@@ -5611,7 +5611,7 @@
       "name": "Aave Polygon DPI",
       "symbol": "aPolDPI",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_dpi.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_dpi.png"
     },
     {
       "chainId": 137,
@@ -5619,7 +5619,7 @@
       "name": "Aave Polygon BAL",
       "symbol": "aPolBAL",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_bal.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_bal.png"
     },
     {
       "chainId": 137,
@@ -5627,7 +5627,7 @@
       "name": "Aave Polygon AAVE",
       "symbol": "aPolAAVE",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_aave.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_aave.png"
     },
     {
       "chainId": 137,
@@ -5635,7 +5635,7 @@
       "name": "Aave Polygon USDT",
       "symbol": "aPolUSDT",
       "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/aave_usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_usdt.png"
     },
     {
       "chainId": 137,
@@ -5643,7 +5643,7 @@
       "name": "Aave Polygon USDC",
       "symbol": "aPolUSDC",
       "decimals": 6,
-      "logoURI": "https://polygonscan.com/token/images/aave_usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_usdc.png"
     },
     {
       "chainId": 137,
@@ -5675,7 +5675,7 @@
       "name": "Aave Polygon DAI",
       "symbol": "aPolDAI",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_dai.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_dai.png"
     },
     {
       "chainId": 137,
@@ -5683,7 +5683,7 @@
       "name": "Aave Polygon AGEUR",
       "symbol": "aPolAGEUR",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/aave_ageur.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/aave_ageur.png"
     }
   ]
 }
