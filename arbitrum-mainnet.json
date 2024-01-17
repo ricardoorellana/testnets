@@ -12,7 +12,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/tether_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/tether_32.png"
     },
     {
       "chainId": 42161,
@@ -20,7 +20,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/centre-usdc_28.png"
     },
     {
       "chainId": 42161,
@@ -28,7 +28,7 @@
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/centre-usdc_28.png"
     },
     {
       "chainId": 42161,
@@ -36,7 +36,7 @@
       "name": "ChainLink Token",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/chainlink_32.png?v=1"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/chainlink_32.png?v=1"
     },
     {
       "chainId": 42161,
@@ -44,7 +44,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/wbtc_28.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/wbtc_28.png"
     },
     {
       "chainId": 42161,
@@ -52,7 +52,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/MCDDai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/MCDDai_32.png"
     },
     {
       "chainId": 42161,
@@ -60,7 +60,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/uniswap_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/uniswap_32.png"
     },
     {
       "chainId": 42161,
@@ -68,7 +68,7 @@
       "name": "TrueUSD",
       "symbol": "TUSD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/trueusd_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/trueusd_32.png"
     },
     {
       "chainId": 42161,
@@ -76,7 +76,7 @@
       "name": "Lido DAO Token",
       "symbol": "LDO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/lidodao_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/lidodao_32.png"
     },
     {
       "chainId": 42161,
@@ -84,7 +84,7 @@
       "name": "Graph Token",
       "symbol": "GRT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/TheGraph_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/TheGraph_32.png"
     },
     {
       "chainId": 42161,
@@ -92,7 +92,7 @@
       "name": "Arbitrum",
       "symbol": "ARB",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/arbitrumone2_32_new.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/arbitrumone2_32_new.png"
     },
     {
       "chainId": 42161,
@@ -100,7 +100,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/usddtron_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/usddtron_32.png"
     },
     {
       "chainId": 42161,
@@ -108,7 +108,7 @@
       "name": "LUNC",
       "symbol": "LUNC",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/terraluna_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/terraluna_32.png"
     },
     {
       "chainId": 42161,
@@ -116,7 +116,7 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/frxcanonarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/frxcanonarb_32.png"
     },
     {
       "chainId": 42161,
@@ -124,7 +124,7 @@
       "name": "Frax Ether",
       "symbol": "frxETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/fraxethcanonical2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fraxethcanonical2_32.png"
     },
     {
       "chainId": 42161,
@@ -132,7 +132,7 @@
       "name": "Frax Share",
       "symbol": "FXS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/fraxsharefxs_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fraxsharefxs_32.png"
     },
     {
       "chainId": 42161,
@@ -140,7 +140,7 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/Curvefi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/Curvefi_32.png"
     },
     {
       "chainId": 42161,
@@ -148,7 +148,7 @@
       "name": "Gnosis Token",
       "symbol": "GNO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/gnosans_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/gnosans_32.png"
     },
     {
       "chainId": 42161,
@@ -156,7 +156,7 @@
       "name": "GMX",
       "symbol": "GMX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/gmxarbi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/gmxarbi_32.png"
     },
     {
       "chainId": 42161,
@@ -164,7 +164,7 @@
       "name": "Wootrade Network",
       "symbol": "WOO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/wootrade_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/wootrade_32.png"
     },
     {
       "chainId": 42161,
@@ -172,7 +172,7 @@
       "name": "TerraUSD",
       "symbol": "USTC",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/terraustbtt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/terraustbtt_32.png"
     },
     {
       "chainId": 42161,
@@ -180,7 +180,7 @@
       "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/compound_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/compound_32.png"
     },
     {
       "chainId": 42161,
@@ -188,7 +188,7 @@
       "name": "LoopringCoin V2",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/loopring-lrc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/loopring-lrc_32.png"
     },
     {
       "chainId": 42161,
@@ -196,7 +196,7 @@
       "name": "yearn.finance",
       "symbol": "YFI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/yfi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/yfi_32.png"
     },
     {
       "chainId": 42161,
@@ -204,7 +204,7 @@
       "name": "Celo native asset",
       "symbol": "CELO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/celowormhole_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/celowormhole_32.png"
     },
     {
       "chainId": 42161,
@@ -212,7 +212,7 @@
       "name": "SushiToken",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/sushitoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/sushitoken_32.png"
     },
     {
       "chainId": 42161,
@@ -220,7 +220,7 @@
       "name": "Tellor Tributes",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/tellor_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/tellor_32.png"
     },
     {
       "chainId": 42161,
@@ -228,7 +228,7 @@
       "name": "Livepeer Token",
       "symbol": "LPT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/livepeer_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/livepeer_32.png"
     },
     {
       "chainId": 42161,
@@ -236,7 +236,7 @@
       "name": "Olympus",
       "symbol": "OHM",
       "decimals": 9,
-      "logoURI": "https://arbiscan.io/token/images/olympusdao_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/olympusdao_32.png"
     },
     {
       "chainId": 42161,
@@ -244,7 +244,7 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/Balancer_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/Balancer_32.png"
     },
     {
       "chainId": 42161,
@@ -252,7 +252,7 @@
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/umavotingtokenv1_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/umavotingtokenv1_32.png"
     },
     {
       "chainId": 42161,
@@ -260,7 +260,7 @@
       "name": "JoeToken",
       "symbol": "JOE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/traderjoe_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/traderjoe_32.png"
     },
     {
       "chainId": 42161,
@@ -268,7 +268,7 @@
       "name": "Orbs",
       "symbol": "ORBS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/orbsarbi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/orbsarbi_32.png"
     },
     {
       "chainId": 42161,
@@ -276,7 +276,7 @@
       "name": "Gains Network",
       "symbol": "GNS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/gainsnetwork_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/gainsnetwork_32.png"
     },
     {
       "chainId": 42161,
@@ -284,7 +284,7 @@
       "name": "Cartesi Token",
       "symbol": "CTSI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/cartesi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/cartesi_32.png"
     },
     {
       "chainId": 42161,
@@ -292,7 +292,7 @@
       "name": "StargateToken",
       "symbol": "STG",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/stargate_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/stargate_32.png"
     },
     {
       "chainId": 42161,
@@ -300,7 +300,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/kybernetworkknc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/kybernetworkknc_32.png"
     },
     {
       "chainId": 42161,
@@ -308,7 +308,7 @@
       "name": "Pendle",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/pendlefin_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/pendlefin_32.png"
     },
     {
       "chainId": 42161,
@@ -316,7 +316,7 @@
       "name": "SmarDex Token",
       "symbol": "SDEX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/smardextoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/smardextoken_32.png"
     },
     {
       "chainId": 42161,
@@ -324,7 +324,7 @@
       "name": "Radiant",
       "symbol": "RDNT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/radiantcapital_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/radiantcapital_32.png"
     },
     {
       "chainId": 42161,
@@ -332,7 +332,7 @@
       "name": "Marlin POND",
       "symbol": "POND",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/marlin_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/marlin_32.png"
     },
     {
       "chainId": 42161,
@@ -340,7 +340,7 @@
       "name": "CelerToken",
       "symbol": "CELR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/celer_28.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/celer_28.png"
     },
     {
       "chainId": 42161,
@@ -348,7 +348,7 @@
       "name": "Vertex",
       "symbol": "VRTX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/vertexprotocol_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/vertexprotocol_32.png"
     },
     {
       "chainId": 42161,
@@ -356,7 +356,7 @@
       "name": "Synapse",
       "symbol": "SYN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/synapse_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/synapse_32.png"
     },
     {
       "chainId": 42161,
@@ -364,7 +364,7 @@
       "name": "DODO bird",
       "symbol": "DODO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dodo_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dodo_32.png"
     },
     {
       "chainId": 42161,
@@ -372,7 +372,7 @@
       "name": "AlphaToken",
       "symbol": "ALPHA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/alphatoken_32.png?v=3"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/alphatoken_32.png"
     },
     {
       "chainId": 42161,
@@ -380,7 +380,7 @@
       "name": "COTI Token",
       "symbol": "COTI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/coti_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/coti_32.png"
     },
     {
       "chainId": 42161,
@@ -388,7 +388,7 @@
       "name": "Badger",
       "symbol": "BADGER",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/badger_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/badger_32.png"
     },
     {
       "chainId": 42161,
@@ -396,7 +396,7 @@
       "name": "Tokenlon",
       "symbol": "LON",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/imtokenlon_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/imtokenlon_32.png"
     },
     {
       "chainId": 42161,
@@ -404,7 +404,7 @@
       "name": "Spell Token",
       "symbol": "SPELL",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/spelltoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/spelltoken_32.png"
     },
     {
       "chainId": 42161,
@@ -412,7 +412,7 @@
       "name": "Mobox",
       "symbol": "MBOX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/mobox_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/mobox_32.png"
     },
     {
       "chainId": 42161,
@@ -420,7 +420,7 @@
       "name": "Lyra Token",
       "symbol": "LYRA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/lyra_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/lyra_32.png"
     },
     {
       "chainId": 42161,
@@ -428,7 +428,7 @@
       "name": "Route",
       "symbol": "ROUTE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/routerprotocol_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/routerprotocol_32.png"
     },
     {
       "chainId": 42161,
@@ -436,7 +436,7 @@
       "name": "Synth sUSD",
       "symbol": "sUSD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/SynthetixsUSD_32.png?v=1"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/SynthetixsUSD_32.png"
     },
     {
       "chainId": 42161,
@@ -444,7 +444,7 @@
       "name": "Automata",
       "symbol": "ATA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/automata_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/automata_32.png"
     },
     {
       "chainId": "",
@@ -452,7 +452,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/perpetual_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/perpetual_32.png"
     },
     {
       "chainId": "",
@@ -460,7 +460,7 @@
       "name": "MCDEX Token",
       "symbol": "MCB",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/mcdextoken_32.png?=v234"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/mcdextoken_32.png?=v234"
     },
     {
       "chainId": "",
@@ -468,7 +468,7 @@
       "name": "Multichain",
       "symbol": "MULTI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/multichain_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/multichain_32.png"
     },
     {
       "chainId": "",
@@ -476,7 +476,7 @@
       "name": "Aura BAL",
       "symbol": "auraBAL",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aurabal_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aurabal_32.png"
     },
     {
       "chainId": "",
@@ -484,7 +484,7 @@
       "name": "Aura",
       "symbol": "AURA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aurafinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aurafinance_32.png"
     },
     {
       "chainId": "",
@@ -492,7 +492,7 @@
       "name": "dForce USD",
       "symbol": "iUSX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dforceiusxarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dforceiusxarb_32.png"
     },
     {
       "chainId": "",
@@ -500,7 +500,7 @@
       "name": "Strips Token",
       "symbol": "STRP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/strips_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/strips_32.png"
     },
     {
       "chainId": "",
@@ -508,7 +508,7 @@
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/inversedolausd2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/inversedolausd2_32.png"
     },
     {
       "chainId": "",
@@ -516,7 +516,7 @@
       "name": "DIAToken",
       "symbol": "DIA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/diadatanew_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/diadatanew_32.png"
     },
     {
       "chainId": "",
@@ -524,7 +524,7 @@
       "name": "BarnBridge Governance Token",
       "symbol": "BOND",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/barnbridge_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/barnbridge_32.png"
     },
     {
       "chainId": "",
@@ -532,7 +532,7 @@
       "name": "Frax Price Index Share",
       "symbol": "FPIS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/fraxpriceindexshare_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fraxpriceindexshare_32.png"
     },
     {
       "chainId": "",
@@ -540,7 +540,7 @@
       "name": "Frax Price Index",
       "symbol": "FPI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/fraxpriceindexshare2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fraxpriceindexshare2_32.png"
     },
     {
       "chainId": "",
@@ -548,7 +548,7 @@
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/mai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/mai_32.png"
     },
     {
       "chainId": "",
@@ -556,7 +556,7 @@
       "name": "GameSwift",
       "symbol": "GSWIFT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/gswiftdao_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/gswiftdao_32.png"
     },
     {
       "chainId": "",
@@ -564,7 +564,7 @@
       "name": "Milady",
       "symbol": "LADYS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/milady_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/milady_32.png"
     },
     {
       "chainId": "",
@@ -572,7 +572,7 @@
       "name": "Stake DAO Token",
       "symbol": "SDT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/stakedao_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/stakedao_32.png"
     },
     {
       "chainId": "",
@@ -580,7 +580,7 @@
       "name": "Hydranet",
       "symbol": "HDN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/hydranet_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/hydranet_32.png"
     },
     {
       "chainId": "",
@@ -588,7 +588,7 @@
       "name": "MATH Token",
       "symbol": "MATH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/mathwallet_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/mathwallet_32.png"
     },
     {
       "chainId": "",
@@ -596,7 +596,7 @@
       "name": "dForce DF",
       "symbol": "iDF",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dforcetoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dforcetoken_32.png"
     },
     {
       "chainId": "",
@@ -604,7 +604,7 @@
       "name": "dForce",
       "symbol": "DF",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/DF_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/DF_32.png"
     },
     {
       "chainId": "",
@@ -612,7 +612,7 @@
       "name": "Premia",
       "symbol": "PREMIA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/premia2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/premia2_32.png"
     },
     {
       "chainId": "",
@@ -620,7 +620,7 @@
       "name": "Thales DAO Token",
       "symbol": "THALES",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/thalesfin_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/thalesfin_32.png"
     },
     {
       "chainId": "",
@@ -628,7 +628,7 @@
       "name": "Magpie Token",
       "symbol": "MGP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/magpiexyz2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/magpiexyz2_32.png"
     },
     {
       "chainId": "",
@@ -636,7 +636,7 @@
       "name": "MXC Token",
       "symbol": "MXC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/mxctoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/mxctoken_32.png"
     },
     {
       "chainId": "",
@@ -644,7 +644,7 @@
       "name": "GMO JPY",
       "symbol": "GYEN",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/gmojpy_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/gmojpy_32.png"
     },
     {
       "chainId": "",
@@ -652,7 +652,7 @@
       "name": "Fuse Token",
       "symbol": "FUSE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/fusetoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fusetoken_32.png"
     },
     {
       "chainId": "",
@@ -660,7 +660,7 @@
       "name": "Cream",
       "symbol": "CREAM",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/CreamFinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/CreamFinance_32.png"
     },
     {
       "chainId": "",
@@ -668,7 +668,7 @@
       "name": "DeversiFi Token",
       "symbol": "DVF",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/deversifi_32.png?=v86"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/deversifi_32.png"
     },
     {
       "chainId": "",
@@ -676,7 +676,7 @@
       "name": "Symbiosis",
       "symbol": "SIS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/symbiosis_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/symbiosis_32.png"
     },
     {
       "chainId": "",
@@ -684,7 +684,7 @@
       "name": "UniBright",
       "symbol": "UBT",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/unibright_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/unibright_32.png"
     },
     {
       "chainId": "",
@@ -692,7 +692,7 @@
       "name": "ICHI",
       "symbol": "ICHI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ichi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/ichi_32.png"
     },
     {
       "chainId": "",
@@ -700,7 +700,7 @@
       "name": "Cap",
       "symbol": "CAP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/cap_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/cap_32.png"
     },
     {
       "chainId": "",
@@ -708,7 +708,7 @@
       "name": "Gravita Debt Token",
       "symbol": "GRAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/gravitaprotocol_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/gravitaprotocol_32.png"
     },
     {
       "chainId": "",
@@ -716,7 +716,7 @@
       "name": "Cryptex",
       "symbol": "CTX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/cryptexfinance_arb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/cryptexfinance_arb_32.png"
     },
     {
       "chainId": "",
@@ -724,7 +724,7 @@
       "name": "FORE Protocol",
       "symbol": "FORE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/foreprotocol_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/foreprotocol_32.png"
     },
     {
       "chainId": "",
@@ -732,7 +732,7 @@
       "name": "Impossible Decentralized Incubator Access Token",
       "symbol": "IDIA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/impossiblefinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/impossiblefinance_32.png"
     },
     {
       "chainId": "",
@@ -740,7 +740,7 @@
       "name": "Impossible Decentralized Incubat",
       "symbol": "IDIA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/idia_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/idia_32.png"
     },
     {
       "chainId": "",
@@ -748,7 +748,7 @@
       "name": "Rari Governance Token",
       "symbol": "RGT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/RariGovernanceToken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/RariGovernanceToken_32.png"
     },
     {
       "chainId": "",
@@ -756,7 +756,7 @@
       "name": "Penpie Token",
       "symbol": "PNP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/penpie_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/penpie_32.png"
     },
     {
       "chainId": "",
@@ -764,7 +764,7 @@
       "name": "Jones DAO",
       "symbol": "JONES",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/jonesdaoarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/jonesdaoarb_32.png"
     },
     {
       "chainId": "",
@@ -772,7 +772,7 @@
       "name": "GOVI",
       "symbol": "GOVI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/cvifinance-govi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/cvifinance-govi_32.png"
     },
     {
       "chainId": "",
@@ -780,7 +780,7 @@
       "name": "OpenOcean",
       "symbol": "OOE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/openoceanfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/openoceanfinance_32.png"
     },
     {
       "chainId": "",
@@ -788,7 +788,7 @@
       "name": "Notional",
       "symbol": "NOTE",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/notionalarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/notionalarb_32.png"
     },
     {
       "chainId": "",
@@ -796,7 +796,7 @@
       "name": "OVR",
       "symbol": "OVR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ovr_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/ovr_32.png"
     },
     {
       "chainId": "",
@@ -804,7 +804,7 @@
       "name": "Astra DAO",
       "symbol": "ASTRADAO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/astradaoarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/astradaoarb_32.png"
     },
     {
       "chainId": "",
@@ -812,7 +812,7 @@
       "name": "DFYN Token",
       "symbol": "DFYN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dfynnetwork_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dfynnetwork_32.png"
     },
     {
       "chainId": "",
@@ -820,7 +820,7 @@
       "name": "DEUS",
       "symbol": "DEUS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/deusfinance_new_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/deusfinance_new_32.png"
     },
     {
       "chainId": "",
@@ -828,7 +828,7 @@
       "name": "Hop",
       "symbol": "HOP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/Hop_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/Hop_32.png"
     },
     {
       "chainId": "",
@@ -836,7 +836,7 @@
       "name": "Wombat Token",
       "symbol": "WOM",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/wombatexchange_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/wombatexchange_32.png"
     },
     {
       "chainId": "",
@@ -844,7 +844,7 @@
       "name": "Level Token",
       "symbol": "LVL",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/levelfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/levelfinance_32.png"
     },
     {
       "chainId": "",
@@ -852,7 +852,7 @@
       "name": "Goons of Balatroon",
       "symbol": "GOB",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/goonsofbalatroon_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/goonsofbalatroon_32.png"
     },
     {
       "chainId": "",
@@ -860,7 +860,7 @@
       "name": "MZR",
       "symbol": "MZR Token",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/mizar_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/mizar_32.png"
     },
     {
       "chainId": "",
@@ -868,7 +868,7 @@
       "name": "Bridge",
       "symbol": "BRG",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/bridgelink2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/bridgelink2_32.png"
     },
     {
       "chainId": "",
@@ -876,7 +876,7 @@
       "name": "Jarvis Reward Token",
       "symbol": "JRT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/jarvisrt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/jarvisrt_32.png"
     },
     {
       "chainId": "",
@@ -884,7 +884,7 @@
       "name": "CheckDot",
       "symbol": "CDT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/checkdotarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/checkdotarb_32.png"
     },
     {
       "chainId": "",
@@ -892,7 +892,7 @@
       "name": "Lodestar",
       "symbol": "LODE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/lodestarfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/lodestarfinance_32.png"
     },
     {
       "chainId": "",
@@ -900,7 +900,7 @@
       "name": "RUBIC TOKEN",
       "symbol": "RBC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/rubicfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/rubicfinance_32.png"
     },
     {
       "chainId": "",
@@ -908,7 +908,7 @@
       "name": "Rigo Token",
       "symbol": "GRG",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/rigoblock_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/rigoblock_32.png"
     },
     {
       "chainId": "",
@@ -916,7 +916,7 @@
       "name": "Pet Token",
       "symbol": "PET",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/hellopets_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/hellopets_32.png"
     },
     {
       "chainId": "",
@@ -924,7 +924,7 @@
       "name": "BetSwirl v2",
       "symbol": "BETS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/betswirl_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/betswirl_32.png"
     },
     {
       "chainId": "",
@@ -932,7 +932,7 @@
       "name": "BetSwirl Token",
       "symbol": "BETS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/betswirl_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/betswirl_32.png"
     },
     {
       "chainId": "",
@@ -940,7 +940,7 @@
       "name": "Kommunitas",
       "symbol": "KOM",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/lommunitas_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/lommunitas_32.png"
     },
     {
       "chainId": "",
@@ -948,7 +948,7 @@
       "name": "EUROe Stablecoin",
       "symbol": "EUROe",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/euroestable_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/euroestable_32.png"
     },
     {
       "chainId": "",
@@ -956,7 +956,7 @@
       "name": "Plutus",
       "symbol": "PLS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/plutusdao2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/plutusdao2_32.png"
     },
     {
       "chainId": "",
@@ -964,7 +964,7 @@
       "name": "HORD Token [via ChainPort.io]",
       "symbol": "HORD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/hord_32.png?v=2"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/hord_32.png"
     },
     {
       "chainId": "",
@@ -972,7 +972,7 @@
       "name": "Deri",
       "symbol": "DERI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/deri_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/deri_32.png"
     },
     {
       "chainId": "",
@@ -980,7 +980,7 @@
       "name": "Polkamon",
       "symbol": "PMON",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/polkamon_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/polkamon_32.png"
     },
     {
       "chainId": "",
@@ -988,7 +988,7 @@
       "name": "Buffer Token",
       "symbol": "BFR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/bufferfinance2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/bufferfinance2_32.png"
     },
     {
       "chainId": "",
@@ -996,7 +996,7 @@
       "name": "Factor",
       "symbol": "FCTR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/factorfi2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/factorfi2_32.png"
     },
     {
       "chainId": "",
@@ -1004,7 +1004,7 @@
       "name": "Meta",
       "symbol": "MTA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/meta_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/meta_32.png"
     },
     {
       "chainId": "",
@@ -1012,7 +1012,7 @@
       "name": "Fief",
       "symbol": "FIEF",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/fiefprotocol_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fiefprotocol_32.png"
     },
     {
       "chainId": "",
@@ -1020,7 +1020,7 @@
       "name": "Edgeware",
       "symbol": "EDG",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/edgeware_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/edgeware_32.png"
     },
     {
       "chainId": "",
@@ -1028,7 +1028,7 @@
       "name": "Ramses",
       "symbol": "RAM",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ramsesexchange_32.png?v=3"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/ramsesexchange_32.png?v=3"
     },
     {
       "chainId": "",
@@ -1036,7 +1036,7 @@
       "name": "handleFOREX",
       "symbol": "FOREX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/handlefi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/handlefi_32.png"
     },
     {
       "chainId": "",
@@ -1044,7 +1044,7 @@
       "name": "GoBlank Token",
       "symbol": "BLANK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/blanktoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/blanktoken_32.png"
     },
     {
       "chainId": "",
@@ -1052,7 +1052,7 @@
       "name": "Connect Financial",
       "symbol": "CNFI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/connectfinancial_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/connectfinancial_32.png"
     },
     {
       "chainId": "",
@@ -1060,7 +1060,7 @@
       "name": "O3 Swap Token",
       "symbol": "O3",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/o3swap_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/o3swap_32.png"
     },
     {
       "chainId": "",
@@ -1068,7 +1068,7 @@
       "name": "Antimatter.Finance Governance Token",
       "symbol": "MATTER",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/antimatter_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/antimatter_32.png"
     },
     {
       "chainId": "",
@@ -1076,7 +1076,7 @@
       "name": "Equation",
       "symbol": "EQU",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/equation_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/equation_32.png"
     },
     {
       "chainId": "",
@@ -1084,7 +1084,7 @@
       "name": "0xBitcoin Token",
       "symbol": "0xBTC",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/0xbitcoin_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/0xbitcoin_32.png"
     },
     {
       "chainId": "",
@@ -1092,7 +1092,7 @@
       "name": "Agave",
       "symbol": "AGVE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/agave_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/agave_32.png"
     },
     {
       "chainId": "",
@@ -1100,7 +1100,7 @@
       "name": "DegenReborn Token",
       "symbol": "DEGEN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/degenreborn_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/degenreborn_32.png"
     },
     {
       "chainId": "",
@@ -1108,7 +1108,7 @@
       "name": "PickleToken",
       "symbol": "PICKLE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/pickle_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/pickle_32.png"
     },
     {
       "chainId": "",
@@ -1116,7 +1116,7 @@
       "name": "ROOBEE",
       "symbol": "ROOBEE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/roobeefin_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/roobeefin_32.png"
     },
     {
       "chainId": "",
@@ -1124,7 +1124,7 @@
       "name": "Arken Token",
       "symbol": "ARKEN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/arkenfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/arkenfinance_32.png"
     },
     {
       "chainId": "",
@@ -1132,7 +1132,7 @@
       "name": "Flourishing AI Token",
       "symbol": "AI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/flourishingcapitalarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/flourishingcapitalarb_32.png"
     },
     {
       "chainId": "",
@@ -1140,7 +1140,7 @@
       "name": "Zyber Token",
       "symbol": "ZYB",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/zyberswap_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/zyberswap_32.png"
     },
     {
       "chainId": "",
@@ -1148,7 +1148,7 @@
       "name": "DigitalDollar",
       "symbol": "DUSD",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/fluid_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fluid_32.png"
     },
     {
       "chainId": "",
@@ -1156,7 +1156,7 @@
       "name": "OpenBlox Token",
       "symbol": "OBX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/openblox_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/openblox_32.png"
     },
     {
       "chainId": "",
@@ -1164,7 +1164,7 @@
       "name": "Popcorn",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/popcornpop_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/popcornpop_32.png"
     },
     {
       "chainId": "",
@@ -1172,7 +1172,7 @@
       "name": "Wombex Token",
       "symbol": "WMX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/wombexdex_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/wombexdex_32.png"
     },
     {
       "chainId": "",
@@ -1180,7 +1180,7 @@
       "name": "SHARBI",
       "symbol": "$SHARBI",
       "decimals": 9,
-      "logoURI": "https://arbiscan.io/token/images/sharbi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/sharbi_32.png"
     },
     {
       "chainId": "",
@@ -1188,7 +1188,7 @@
       "name": "OpenWorld",
       "symbol": "OPEN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/openworld_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/openworld_32.png"
     },
     {
       "chainId": "",
@@ -1196,7 +1196,7 @@
       "name": "NEU",
       "symbol": "NEU",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/neutra_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/neutra_32.png"
     },
     {
       "chainId": "",
@@ -1204,7 +1204,7 @@
       "name": "Royale",
       "symbol": "ROY",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/cryptoroyaleroy_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/cryptoroyaleroy_32.png"
     },
     {
       "chainId": "",
@@ -1212,7 +1212,7 @@
       "name": "BlackHat",
       "symbol": "BLKC",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/blackhatco_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/blackhatco_32.png"
     },
     {
       "chainId": "",
@@ -1220,7 +1220,7 @@
       "name": "Hundred Finance",
       "symbol": "HND",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/hundredfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/hundredfinance_32.png"
     },
     {
       "chainId": "",
@@ -1228,7 +1228,7 @@
       "name": "Hamachi",
       "symbol": "HAMI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/hamachifin_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/hamachifin_32.png"
     },
     {
       "chainId": "",
@@ -1236,7 +1236,7 @@
       "name": "TND",
       "symbol": "TND",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/tenderfitnd_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/tenderfitnd_32.png"
     },
     {
       "chainId": "",
@@ -1244,7 +1244,7 @@
       "name": "BAC",
       "symbol": "BAC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/basiscash_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/basiscash_32.png"
     },
     {
       "chainId": "",
@@ -1252,7 +1252,7 @@
       "name": "Flashstake",
       "symbol": "FLASH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/flashstake2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/flashstake2_32.png"
     },
     {
       "chainId": "",
@@ -1260,7 +1260,7 @@
       "name": "Flux",
       "symbol": "FLUX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/datamine_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/datamine_32.png"
     },
     {
       "chainId": "",
@@ -1268,7 +1268,7 @@
       "name": "EDE",
       "symbol": "EDE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/edefinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/edefinance_32.png"
     },
     {
       "chainId": "",
@@ -1276,7 +1276,7 @@
       "name": "Aluna",
       "symbol": "ALN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aluna_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aluna_32.png"
     },
     {
       "chainId": "",
@@ -1284,7 +1284,7 @@
       "name": "Bitindi Chain",
       "symbol": "BNI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/bitindichain_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/bitindichain_32.png"
     },
     {
       "chainId": "",
@@ -1292,7 +1292,7 @@
       "name": "Vox.Finance",
       "symbol": "VOX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/vox_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/vox_32.png"
     },
     {
       "chainId": "",
@@ -1300,7 +1300,7 @@
       "name": "YIN Finance",
       "symbol": "YIN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/yinfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/yinfinance_32.png"
     },
     {
       "chainId": "",
@@ -1308,7 +1308,7 @@
       "name": "Volta Protocol Token",
       "symbol": "VOLTA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/voltafinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/voltafinance_32.png"
     },
     {
       "chainId": "",
@@ -1316,7 +1316,7 @@
       "name": "ETHforestAI",
       "symbol": "ETHFAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ethforestai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/ethforestai_32.png"
     },
     {
       "chainId": "",
@@ -1324,7 +1324,7 @@
       "name": "Doubloon Token",
       "symbol": "DBL",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/doubloon_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/doubloon_32.png"
     },
     {
       "chainId": "",
@@ -1332,7 +1332,7 @@
       "name": "Indexed",
       "symbol": "NDX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/indexed_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/indexed_32.png"
     },
     {
       "chainId": "",
@@ -1340,7 +1340,7 @@
       "name": "LYS",
       "symbol": "LYS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/lyscapital_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/lyscapital_32.png"
     },
     {
       "chainId": "",
@@ -1348,7 +1348,7 @@
       "name": "The Force Token",
       "symbol": "FOR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/fortubetoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fortubetoken_32.png"
     },
     {
       "chainId": "",
@@ -1356,7 +1356,7 @@
       "name": "Staked Frax Ether",
       "symbol": "sfrxETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/sfrxeth2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/sfrxeth2_32.png"
     },
     {
       "chainId": "",
@@ -1364,7 +1364,7 @@
       "name": "Staked ACME",
       "symbol": "stACME",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/stakedacme_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/stakedacme_32.png"
     },
     {
       "chainId": "",
@@ -1372,7 +1372,7 @@
       "name": "Octo.fi",
       "symbol": "OCTO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/octo_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/octo_32.png"
     },
     {
       "chainId": "",
@@ -1380,7 +1380,7 @@
       "name": "Kunji Finance",
       "symbol": "KNJ",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/kunjifinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/kunjifinance_32.png"
     },
     {
       "chainId": "",
@@ -1388,7 +1388,7 @@
       "name": "DXdao",
       "symbol": "DXD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dxdao_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dxdao_32.png"
     },
     {
       "chainId": "",
@@ -1396,7 +1396,7 @@
       "name": "dHedge DAO Token",
       "symbol": "DHT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dHedge_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dHedge_32.png"
     },
     {
       "chainId": "",
@@ -1404,7 +1404,7 @@
       "name": "DEFI Top 5 Tokens Index",
       "symbol": "DEFI5",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/defitop5tokensindex_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/defitop5tokensindex_32.png"
     },
     {
       "chainId": "",
@@ -1412,7 +1412,7 @@
       "name": "BrickblockToken",
       "symbol": "BBK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/brickblock2_28.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/brickblock2_28.png"
     },
     {
       "chainId": "",
@@ -1420,7 +1420,7 @@
       "name": "BitcoinBR",
       "symbol": "BTCBR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/btcbr_new_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/btcbr_new_32.png"
     },
     {
       "chainId": "",
@@ -1428,7 +1428,7 @@
       "name": "AISHIB",
       "symbol": "AISHIB",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/aishibarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aishibarb_32.png"
     },
     {
       "chainId": "",
@@ -1436,7 +1436,7 @@
       "name": "AIPEOPLE",
       "symbol": "AIPEOPLE",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/aipeople_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aipeople_32.png"
     },
     {
       "chainId": "",
@@ -1444,7 +1444,7 @@
       "name": "EthereumMax",
       "symbol": "EMAX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ethereummax2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/ethereummax2_32.png"
     },
     {
       "chainId": "",
@@ -1452,7 +1452,7 @@
       "name": "SafeBLAST",
       "symbol": "BLAST",
       "decimals": 9,
-      "logoURI": "https://arbiscan.io/token/images/safeblastcrypto_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/safeblastcrypto_32.png"
     },
     {
       "chainId": "",
@@ -1460,7 +1460,7 @@
       "name": "Cryption Network Token",
       "symbol": "CNT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/cryptionnetwork_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/cryptionnetwork_32.png"
     },
     {
       "chainId": "",
@@ -1468,7 +1468,7 @@
       "name": "Shiba Cartel",
       "symbol": "PESOS",
       "decimals": 9,
-      "logoURI": "https://arbiscan.io/token/images/shibacartel_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/shibacartel_32.png"
     },
     {
       "chainId": "",
@@ -1476,7 +1476,7 @@
       "name": "ArbiDoge",
       "symbol": "ADoge",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/arbidoge_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/arbidoge_32.png"
     },
     {
       "chainId": "",
@@ -1484,7 +1484,7 @@
       "name": "OxAI",
       "symbol": "OXAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/oxai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/oxai_32.png"
     },
     {
       "chainId": "",
@@ -1492,7 +1492,7 @@
       "name": "DEGEN Index",
       "symbol": "DEGEN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/degenindex_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/degenindex_32.png"
     },
     {
       "chainId": "",
@@ -1500,7 +1500,7 @@
       "name": "Carbon",
       "symbol": "CARBON",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/carbonfi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/carbonfi_32.png"
     },
     {
       "chainId": "",
@@ -1508,7 +1508,7 @@
       "name": "RICE",
       "symbol": "RICE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/catmouseworld_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/catmouseworld_32.png"
     },
     {
       "chainId": "",
@@ -1516,7 +1516,7 @@
       "name": "ArbiRoul Casino Chip",
       "symbol": "ROUL",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/arbiroulxyz_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/arbiroulxyz_32.png"
     },
     {
       "chainId": "",
@@ -1524,7 +1524,7 @@
       "name": "TurismoAI",
       "symbol": "TURAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/turismoai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/turismoai_32.png"
     },
     {
       "chainId": "",
@@ -1532,7 +1532,7 @@
       "name": "GO!",
       "symbol": "GO!",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/norigo_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/norigo_32.png"
     },
     {
       "chainId": "",
@@ -1540,7 +1540,7 @@
       "name": "RocketVerse",
       "symbol": "RKV",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/rocketversearena_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/rocketversearena_32.png"
     },
     {
       "chainId": "",
@@ -1548,7 +1548,7 @@
       "name": "HOOD AI",
       "symbol": "HOOD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/hoodai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/hoodai_32.png"
     },
     {
       "chainId": "",
@@ -1556,7 +1556,7 @@
       "name": "Swaprum Token",
       "symbol": "SAPR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/swaprum_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/swaprum_32.png"
     },
     {
       "chainId": "",
@@ -1564,7 +1564,7 @@
       "name": "Arbucks",
       "symbol": "BUCK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/arbucks_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/arbucks_32.png"
     },
     {
       "chainId": "",
@@ -1572,7 +1572,7 @@
       "name": "Bitcointry Token",
       "symbol": "BTTY",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/bitcointryarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/bitcointryarb_32.png"
     },
     {
       "chainId": "",
@@ -1580,7 +1580,7 @@
       "name": "Alt Markets",
       "symbol": "AMX",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/altmarkets_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/altmarkets_32.png"
     },
     {
       "chainId": "",
@@ -1588,7 +1588,7 @@
       "name": "SharkySwap",
       "symbol": "SHARKY",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/sharkyswap2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/sharkyswap2_32.png"
     },
     {
       "chainId": "",
@@ -1596,7 +1596,7 @@
       "name": "Auctus Token",
       "symbol": "AUC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/auctus_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/auctus_32.png"
     },
     {
       "chainId": "",
@@ -1604,7 +1604,7 @@
       "name": "Quoll Token",
       "symbol": "QUO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/quollfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/quollfinance_32.png"
     },
     {
       "chainId": "",
@@ -1612,7 +1612,7 @@
       "name": "Locker Token",
       "symbol": "LKT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/lockertoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/lockertoken_32.png"
     },
     {
       "chainId": "",
@@ -1620,7 +1620,7 @@
       "name": "Gud Guess",
       "symbol": "GG",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/gudguess_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/gudguess_32.png"
     },
     {
       "chainId": "",
@@ -1628,7 +1628,7 @@
       "name": "Kenshi",
       "symbol": "KNS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/kenshiio_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/kenshiio_32.png"
     },
     {
       "chainId": "",
@@ -1636,7 +1636,7 @@
       "name": "Zippie",
       "symbol": "ZIPT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/zippie_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/zippie_32.png"
     },
     {
       "chainId": "",
@@ -1644,7 +1644,7 @@
       "name": "CHUNKS",
       "symbol": "CHUNKS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/chunks_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/chunks_32.png"
     },
     {
       "chainId": "",
@@ -1652,7 +1652,7 @@
       "name": "Betero",
       "symbol": "BTE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/beteroarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/beteroarb_32.png"
     },
     {
       "chainId": "",
@@ -1660,7 +1660,7 @@
       "name": "OnyxDAO Token",
       "symbol": "ONYX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/onyxdao_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/onyxdao_32.png"
     },
     {
       "chainId": "",
@@ -1668,7 +1668,7 @@
       "name": "QiDao",
       "symbol": "QI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/anyqi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/anyqi_32.png"
     },
     {
       "chainId": "",
@@ -1676,7 +1676,7 @@
       "name": "Beluga Token",
       "symbol": "BELA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/arbbeluga_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/arbbeluga_32.png"
     },
     {
       "chainId": "",
@@ -1684,7 +1684,7 @@
       "name": "xToken",
       "symbol": "XTK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/xtokenmarket_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/xtokenmarket_32.png"
     },
     {
       "chainId": "",
@@ -1692,7 +1692,7 @@
       "name": "Lotto",
       "symbol": "LOTTO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/lottoarbitrum_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/lottoarbitrum_32.png"
     },
     {
       "chainId": "",
@@ -1700,7 +1700,7 @@
       "name": "MAGICToken",
       "symbol": "MAGIC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/magicland_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/magicland_32.png"
     },
     {
       "chainId": "",
@@ -1708,7 +1708,7 @@
       "name": "MemePad",
       "symbol": "MEPAD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/memepadarb_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/memepadarb_32.png"
     },
     {
       "chainId": "",
@@ -1716,7 +1716,7 @@
       "name": "Amy Finance Token",
       "symbol": "AMY",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/amyfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/amyfinance_32.png"
     },
     {
       "chainId": "",
@@ -1724,7 +1724,7 @@
       "name": "Impermax",
       "symbol": "IMX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/impermax_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/impermax_32.png"
     },
     {
       "chainId": "",
@@ -1732,7 +1732,7 @@
       "name": "HonorWorld Token",
       "symbol": "HWT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/honorworldtoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/honorworldtoken_32.png"
     },
     {
       "chainId": "",
@@ -1740,7 +1740,7 @@
       "name": "Wrapped ACME",
       "symbol": "WACME",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/wrappedacme_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/wrappedacme_32.png"
     },
     {
       "chainId": "",
@@ -1748,7 +1748,7 @@
       "name": "The Bet",
       "symbol": "BET",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/thebet_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/thebet_32.png"
     },
     {
       "chainId": "",
@@ -1756,7 +1756,7 @@
       "name": "BrincToken",
       "symbol": "BRC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/brinctoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/brinctoken_32.png"
     },
     {
       "chainId": "",
@@ -1764,7 +1764,7 @@
       "name": "OreoSwap",
       "symbol": "OREO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/oreoswap_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/oreoswap_32.png"
     },
     {
       "chainId": "",
@@ -1772,7 +1772,7 @@
       "name": "KillSwitchToken",
       "symbol": "KSW",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/killswitch_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/killswitch_32.png"
     },
     {
       "chainId": "",
@@ -1780,7 +1780,7 @@
       "name": "OpenLeverage",
       "symbol": "OLE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/openleverage_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/openleverage_32.png"
     },
     {
       "chainId": "",
@@ -1788,7 +1788,7 @@
       "name": "Black Rabbit AI",
       "symbol": "BRAIN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/blackrabbitai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/blackrabbitai_32.png"
     },
     {
       "chainId": "",
@@ -1796,7 +1796,7 @@
       "name": "FluidFi",
       "symbol": "FLUID",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/fluidfi_32.png?v=2"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/fluidfi_32.png?v=2"
     },
     {
       "chainId": "",
@@ -1804,7 +1804,7 @@
       "name": "ZENF Token",
       "symbol": "ZENF",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/zenlandzenf_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/zenlandzenf_32.png"
     },
     {
       "chainId": "",
@@ -1812,7 +1812,7 @@
       "name": "QIAN governance token",
       "symbol": "KUN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/qianfinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/qianfinance_32.png"
     },
     {
       "chainId": "",
@@ -1820,7 +1820,7 @@
       "name": "AsgardX",
       "symbol": "ODIN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/asgardxworld_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/asgardxworld_32.png"
     },
     {
       "chainId": "",
@@ -1828,7 +1828,7 @@
       "name": "CreDA Protocol Token",
       "symbol": "CREDA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/creda_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/creda_32.png"
     },
     {
       "chainId": "",
@@ -1836,7 +1836,7 @@
       "name": "Rodeo",
       "symbol": "RDO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/rodeofinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/rodeofinance_32.png"
     },
     {
       "chainId": "",
@@ -1844,7 +1844,7 @@
       "name": "KAP Games Token",
       "symbol": "KAP",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/kapgameskap_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/kapgameskap_32.png"
     },
     {
       "chainId": "",
@@ -1852,7 +1852,7 @@
       "name": "Goerli ETH",
       "symbol": "GETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/lzgoerlieth_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/lzgoerlieth_32.png"
     },
     {
       "chainId": "",
@@ -1860,7 +1860,7 @@
       "name": "Arbys",
       "symbol": "ARBYS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/arbystoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/arbystoken_32.png"
     },
     {
       "chainId": "",
@@ -1868,7 +1868,7 @@
       "name": "Stabilize Token",
       "symbol": "STBZ",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/stabilize_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/stabilize_32.png"
     },
     {
       "chainId": "",
@@ -1876,7 +1876,7 @@
       "name": "YachtingVerse",
       "symbol": "YACHT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/yachtingverse_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/yachtingverse_32.png"
     },
     {
       "chainId": "",
@@ -1884,7 +1884,7 @@
       "name": "BTU Protocol",
       "symbol": "BTU",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/btuprotocol_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/btuprotocol_32.png"
     },
     {
       "chainId": "",
@@ -1892,7 +1892,7 @@
       "name": "QIAN second generation dollar",
       "symbol": "QSD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/chemix_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/chemix_32.png"
     },
     {
       "chainId": "",
@@ -1900,7 +1900,7 @@
       "name": "XDAO",
       "symbol": "XDAO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/xdaoapp_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/xdaoapp_32.png"
     },
     {
       "chainId": "",
@@ -1908,7 +1908,7 @@
       "name": "LIBERA - Multichain High APR Farming",
       "symbol": "LIBERA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/libera_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/libera_32.png"
     },
     {
       "chainId": "",
@@ -1916,7 +1916,7 @@
       "name": "Aave Arbitrum DAI",
       "symbol": "aArbDAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aarbdai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarbdai_32.png"
     },
     {
       "chainId": "",
@@ -1924,7 +1924,7 @@
       "name": "BOB",
       "symbol": "BOB",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/bobtoken_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/bobtoken_32.png"
     },
     {
       "chainId": "",
@@ -1932,7 +1932,7 @@
       "name": "Aave Arbitrum USDT",
       "symbol": "aArbUSDT",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/aarbusdt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarbusdt_32.png"
     },
     {
       "chainId": "",
@@ -1940,7 +1940,7 @@
       "name": "Aave Arbitrum USDC",
       "symbol": "aArbUSDC",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/aave_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aave_32.png"
     },
     {
       "chainId": "",
@@ -1948,7 +1948,7 @@
       "name": "xDollar Stablecoin",
       "symbol": "xUSD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/xdollar_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/xdollar_32.png"
     },
     {
       "chainId": "",
@@ -1956,7 +1956,7 @@
       "name": "Omicron",
       "symbol": "OMIC",
       "decimals": 9,
-      "logoURI": "https://arbiscan.io/token/images/omicron_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/omicron_32.png"
     },
     {
       "chainId": "",
@@ -1964,7 +1964,7 @@
       "name": "Minato",
       "symbol": "MNTO",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/minatodao_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/minatodao_32.png"
     },
     {
       "chainId": "",
@@ -1972,7 +1972,7 @@
       "name": "gmUSD",
       "symbol": "gmUSD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/gmusd_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/gmusd_32.png"
     },
     {
       "chainId": "",
@@ -1980,7 +1980,7 @@
       "name": "Aave Arbitrum LINK",
       "symbol": "aArbLINK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aarblink_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarblink_32.png"
     },
     {
       "chainId": "",
@@ -1988,7 +1988,7 @@
       "name": "Dopex Rebate Token",
       "symbol": "RDPX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dopex-rdpx_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dopex-rdpx_32.png"
     },
     {
       "chainId": "",
@@ -1996,7 +1996,7 @@
       "name": "Dopex Governance Token",
       "symbol": "DPX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dopex-dpx_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dopex-dpx_32.png"
     },
     {
       "chainId": "",
@@ -2004,7 +2004,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/weth_28.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/weth_28.png"
     },
     {
       "chainId": "",
@@ -2012,7 +2012,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/wsteth_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/wsteth_32.png"
     },
     {
       "chainId": "",
@@ -2020,7 +2020,7 @@
       "name": "Governance OHM",
       "symbol": "gOHM",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ohmgovernance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/ohmgovernance_32.png"
     },
     {
       "chainId": "",
@@ -2028,7 +2028,7 @@
       "name": "pTokens BTC",
       "symbol": "pBTC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ptokenbtc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/ptokenbtc_32.png"
     },
     {
       "chainId": "",
@@ -2036,7 +2036,7 @@
       "name": "Aave Arbitrum WBTC",
       "symbol": "aArbWBTC",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/aarbwbtc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarbwbtc_32.png"
     },
     {
       "chainId": "",
@@ -2044,7 +2044,7 @@
       "name": "Axelar Wrapped USDT",
       "symbol": "axlUSDT",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/axelarusdt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/axelarusdt_32.png"
     },
     {
       "chainId": "",
@@ -2052,7 +2052,7 @@
       "name": "Camelot token",
       "symbol": "GRAIL",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/camelotexchange_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/camelotexchange_32.png"
     },
     {
       "chainId": "",
@@ -2060,7 +2060,7 @@
       "name": "Vesta",
       "symbol": "VSTA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/vestafinance_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/vestafinance_32.png"
     },
     {
       "chainId": "",
@@ -2068,7 +2068,7 @@
       "name": "USDLemma",
       "symbol": "USDL",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": "",
@@ -2076,7 +2076,7 @@
       "name": "USD Coin Hop Token",
       "symbol": "hUSDC",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": "",
@@ -2084,7 +2084,7 @@
       "name": "The Beacon",
       "symbol": "The Beacon",
       "decimals": "",
-      "logoURI": "https://arbiscan.io/token/images/thebeacon_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/thebeacon_32.png"
     },
     {
       "chainId": "",
@@ -2092,7 +2092,7 @@
       "name": "Tether USD Hop Token",
       "symbol": "hUSDT",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": "",
@@ -2100,7 +2100,7 @@
       "name": "Parrot Egg",
       "symbol": "PPEGG",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/parrotegg_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/parrotegg_32.png"
     },
     {
       "chainId": "",
@@ -2108,7 +2108,7 @@
       "name": "MetaLine MysteryBox Semi-fungible Token",
       "symbol": "MLMB",
       "decimals": "",
-      "logoURI": "https://arbiscan.io/token/images/metalinemystery_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/metalinemystery_32.png"
     },
     {
       "chainId": "",
@@ -2116,7 +2116,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": "",
@@ -2124,7 +2124,7 @@
       "name": "Jarvis Synthetic United States Dollar",
       "symbol": "jUSD",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/jUSD_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/jUSD_32.png"
     },
     {
       "chainId": "",
@@ -2132,7 +2132,7 @@
       "name": "Jarvis Synthetic Euro",
       "symbol": "jEUR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/jEUR_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/jEUR_32.png"
     },
     {
       "chainId": "",
@@ -2140,7 +2140,7 @@
       "name": "JARVIS",
       "symbol": "JARVIS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/jarvisnew_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/jarvisnew_32.png"
     },
     {
       "chainId": "",
@@ -2148,7 +2148,7 @@
       "name": "JARVIS",
       "symbol": "JARVIS",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/jarvisnew_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/jarvisnew_32.png"
     },
     {
       "chainId": "",
@@ -2156,7 +2156,7 @@
       "name": "Hop USDT LP Token",
       "symbol": "HOP-LP-USDT",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": "",
@@ -2164,7 +2164,7 @@
       "name": "Hop USDC LP Token",
       "symbol": "HOP-LP-USDC",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": "",
@@ -2172,7 +2172,7 @@
       "name": "Hop ETH LP Token",
       "symbol": "HOP-LP-ETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": "",
@@ -2180,7 +2180,7 @@
       "name": "dForce wstETH",
       "symbol": "iwstETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dforcewsteth_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dforcewsteth_32.png"
     },
     {
       "chainId": "",
@@ -2188,7 +2188,7 @@
       "name": "dForce USD",
       "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/USX_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/USX_32.png"
     },
     {
       "chainId": "",
@@ -2196,7 +2196,7 @@
       "name": "dForce USD",
       "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dforceusd_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dforceusd_32.png"
     },
     {
       "chainId": "",
@@ -2204,7 +2204,7 @@
       "name": "dForce EUR",
       "symbol": "EUX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/EUX_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/EUX_32.png"
     },
     {
       "chainId": "",
@@ -2212,7 +2212,7 @@
       "name": "dForce EUR",
       "symbol": "EUX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/dforceeur_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/dforceeur_32.png"
     },
     {
       "chainId": "",
@@ -2220,7 +2220,7 @@
       "name": "Blue Parrot Egg",
       "symbol": "BPEGG",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/blueparrotegg_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/blueparrotegg_32.png"
     },
     {
       "chainId": "",
@@ -2228,7 +2228,7 @@
       "name": "Promethios",
       "symbol": "FIRE",
       "decimals": 9,
-      "logoURI": "https://arbiscan.io/token/images/promethios_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/promethios_32.png"
     },
     {
       "chainId": "",
@@ -2236,7 +2236,7 @@
       "name": "ArbiNYAN",
       "symbol": "NYAN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/arbinyan_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/arbinyan_32.png"
     },
     {
       "chainId": "",
@@ -2244,7 +2244,7 @@
       "name": "Alchemy",
       "symbol": "ALCH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/alchemy_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/alchemy_32.png"
     },
     {
       "chainId": "",
@@ -2252,7 +2252,7 @@
       "name": "Diversified Staked ETH Index (dsETH)",
       "symbol": "dsETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/indexcoopdseth2_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/indexcoopdseth2_32.png"
     },
     {
       "chainId": "",
@@ -2260,7 +2260,7 @@
       "name": "Ethos Reserve Note",
       "symbol": "ERN",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ethos_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/ethos_32.png"
     },
     {
       "chainId": "",
@@ -2268,7 +2268,7 @@
       "name": "VelaToken",
       "symbol": "VELA",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/velaexchange_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/velaexchange_32.png"
     },
     {
       "chainId": "",
@@ -2276,7 +2276,7 @@
       "name": "Interest Compounding ETH Index",
       "symbol": "icETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/indexcoopiceth_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/indexcoopiceth_32.png"
     },
     {
       "chainId": "",
@@ -2284,7 +2284,7 @@
       "name": "agEUR",
       "symbol": "agEUR",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/angleeurarbi_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/angleeurarbi_32.png"
     },
     {
       "chainId": "",
@@ -2292,7 +2292,7 @@
       "name": "Magic Internet Money",
       "symbol": "MIM",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/mimstablecoin_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/mimstablecoin_32.png"
     },
     {
       "chainId": "",
@@ -2300,7 +2300,7 @@
       "name": "Across Protocol Token",
       "symbol": "ACX",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/across_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/across_32.png"
     },
     {
       "chainId": "",
@@ -2308,7 +2308,7 @@
       "name": "Axelar",
       "symbol": "AXL",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/axelar_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/axelar_32.png"
     },
     {
       "chainId": 42161,
@@ -2316,7 +2316,7 @@
       "name": "Aave Arbitrum Stable Debt WETH",
       "symbol": "stableDebtArbWETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2324,7 +2324,7 @@
       "name": "Aave Arbitrum Stable Debt WBTC",
       "symbol": "stableDebtArbWBTC",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2332,7 +2332,7 @@
       "name": "Aave Arbitrum Stable Debt LINK",
       "symbol": "stableDebtArbLINK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2340,7 +2340,7 @@
       "name": "Aave Arbitrum Stable Debt AAVE",
       "symbol": "stableDebtArbAAVE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2348,7 +2348,7 @@
       "name": "Aave Arbitrum Stable Debt USDT",
       "symbol": "stableDebtArbUSDT",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2356,7 +2356,7 @@
       "name": "Aave Arbitrum Stable Debt USDC",
       "symbol": "stableDebtArbUSDC",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2364,7 +2364,7 @@
       "name": "Aave Arbitrum Stable Debt EURS",
       "symbol": "stableDebtArbEURS",
       "decimals": 2,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2372,7 +2372,7 @@
       "name": "Aave Arbitrum Stable Debt DAI",
       "symbol": "stableDebtArbDAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2380,7 +2380,7 @@
       "name": "Aave Arbitrum Variable Debt WETH",
       "symbol": "variableDebtArbWETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2388,7 +2388,7 @@
       "name": "Aave Arbitrum Variable Debt WBTC",
       "symbol": "variableDebtArbWBTC",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2396,7 +2396,7 @@
       "name": "Aave Arbitrum Variable Debt LINK",
       "symbol": "variableDebtArbLINK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2404,7 +2404,7 @@
       "name": "Aave Arbitrum Variable Debt AAVE",
       "symbol": "variableDebtArbAAVE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2412,7 +2412,7 @@
       "name": "Aave Arbitrum Variable Debt USDT",
       "symbol": "variableDebtArbUSDT",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2420,7 +2420,7 @@
       "name": "Aave Arbitrum Variable Debt USDC",
       "symbol": "variableDebtArbUSDC",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2428,7 +2428,7 @@
       "name": "Aave Arbitrum Variable Debt EURS",
       "symbol": "variableDebtArbEURS",
       "decimals": 2,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2436,7 +2436,7 @@
       "name": "Aave Arbitrum Variable Debt DAI",
       "symbol": "variableDebtArbDAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1"
+      "logoURI": ""
     },
     {
       "chainId": 42161,
@@ -2444,7 +2444,7 @@
       "name": "Aave Arbitrum WETH",
       "symbol": "aArbWETH",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aarbweth_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarbweth_32.png"
     },
     {
       "chainId": 42161,
@@ -2452,7 +2452,7 @@
       "name": "Aave Arbitrum WBTC",
       "symbol": "aArbWBTC",
       "decimals": 8,
-      "logoURI": "https://arbiscan.io/token/images/aarbwbtc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarbwbtc_32.png"
     },
     {
       "chainId": 42161,
@@ -2460,7 +2460,7 @@
       "name": "Aave Arbitrum LINK",
       "symbol": "aArbLINK",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aarblink_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarblink_32.png"
     },
     {
       "chainId": 42161,
@@ -2468,7 +2468,7 @@
       "name": "Aave Arbitrum AAVE",
       "symbol": "aArbAAVE",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aarbaave_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarbaave_32.png"
     },
     {
       "chainId": 42161,
@@ -2476,7 +2476,7 @@
       "name": "Aave Arbitrum USDT",
       "symbol": "aArbUSDT",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/aarbusdt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarbusdt_32.png"
     },
     {
       "chainId": 42161,
@@ -2484,7 +2484,7 @@
       "name": "Aave Arbitrum USDC",
       "symbol": "aArbUSDC",
       "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/aave_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aave_32.png"
     },
     {
       "chainId": 42161,
@@ -2492,7 +2492,7 @@
       "name": "Aave Arbitrum EURS",
       "symbol": "aArbEURS",
       "decimals": 2,
-      "logoURI": "https://arbiscan.io/token/images/aave_eurs.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aave_eurs.png"
     },
     {
       "chainId": 42161,
@@ -2500,7 +2500,7 @@
       "name": "Aave Arbitrum DAI",
       "symbol": "aArbDAI",
       "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/aarbdai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/arbitrum/aarbdai_32.png"
     }
   ]
 }
