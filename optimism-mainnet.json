@@ -1,6 +1,6 @@
 {
   "name": "Optimism Mainnet",
-  "logoURI": "/images/main/empty-token.png",
+  "logoURI": "",
   "keywords": [
     "defi"
   ],
@@ -12,7 +12,7 @@
         "name": "TrueUSD",
         "symbol": "TUSD",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/bridgedtrueusd_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/bridgedtrueusd_32.png"
     },
     {
         "chainId": 10,
@@ -20,7 +20,7 @@
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/tether_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/tether_32.png"
     },
     {
         "chainId": 10,
@@ -28,7 +28,7 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/usdc_32.png"
     },
     {
         "chainId": 10,
@@ -36,7 +36,7 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/usdc_32.png"
     },
     {
         "chainId": 10,
@@ -44,7 +44,7 @@
         "name": "ChainLink Token",
         "symbol": "LINK",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/chainlink_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/chainlink_32.png"
     },
     {
         "chainId": 10,
@@ -52,7 +52,7 @@
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "logoURI": "https://optimistic.etherscan.io/token/images/wbtc_28.png?v=1"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wbtc_28.png"
     },
     {
         "chainId": 10,
@@ -60,7 +60,7 @@
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/MCDDai_32.png"
     },
     {
         "chainId": 10,
@@ -68,7 +68,7 @@
         "name": "Optimism",
         "symbol": "OP",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/optimism_32.png"
     },
     {
         "chainId": 10,
@@ -76,7 +76,7 @@
         "name": "Lido DAO Token",
         "symbol": "LDO",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/lidodao_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/lidodao_32.png"
     },
     {
         "chainId": 10,
@@ -84,7 +84,7 @@
         "name": "Synthetix Network Token",
         "symbol": "SNX",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/SynthetixSNX_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/SynthetixSNX_32.png"
     },
     {
         "chainId": 10,
@@ -92,7 +92,7 @@
         "name": "Frax Ether",
         "symbol": "frxETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/fraxethcanonical2_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/fraxethcanonical2_32.png"
     },
     {
         "chainId": 10,
@@ -100,7 +100,7 @@
         "name": "Frax",
         "symbol": "FRAX",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/fraxop_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/fraxop_32.png"
     },
     {
         "chainId": 10,
@@ -108,7 +108,7 @@
         "name": "Binance-Peg BUSD Token",
         "symbol": "BUSD",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/busdnew_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/busdnew_32.png"
     },
     {
         "chainId": 10,
@@ -116,7 +116,7 @@
         "name": "Frax Share",
         "symbol": "FXS",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/fraxshareop_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/fraxshareop_32.png"
     },
     {
         "chainId": 10,
@@ -124,7 +124,7 @@
         "name": "Rocket Pool Protocol",
         "symbol": "RPL",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/rplrocketpool_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/rplrocketpool_32.png"
     },
     {
         "chainId": 10,
@@ -132,7 +132,7 @@
         "name": "Staked Frax Ether",
         "symbol": "sfrxETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/sfrxeth2_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/sfrxeth2_32.png"
     },
     {
         "chainId": 10,
@@ -140,7 +140,7 @@
         "name": "Coinbase Wrapped Staked ETH",
         "symbol": "cbETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/cbeth_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/cbeth_32.png"
     },
     {
         "chainId": 10,
@@ -148,7 +148,7 @@
         "name": "Pyth Network",
         "symbol": "PYTH",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/pyth_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/pyth_32.png"
     },
     {
         "chainId": 10,
@@ -156,7 +156,7 @@
         "name": "Celo native asset",
         "symbol": "CELO",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/celowormhole_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/celowormhole_32.png"
     },
     {
         "chainId": 10,
@@ -164,7 +164,7 @@
         "name": "Worldcoin",
         "symbol": "WLD",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/worldcoin_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/worldcoin_32.png"
     },
     {
         "chainId": 10,
@@ -172,7 +172,7 @@
         "name": "yearn.finance",
         "symbol": "YFI",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/yfi_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/yfi_32.png"
     },
     {
         "chainId": 10,
@@ -180,7 +180,7 @@
         "name": "TerraUSD",
         "symbol": "UST",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/terraustbtt_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/terraustbtt_32.png"
     },
     {
         "chainId": 10,
@@ -188,7 +188,7 @@
         "name": "Balancer",
         "symbol": "BAL",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/balancer_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/balancer_32.png"
     },
     {
         "chainId": 10,
@@ -196,7 +196,7 @@
         "name": "LUSD Stablecoin",
         "symbol": "LUSD",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/lusd_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/lusd_32.png"
     },
     {
         "chainId": 10,
@@ -204,7 +204,7 @@
         "name": "Pendle",
         "symbol": "PENDLE",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/pendle_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/pendle_32.png"
     },
     {
         "chainId": 10,
@@ -212,7 +212,7 @@
         "name": "StargateToken",
         "symbol": "STG",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/stargate_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/stargate_32.png"
     },
     {
         "chainId": 10,
@@ -220,7 +220,7 @@
         "name": "Kyber Network Crystal v2",
         "symbol": "KNC",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/kybernetworkknc_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/kybernetworkknc_32.png"
     },
     {
         "chainId": 10,
@@ -228,7 +228,7 @@
         "name": "Perpetual",
         "symbol": "PERP",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/perpetualprotocol_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/perpetualprotocol_32.png"
     },
     {
         "chainId": 10,
@@ -236,7 +236,7 @@
         "name": "Synapse",
         "symbol": "SYN",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/synapse_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/synapse_32.png"
     },
     {
         "chainId": 10,
@@ -244,7 +244,7 @@
         "name": "Lyra Token",
         "symbol": "LYRA",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/lyra_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/lyra_32.png"
     },
     {
         "chainId": 10,
@@ -252,7 +252,7 @@
         "name": "Synth sUSD",
         "symbol": "sUSD",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/SynthetixsUSD_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/SynthetixsUSD_32.png"
     },
     {
         "chainId": 10,
@@ -260,7 +260,7 @@
         "name": "Dola USD Stablecoin",
         "symbol": "DOLA",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/dola_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/dola_32.png"
     },
     {
         "chainId": 10,
@@ -268,7 +268,7 @@
         "name": "Synth sETH",
         "symbol": "sETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/SynthetixsETH_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/SynthetixsETH_32.png"
     },
     {
         "chainId": 10,
@@ -276,7 +276,7 @@
         "name": "BarnBridge Governance Token",
         "symbol": "BOND",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/barnbridge_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/barnbridge_32.png"
     },
     {
         "chainId": 10,
@@ -284,7 +284,7 @@
         "name": "Moo BIFI",
         "symbol": "mooBIFI",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/moobifi2_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/moobifi2_32.png"
     },
     {
         "chainId": 10,
@@ -292,7 +292,7 @@
         "name": "Velodrome",
         "symbol": "VELO",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/velodrome_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/velodrome_32.png"
     },
     {
         "chainId": 10,
@@ -300,7 +300,7 @@
         "name": "Thales DAO Token",
         "symbol": "THALES",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/thalesfin_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/thalesfin_32.png"
     },
     {
         "chainId": 10,
@@ -308,7 +308,7 @@
         "name": "dForce",
         "symbol": "DF",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/dForce_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/dForce_32.png"
     },
     {
         "chainId": 10,
@@ -316,7 +316,7 @@
         "name": "USD+",
         "symbol": "USD",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/usdplus_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/usdplus_32.png"
     },
     {
         "chainId": 10,
@@ -324,7 +324,7 @@
         "name": "Synth sBTC",
         "symbol": "sBTC",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/Synthetix_sBTC_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/Synthetix_sBTC_32.png"
     },
     {
         "chainId": 10,
@@ -332,7 +332,7 @@
         "name": "Bolide",
         "symbol": "BLID",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/bolidefi_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/bolidefi_32.png"
     },
     {
         "chainId": 10,
@@ -340,7 +340,7 @@
         "name": "CheckDot",
         "symbol": "CDT",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/checkdot_ofc_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/checkdot_ofc_32.png"
     },
     {
         "chainId": 10,
@@ -348,7 +348,7 @@
         "name": "Rari Governance Token",
         "symbol": "RGT",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/RariGovernanceToken_32.png?v=2"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/RariGovernanceToken_32.png"
     },
     {
         "chainId": 10,
@@ -356,7 +356,7 @@
         "name": "Extra Finance",
         "symbol": "EXTRA",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/extrafinance_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/extrafinance_32.png"
     },
     {
         "chainId": 10,
@@ -364,7 +364,7 @@
         "name": "ECO",
         "symbol": "ECO",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/ecoorg_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/ecoorg_32.png"
     },
     {
         "chainId": 10,
@@ -372,7 +372,7 @@
         "name": "Hop",
         "symbol": "HOP",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/Hop_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/Hop_32.png"
     },
     {
         "chainId": 10,
@@ -380,7 +380,7 @@
         "name": "Rigo Token",
         "symbol": "GRG",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/rigoblock_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/rigoblock_32.png"
     },
     {
         "chainId": 10,
@@ -388,7 +388,7 @@
         "name": "Jarvis Reward Token",
         "symbol": "JRT",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/jarvisrt_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/jarvisrt_32.png"
     },
     {
         "chainId": 10,
@@ -396,7 +396,7 @@
         "name": "Collab.Land",
         "symbol": "COLLAB",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/collabland_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/collabland_32.png"
     },
     {
         "chainId": 10,
@@ -404,7 +404,7 @@
         "name": "O3 Swap Token",
         "symbol": "O",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/03swap_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/03swap_32.png"
     },
     {
         "chainId": 10,
@@ -412,7 +412,7 @@
         "name": "ROOBEE",
         "symbol": "ROOBEE",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/roobeefin_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/roobeefin_32.png"
     },
     {
         "chainId": 10,
@@ -420,7 +420,7 @@
         "name": "Synth sLINK",
         "symbol": "sLINK",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/Synthetix_sLINK_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/Synthetix_sLINK_32.png"
     },
     {
         "chainId": 10,
@@ -428,7 +428,7 @@
         "name": "Giveth Token",
         "symbol": "GIV",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/givethgno_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/givethgno_32.png"
     },
     {
         "chainId": 10,
@@ -436,7 +436,7 @@
         "name": "Dentacoin",
         "symbol": "DCN",
         "decimals": 0,
-        "logoURI": "https://optimistic.etherscan.io/token/images/dentacoin_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/dentacoin_32.png"
     },
     {
         "chainId": 10,
@@ -444,7 +444,7 @@
         "name": "RadioShack Token",
         "symbol": "RADIO",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/radio_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/radio_32.png"
     },
     {
         "chainId": 10,
@@ -452,7 +452,7 @@
         "name": "PickleToken",
         "symbol": "PICKLE",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/picklefinance_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/picklefinance_32.png"
     },
     {
         "chainId": 10,
@@ -460,7 +460,7 @@
         "name": "Geyser",
         "symbol": "GYSR",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/gysrop_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/gysrop_32.png"
     },
     {
         "chainId": 10,
@@ -468,7 +468,7 @@
         "name": "BOB",
         "symbol": "BOB",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/bobstable_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/bobstable_32.png"
     },
     {
         "chainId": 10,
@@ -476,7 +476,7 @@
         "name": "IronBank",
         "symbol": "IB",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/ironbanktoken_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/ironbanktoken_32.png"
     },
     {
         "chainId": 10,
@@ -484,7 +484,7 @@
         "name": "Equalizer",
         "symbol": "EQZ",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/equalizerfinance_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/equalizerfinance_32.png"
     },
     {
         "chainId": 10,
@@ -492,7 +492,7 @@
         "name": "Aave Optimism SUSD",
         "symbol": "aOptSUSD",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aavesusd_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavesusd_32.png"
     },
     {
         "chainId": 10,
@@ -500,7 +500,7 @@
         "name": "SafeBLAST",
         "symbol": "BLAST",
         "decimals": 9,
-        "logoURI": "https://optimistic.etherscan.io/token/images/safeblastcrypto_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/safeblastcrypto_32.png"
     },
     {
         "chainId": 10,
@@ -508,7 +508,7 @@
         "name": "OxAI",
         "symbol": "OXAI",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/oxai_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/oxai_32.png"
     },
     {
         "chainId": 10,
@@ -516,7 +516,7 @@
         "name": "Promethios",
         "symbol": "FIRE",
         "decimals": 9,
-        "logoURI": "https://optimistic.etherscan.io/token/images/promethios_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/promethios_32.png"
     },
     {
         "chainId": 10,
@@ -524,7 +524,7 @@
         "name": "MetalSwap",
         "symbol": "XMT",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/metalswapop2_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/metalswapop2_32.png"
     },
     {
         "chainId": 10,
@@ -532,7 +532,7 @@
         "name": "Axelar Wrapped USDC",
         "symbol": "axlUSDC",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/axelarnetworkusdc_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/axelarnetworkusdc_32.png"
     },
     {
         "chainId": 10,
@@ -540,7 +540,7 @@
         "name": "Aave Optimism USDC",
         "symbol": "aOptUSDC",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aaveusdc_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveusdc_32.png"
     },
     {
         "chainId": 10,
@@ -548,7 +548,7 @@
         "name": "Aave Optimism DAI",
         "symbol": "aOptDAI",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aavedai_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavedai_32.png"
     },
     {
         "chainId": 10,
@@ -556,7 +556,7 @@
         "name": "Aave Optimism USDT",
         "symbol": "aOptUSDT",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aaveusdt_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveusdt_32.png"
     },
     {
         "chainId": 10,
@@ -564,7 +564,7 @@
         "name": "Frax Price Index",
         "symbol": "FPI",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/fraxpriceindexshare2_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/fraxpriceindexshare2_32.png"
     },
     {
         "chainId": 10,
@@ -572,7 +572,7 @@
         "name": "Frax Price Index Share",
         "symbol": "FPIS",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/fraxpriceindexshare_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/fraxpriceindexshare_32.png"
     },
     {
         "chainId": 10,
@@ -580,7 +580,7 @@
         "name": "Aave Optimism LINK",
         "symbol": "aOptLINK",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aavelink_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavelink_32.png"
     },
     {
         "chainId": 10,
@@ -588,7 +588,7 @@
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/weth_28.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/weth_28.png"
     },
     {
         "chainId": 10,
@@ -596,7 +596,7 @@
         "name": "Wrapped liquid staked Ether 2.0",
         "symbol": "wstETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/wsteth_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/wsteth_32.png"
     },
     {
         "chainId": 10,
@@ -604,7 +604,7 @@
         "name": "Aave Optimism WBTC",
         "symbol": "aOptWBTC",
         "decimals": 8,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aavewbtc_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavewbtc_32.png"
     },
     {
         "chainId": 10,
@@ -612,7 +612,7 @@
         "name": "Kyber Network Crystal v2",
         "symbol": "KNC",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/kybernetworkknc_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/kybernetworkknc_32.png"
     },
     {
         "chainId": 10,
@@ -620,7 +620,7 @@
         "name": "Jarvis Synthetic Euro",
         "symbol": "jEUR",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/jEUR_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/jEUR_32.png"
     },
     {
         "chainId": 10,
@@ -628,7 +628,7 @@
         "name": "JARVIS",
         "symbol": "JARVIS",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/jarvisnew_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/jarvisnew_32.png"
     },
     {
         "chainId": 10,
@@ -636,7 +636,7 @@
         "name": "JARVIS",
         "symbol": "JARVIS",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/jarvisrt_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/jarvisrt_32.png"
     },
     {
         "chainId": 10,
@@ -644,7 +644,7 @@
         "name": "dForce wstETH",
         "symbol": "iwstETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/dforcenetwork_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/dforcenetwork_32.png"
     },
     {
         "chainId": 10,
@@ -652,7 +652,7 @@
         "name": "dForce USDC",
         "symbol": "iUSDC",
         "decimals": 6,
-        "logoURI": "https://optimistic.etherscan.io/token/images/dforcetoken_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/dforcetoken_32.png"
     },
     {
         "chainId": 10,
@@ -660,7 +660,7 @@
         "name": "Decentralized USD",
         "symbol": "USDD",
         "decimals": 18,
-        "logoURI": "/images/main/empty-token.png"
+        "logoURI": ""
     },
     {
         "chainId": 10,
@@ -668,7 +668,7 @@
         "name": "Aave Optimism OP",
         "symbol": "aOptOP",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aaveop_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveop_32.png"
     },
     {
         "chainId": 10,
@@ -676,7 +676,7 @@
         "name": "Aave Optimism LUSD",
         "symbol": "aOptLUSD",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aavelusd_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavelusd_32.png"
     },
     {
         "chainId": 10,
@@ -684,7 +684,7 @@
         "name": "Aave Optimism AAVE",
         "symbol": "aOptAAVE",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aaveaave_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveaave_32.png"
     },
     {
         "chainId": 10,
@@ -692,7 +692,7 @@
         "name": "Aave Optimism WETH",
         "symbol": "aOptWETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aaveweth_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveweth_32.png"
     },
     {
         "chainId": 10,
@@ -700,7 +700,7 @@
         "name": "Aave Optimism rETH",
         "symbol": "aOptrETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aavereth_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavereth_32.png"
     },
     {
         "chainId": 10,
@@ -708,7 +708,7 @@
         "name": "Aave Optimism wstETH",
         "symbol": "aOptwstETH",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/aavesteth_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavesteth_32.png"
     },
     {
         "chainId": 10,
@@ -716,7 +716,7 @@
         "name": "PoolTogether",
         "symbol": "POOL",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/pooltogether_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/pooltogether_32.png"
     },
     {
         "chainId": 10,
@@ -724,7 +724,7 @@
         "name": "CyberConnect",
         "symbol": "CYBER",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/cyberconnectme2_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/cyberconnectme2_32.png"
     },
     {
         "chainId": 10,
@@ -732,7 +732,7 @@
         "name": "Cartesi Token",
         "symbol": "CTSI",
         "decimals": 18,
-        "logoURI": "https://optimistic.etherscan.io/token/images/cartesi_32.png"
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/cartesi_32.png"
     },
     {
       "chainId": 10,
@@ -740,7 +740,7 @@
       "name": "Aave Optimism Stable Debt WETH",
       "symbol": "stableDebtOptWETH",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -748,7 +748,7 @@
       "name": "Aave Optimism Stable Debt WBTC",
       "symbol": "stableDebtOptWBTC",
       "decimals": 8,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -756,7 +756,7 @@
       "name": "Aave Optimism Stable Debt LINK",
       "symbol": "stableDebtOptLINK",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -764,7 +764,7 @@
       "name": "Aave Optimism Stable Debt AAVE",
       "symbol": "stableDebtOptAAVE",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -772,7 +772,7 @@
       "name": "Aave Optimism Stable Debt USDT",
       "symbol": "stableDebtOptUSDT",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -780,7 +780,7 @@
       "name": "Aave Optimism Stable Debt USDC",
       "symbol": "stableDebtOptUSDC",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -788,7 +788,7 @@
       "name": "Aave Optimism Stable Debt SUSD",
       "symbol": "stableDebtOptSUSD",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -796,7 +796,7 @@
       "name": "Aave Optimism Stable Debt DAI",
       "symbol": "stableDebtOptDAI",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -804,7 +804,7 @@
       "name": "Aave Optimism Variable Debt WETH",
       "symbol": "variableDebtOptWETH",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -812,7 +812,7 @@
       "name": "Aave Optimism Variable Debt WBTC",
       "symbol": "variableDebtOptWBTC",
       "decimals": 8,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -820,7 +820,7 @@
       "name": "Aave Optimism Variable Debt LINK",
       "symbol": "variableDebtOptLINK",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -828,7 +828,7 @@
       "name": "Aave Optimism Variable Debt AAVE",
       "symbol": "variableDebtOptAAVE",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -836,7 +836,7 @@
       "name": "Aave Optimism Variable Debt USDT",
       "symbol": "variableDebtOptUSDT",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -844,7 +844,7 @@
       "name": "Aave Optimism Variable Debt USDC",
       "symbol": "variableDebtOptUSDC",
       "decimals": 6,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -852,7 +852,7 @@
       "name": "Aave Optimism Variable Debt SUSD",
       "symbol": "variableDebtOptSUSD",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -860,7 +860,7 @@
       "name": "Aave Optimism Variable Debt DAI",
       "symbol": "variableDebtOptDAI",
       "decimals": 18,
-      "logoURI": "/images/main/empty-token.png"
+      "logoURI": ""
     },
     {
       "chainId": 10,
@@ -868,7 +868,7 @@
       "name": "Aave Optimism WETH",
       "symbol": "aOptWETH",
       "decimals": 18,
-      "logoURI": "https://optimistic.etherscan.io/token/images/aaveweth_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveweth_32.png"
     },
     {
       "chainId": 10,
@@ -876,7 +876,7 @@
       "name": "Aave Optimism WBTC",
       "symbol": "aOptWBTC",
       "decimals": 8,
-      "logoURI": "https://optimistic.etherscan.io/token/images/aavewbtc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavewbtc_32.png"
     },
     {
       "chainId": 10,
@@ -884,7 +884,7 @@
       "name": "Aave Optimism LINK",
       "symbol": "aOptLINK",
       "decimals": 18,
-      "logoURI": "https://optimistic.etherscan.io/token/images/aavelink_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavelink_32.png"
     },
     {
       "chainId": 10,
@@ -892,7 +892,7 @@
       "name": "Aave Optimism AAVE",
       "symbol": "aOptAAVE",
       "decimals": 18,
-      "logoURI": "https://optimistic.etherscan.io/token/images/aaveaave_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveaave_32.png"
     },
     {
       "chainId": 10,
@@ -900,7 +900,7 @@
       "name": "Aave Optimism USDT",
       "symbol": "aOptUSDT",
       "decimals": 6,
-      "logoURI": "https://optimistic.etherscan.io/token/images/aaveusdt_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveusdt_32.png"
     },
     {
       "chainId": 10,
@@ -908,7 +908,7 @@
       "name": "Aave Optimism USDC",
       "symbol": "aOptUSDC",
       "decimals": 6,
-      "logoURI": "https://optimistic.etherscan.io/token/images/aaveusdc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aaveusdc_32.png"
     },
     {
       "chainId": 10,
@@ -916,7 +916,7 @@
       "name": "Aave Optimism SUSD",
       "symbol": "aOptSUSD",
       "decimals": 18,
-      "logoURI": "https://optimistic.etherscan.io/token/images/aavesusd_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavesusd_32.png"
     },
     {
       "chainId": 10,
@@ -924,7 +924,7 @@
       "name": "Aave Optimism DAI",
       "symbol": "aOptDAI",
       "decimals": 18,
-      "logoURI": "https://optimistic.etherscan.io/token/images/aavedai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/optimism/aavedai_32.png"
     }
   ]
 }
