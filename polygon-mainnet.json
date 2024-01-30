@@ -48,7 +48,7 @@
     },
     {
       "chainId": 137,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEe",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Matic Token",
       "symbol": "MATIC",
       "decimals": 18,
