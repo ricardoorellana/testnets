@@ -8,6 +8,14 @@
   "tokens": [
     {
         "chainId": 10,
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": ""
+    },
+    {
+        "chainId": 10,
         "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
         "name": "TrueUSD",
         "symbol": "TUSD",
