@@ -8,6 +8,14 @@
   "tokens": [
     {
       "chainId": 42161,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 42161,
       "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
       "name": "Tether USD",
       "symbol": "USDT",
