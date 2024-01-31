@@ -48,8 +48,8 @@
     },
     {
       "chainId": 137,
-      "address": "0x0000000000000000000000000000000000001010",
-      "name": "Matic Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Matic",
       "symbol": "MATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/matic.svg"

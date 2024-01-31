@@ -6,6 +6,14 @@
   ],
   "timestamp": "2023-11-13T16:06:50.898+00:00",
   "tokens": [
+     {
+        "chainId": 10,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/ethereum/eth.png"
+    },
     {
         "chainId": 10,
         "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
