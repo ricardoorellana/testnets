@@ -56,9 +56,9 @@
     },
     {
       "chainId": 137,
-      "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
-      "name": "BNB",
-      "symbol": "BNB",
+      "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
+      "name": "Wrapped BNB (Wormhole)",
+      "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ricardoorellana/testnets/master/currency_icons/polygon/bnb.svg"
     },
